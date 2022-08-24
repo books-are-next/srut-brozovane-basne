@@ -1,0 +1,1363 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Brožované básně",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Pavel Šrut",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-06-30T00:00:00.000Z",
+    "published": "2021-06-29T05:32:59.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_134.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_135.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_136.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_137.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_138.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_139.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_140.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_141.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_142.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_143.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_144.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_145.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_146.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/brozovane_basne_147.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_brozovane_basne.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "DOMÁCÍ ŘÁD",
+      "children": [
+        {
+          "title": "Zrození básníka: preambule",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "V.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "VI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "VII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "VIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "IX.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "X.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "XI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "XII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "XIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "XIV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "XV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "XVI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "XVII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "XVIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "XIX.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "XX.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "XXI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "XXII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "XXIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "XXIV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "XXV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "XXVI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "XXVII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "XXVIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "XXIX.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "XXX.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "XXXI.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "XXXII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "XXXIII.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "XXXIV.",
+          "href": "OEBPS/Text/brozovane_basne_007.xhtml#_idParaDest-36"
+        }
+      ],
+      "href": "OEBPS/Text/brozovane_basne_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "MALÁ DOMŮ",
+      "children": [
+        {
+          "title": "Konec básníka: preambule",
+          "href": "OEBPS/Text/brozovane_basne_009.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Na druhý den (Eugenu Brikciusovi)",
+          "href": "OEBPS/Text/brozovane_basne_010.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Čas (Antonínu Brouskovi)",
+          "href": "OEBPS/Text/brozovane_basne_011.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Před zrcadlem (Petrákovi Císařovskému, sochaři)",
+          "href": "OEBPS/Text/brozovane_basne_012.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Sýčkování (po setkání s Michalem Černíkem na Národní třídě)",
+          "href": "OEBPS/Text/brozovane_basne_013.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Brainwashing (Ivanu Divišovi)",
+          "href": "OEBPS/Text/brozovane_basne_014.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Slibuji (níže jmenovanému býv. tajemníku bytového družstva Mansarda)",
+          "href": "OEBPS/Text/brozovane_basne_015.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Asanace Žižkova (Janu Hančovi, jeho deníkům)",
+          "href": "OEBPS/Text/brozovane_basne_016.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Lán (Václavu Havlovi)",
+          "href": "OEBPS/Text/brozovane_basne_017.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Mozartiáda v éteru (Janu Hlouškovi zvanému Bonyv nejmenované vinárně)",
+          "href": "OEBPS/Text/brozovane_basne_018.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Nekrolog pro křídlovku (Františku Hrubínovi in memoriam)",
+          "href": "OEBPS/Text/brozovane_basne_019.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Harakiri (Borisi Hybnerovi)",
+          "href": "OEBPS/Text/brozovane_basne_020.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Zvětšenina (Petru Chudožilovovi)",
+          "href": "OEBPS/Text/brozovane_basne_021.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Tak na tvou žádost o sobě (Petru Kabešovi)",
+          "href": "OEBPS/Text/brozovane_basne_022.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Nedokončená (Jaroslavu Kořánovi)",
+          "href": "OEBPS/Text/brozovane_basne_023.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Dialektika konkrétního (muže) (Ireně Kosíkové)",
+          "href": "OEBPS/Text/brozovane_basne_024.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "V půli (Aleši Krejčovi)",
+          "href": "OEBPS/Text/brozovane_basne_025.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Cesta do Ďáblic (Josefu Kroutvorovi)",
+          "href": "OEBPS/Text/brozovane_basne_026.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Jednou jsem vyblejsknul tě v pivoňkách (mamince)",
+          "href": "OEBPS/Text/brozovane_basne_027.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Prostřední ze sester Brontëových píše dopis (Rudolfu Matysovi)",
+          "href": "OEBPS/Text/brozovane_basne_028.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Básník (Oldřichu Mikuláškovi)",
+          "href": "OEBPS/Text/brozovane_basne_029.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Jsi včerejší (citován Jiří Načeradský U Klokoně)",
+          "href": "OEBPS/Text/brozovane_basne_030.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Jsi prázdnem obklopen (Rudovi Němcovi)",
+          "href": "OEBPS/Text/brozovane_basne_031.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "V neděli ráno pivaři přicházejí (tradicionál pro Karla Nepraše)",
+          "href": "OEBPS/Text/brozovane_basne_032.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Žižkovské večery (otci)",
+          "href": "OEBPS/Text/brozovane_basne_033.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Causa mortalis (Jiřímu Pištorovi in memoriam)",
+          "href": "OEBPS/Text/brozovane_basne_034.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Hádání z kávové sedliny a rumu (Tomáši Pěknému)",
+          "href": "OEBPS/Text/brozovane_basne_035.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Básníci, věštci, hadači se propíjejí do tmy (Karolu Sidonovi)",
+          "href": "OEBPS/Text/brozovane_basne_036.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Do lesů (Zbyšku Sionovi)",
+          "href": "OEBPS/Text/brozovane_basne_037.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "Ale co zahrada? (Janu Skácelovi)",
+          "href": "OEBPS/Text/brozovane_basne_038.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "Malá óda na zadovku (Otovi Slavíkovi)",
+          "href": "OEBPS/Text/brozovane_basne_039.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "Nahoře Bůh (citován Jiří Sopko U kotvy)",
+          "href": "OEBPS/Text/brozovane_basne_040.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "Příliš mnoho Jobů a jediný Nikolaj (imitován Nikolaj Stankovič U Svitáků)",
+          "href": "OEBPS/Text/brozovane_basne_041.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "Dvojbáseň pro dvě Amazonky (Janu Steklíkovi)",
+          "href": "OEBPS/Text/brozovane_basne_042.xhtml#_idParaDest-71"
+        },
+        {
+          "title": "Nikotin (Jiřímu Stivínovi)",
+          "href": "OEBPS/Text/brozovane_basne_043.xhtml#_idParaDest-72"
+        },
+        {
+          "title": "Veselice (Karlu Sýsovi)",
+          "href": "OEBPS/Text/brozovane_basne_044.xhtml#_idParaDest-73"
+        },
+        {
+          "title": "Slovo o Pluku pražských dětí (Janu Šafránkovi a kamarádům ve vídeňské emigraci)",
+          "href": "OEBPS/Text/brozovane_basne_045.xhtml#_idParaDest-74"
+        },
+        {
+          "title": "Pražský žalm (Karlu Šiktancovi)",
+          "href": "OEBPS/Text/brozovane_basne_046.xhtml#_idParaDest-75"
+        },
+        {
+          "title": "Socha torza (Antonínu Tomalíkovi in memoriam)",
+          "href": "OEBPS/Text/brozovane_basne_047.xhtml#_idParaDest-76"
+        },
+        {
+          "title": "Mléčná dráha (Miloslavu Topinkovi)",
+          "href": "OEBPS/Text/brozovane_basne_048.xhtml#_idParaDest-77"
+        },
+        {
+          "title": "Na schovávanou (Janu Vodňanskému)",
+          "href": "OEBPS/Text/brozovane_basne_049.xhtml#_idParaDest-78"
+        },
+        {
+          "title": "Žehnám ti proutkaři! (Václavu Vrbovi)",
+          "href": "OEBPS/Text/brozovane_basne_050.xhtml#_idParaDest-79"
+        },
+        {
+          "title": "Nevycházíš (Ivanu Wernischovi)",
+          "href": "OEBPS/Text/brozovane_basne_051.xhtml#_idParaDest-80"
+        },
+        {
+          "title": "Bílé místo (Heleně Wernischové)",
+          "href": "OEBPS/Text/brozovane_basne_052.xhtml#_idParaDest-81"
+        },
+        {
+          "title": "What about Pilsen? (to Paul Wilson)",
+          "href": "OEBPS/Text/brozovane_basne_053.xhtml#_idParaDest-82"
+        },
+        {
+          "title": "Taneční roky pro dospělé (Janu Zábranovi)",
+          "href": "OEBPS/Text/brozovane_basne_054.xhtml#_idParaDest-83"
+        },
+        {
+          "title": "Bůh je (citován střední knírač na Perštýně)",
+          "href": "OEBPS/Text/brozovane_basne_055.xhtml#_idParaDest-84"
+        },
+        {
+          "title": "Epitaf (sobě)",
+          "href": "OEBPS/Text/brozovane_basne_056.xhtml#_idParaDest-85"
+        }
+      ],
+      "href": "OEBPS/Text/brozovane_basne_008.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "SAMOVAR",
+      "children": [
+        {
+          "title": "Český rok",
+          "href": "OEBPS/Text/brozovane_basne_058.xhtml#_idParaDest-87"
+        },
+        {
+          "title": "Pozdní návraty",
+          "href": "OEBPS/Text/brozovane_basne_059.xhtml#_idParaDest-88"
+        },
+        {
+          "title": "Bydlet!",
+          "href": "OEBPS/Text/brozovane_basne_060.xhtml#_idParaDest-89"
+        },
+        {
+          "title": "Žena má obvykle dva prsy",
+          "href": "OEBPS/Text/brozovane_basne_061.xhtml#_idParaDest-90"
+        },
+        {
+          "title": "Tolik mne miluje",
+          "href": "OEBPS/Text/brozovane_basne_062.xhtml#_idParaDest-91"
+        },
+        {
+          "title": "Sníh",
+          "href": "OEBPS/Text/brozovane_basne_063.xhtml#_idParaDest-92"
+        },
+        {
+          "title": "Všelijak",
+          "href": "OEBPS/Text/brozovane_basne_064.xhtml#_idParaDest-93"
+        },
+        {
+          "title": "Sonet o józe",
+          "href": "OEBPS/Text/brozovane_basne_065.xhtml#_idParaDest-94"
+        },
+        {
+          "title": "Co pořád dělám? Ále… (sonet na citát z Tomáše)",
+          "href": "OEBPS/Text/brozovane_basne_066.xhtml#_idParaDest-95"
+        },
+        {
+          "title": "Hlubina bezpečnosti",
+          "href": "OEBPS/Text/brozovane_basne_067.xhtml#_idParaDest-96"
+        },
+        {
+          "title": "Tesknice",
+          "href": "OEBPS/Text/brozovane_basne_068.xhtml#_idParaDest-97"
+        },
+        {
+          "title": "Houpací Trojský kůň I.",
+          "href": "OEBPS/Text/brozovane_basne_069.xhtml#_idParaDest-98"
+        },
+        {
+          "title": "Kmotřička kocovina",
+          "href": "OEBPS/Text/brozovane_basne_070.xhtml#_idParaDest-99"
+        },
+        {
+          "title": "Vězeň v něze",
+          "href": "OEBPS/Text/brozovane_basne_071.xhtml#_idParaDest-100"
+        },
+        {
+          "title": "Černá zabíjačka: 1952",
+          "href": "OEBPS/Text/brozovane_basne_072.xhtml#_idParaDest-101"
+        },
+        {
+          "title": "Požární hlídka: 1954",
+          "href": "OEBPS/Text/brozovane_basne_073.xhtml#_idParaDest-102"
+        },
+        {
+          "title": "Stalinův pomník: momentka z roku 1956",
+          "href": "OEBPS/Text/brozovane_basne_074.xhtml#_idParaDest-103"
+        },
+        {
+          "title": "Rodinná anamnéza (Janu Endrýsovi)",
+          "href": "OEBPS/Text/brozovane_basne_075.xhtml#_idParaDest-104"
+        },
+        {
+          "title": "U odvodu",
+          "href": "OEBPS/Text/brozovane_basne_076.xhtml#_idParaDest-105"
+        },
+        {
+          "title": "Bílá hodinka",
+          "href": "OEBPS/Text/brozovane_basne_077.xhtml#_idParaDest-106"
+        },
+        {
+          "title": "Dechová cvičení",
+          "href": "OEBPS/Text/brozovane_basne_078.xhtml#_idParaDest-107"
+        },
+        {
+          "title": "Samovar",
+          "href": "OEBPS/Text/brozovane_basne_079.xhtml#_idParaDest-108"
+        },
+        {
+          "title": "Celé dny prší",
+          "href": "OEBPS/Text/brozovane_basne_080.xhtml#_idParaDest-109"
+        },
+        {
+          "title": "Bázeň",
+          "href": "OEBPS/Text/brozovane_basne_081.xhtml#_idParaDest-110"
+        },
+        {
+          "title": "Nárok na azyl",
+          "href": "OEBPS/Text/brozovane_basne_082.xhtml#_idParaDest-111"
+        },
+        {
+          "title": "Dvojník",
+          "href": "OEBPS/Text/brozovane_basne_083.xhtml#_idParaDest-112"
+        },
+        {
+          "title": "Levitace",
+          "href": "OEBPS/Text/brozovane_basne_084.xhtml#_idParaDest-113"
+        },
+        {
+          "title": "A vy si nepoložíte otázku",
+          "href": "OEBPS/Text/brozovane_basne_085.xhtml#_idParaDest-114"
+        },
+        {
+          "title": "Stará písnička: gellneriana",
+          "href": "OEBPS/Text/brozovane_basne_086.xhtml#_idParaDest-115"
+        },
+        {
+          "title": "Golemův zákon",
+          "href": "OEBPS/Text/brozovane_basne_087.xhtml#_idParaDest-116"
+        },
+        {
+          "title": "Archimedův zákon",
+          "href": "OEBPS/Text/brozovane_basne_088.xhtml#_idParaDest-117"
+        },
+        {
+          "title": "Na útěku",
+          "href": "OEBPS/Text/brozovane_basne_089.xhtml#_idParaDest-118"
+        },
+        {
+          "title": "Houpací Trojský kůň II.",
+          "href": "OEBPS/Text/brozovane_basne_090.xhtml#_idParaDest-119"
+        },
+        {
+          "title": "P. S.",
+          "href": "OEBPS/Text/brozovane_basne_091.xhtml#_idParaDest-120"
+        },
+        {
+          "title": "Pes jitrničku sežral",
+          "href": "OEBPS/Text/brozovane_basne_092.xhtml#_idParaDest-121"
+        },
+        {
+          "title": "Budoucnost (Vítovi)",
+          "href": "OEBPS/Text/brozovane_basne_093.xhtml#_idParaDest-122"
+        },
+        {
+          "title": "Adamova žena",
+          "href": "OEBPS/Text/brozovane_basne_094.xhtml#_idParaDest-123"
+        },
+        {
+          "title": "Sisyfova žena (Janovi a Božence Skácelovým)",
+          "href": "OEBPS/Text/brozovane_basne_095.xhtml#_idParaDest-124"
+        },
+        {
+          "title": "Démosthenova žena mluví v zlosti",
+          "href": "OEBPS/Text/brozovane_basne_096.xhtml#_idParaDest-125"
+        },
+        {
+          "title": "Homérova žena si stýská",
+          "href": "OEBPS/Text/brozovane_basne_097.xhtml#_idParaDest-126"
+        },
+        {
+          "title": "Studiosa Fausta bytná se podivuje",
+          "href": "OEBPS/Text/brozovane_basne_098.xhtml#_idParaDest-127"
+        },
+        {
+          "title": "Galileova žena",
+          "href": "OEBPS/Text/brozovane_basne_099.xhtml#_idParaDest-128"
+        },
+        {
+          "title": "Casanovova v Duchcově utajená žena",
+          "href": "OEBPS/Text/brozovane_basne_100.xhtml#_idParaDest-129"
+        },
+        {
+          "title": "Silvestrovská 1980",
+          "href": "OEBPS/Text/brozovane_basne_101.xhtml#_idParaDest-130"
+        },
+        {
+          "title": "Hry o život (po přečtení stejnojmenného spisku dr. Jitky Schánilcové)",
+          "href": "OEBPS/Text/brozovane_basne_102.xhtml#_idParaDest-131"
+        },
+        {
+          "title": "Že",
+          "href": "OEBPS/Text/brozovane_basne_103.xhtml#_idParaDest-132"
+        },
+        {
+          "title": "Dynastie Že",
+          "href": "OEBPS/Text/brozovane_basne_104.xhtml#_idParaDest-133"
+        },
+        {
+          "title": "Krysař",
+          "href": "OEBPS/Text/brozovane_basne_105.xhtml#_idParaDest-134"
+        },
+        {
+          "title": "Faustovo pozdní odpoledne",
+          "href": "OEBPS/Text/brozovane_basne_106.xhtml#_idParaDest-135"
+        },
+        {
+          "title": "Před usnutím",
+          "href": "OEBPS/Text/brozovane_basne_107.xhtml#_idParaDest-136"
+        },
+        {
+          "title": "Samizdat",
+          "href": "OEBPS/Text/brozovane_basne_108.xhtml#_idParaDest-137"
+        },
+        {
+          "title": "Starý povzdech",
+          "href": "OEBPS/Text/brozovane_basne_109.xhtml#_idParaDest-138"
+        },
+        {
+          "title": "Tělo",
+          "href": "OEBPS/Text/brozovane_basne_110.xhtml#_idParaDest-139"
+        },
+        {
+          "title": "Všude dobře",
+          "href": "OEBPS/Text/brozovane_basne_111.xhtml#_idParaDest-140"
+        },
+        {
+          "title": "Milostná noc",
+          "href": "OEBPS/Text/brozovane_basne_112.xhtml#_idParaDest-141"
+        },
+        {
+          "title": "Diagnóza",
+          "href": "OEBPS/Text/brozovane_basne_113.xhtml#_idParaDest-142"
+        },
+        {
+          "title": "Abstinenční příznaky",
+          "href": "OEBPS/Text/brozovane_basne_114.xhtml#_idParaDest-143"
+        },
+        {
+          "title": "Svobodné povolání",
+          "href": "OEBPS/Text/brozovane_basne_115.xhtml#_idParaDest-144"
+        },
+        {
+          "title": "V domácnosti",
+          "href": "OEBPS/Text/brozovane_basne_116.xhtml#_idParaDest-145"
+        },
+        {
+          "title": "Míjení",
+          "href": "OEBPS/Text/brozovane_basne_117.xhtml#_idParaDest-146"
+        },
+        {
+          "title": "Agent 007",
+          "href": "OEBPS/Text/brozovane_basne_118.xhtml#_idParaDest-147"
+        },
+        {
+          "title": "Což",
+          "href": "OEBPS/Text/brozovane_basne_119.xhtml#_idParaDest-148"
+        },
+        {
+          "title": "Vesmír je konečný v mém čase",
+          "href": "OEBPS/Text/brozovane_basne_120.xhtml#_idParaDest-149"
+        },
+        {
+          "title": "Zavírací hodina",
+          "href": "OEBPS/Text/brozovane_basne_121.xhtml#_idParaDest-150"
+        },
+        {
+          "title": "Hostitel",
+          "href": "OEBPS/Text/brozovane_basne_122.xhtml#_idParaDest-151"
+        },
+        {
+          "title": "Kentaur",
+          "href": "OEBPS/Text/brozovane_basne_123.xhtml#_idParaDest-152"
+        },
+        {
+          "title": "Domů",
+          "href": "OEBPS/Text/brozovane_basne_124.xhtml#_idParaDest-153"
+        },
+        {
+          "title": "Citát z médi Bédi",
+          "href": "OEBPS/Text/brozovane_basne_125.xhtml#_idParaDest-154"
+        },
+        {
+          "title": "Velká doba, malá potřeba",
+          "href": "OEBPS/Text/brozovane_basne_126.xhtml#_idParaDest-155"
+        },
+        {
+          "title": "Ti dva",
+          "href": "OEBPS/Text/brozovane_basne_127.xhtml#_idParaDest-156"
+        },
+        {
+          "title": "Po dalším pohřbu",
+          "href": "OEBPS/Text/brozovane_basne_128.xhtml#_idParaDest-157"
+        },
+        {
+          "title": "Jaro s rozpomínkou na T. S. Eliota",
+          "href": "OEBPS/Text/brozovane_basne_129.xhtml#_idParaDest-158"
+        },
+        {
+          "title": "Ráno",
+          "href": "OEBPS/Text/brozovane_basne_130.xhtml#_idParaDest-159"
+        },
+        {
+          "title": "Brnkání na brdo",
+          "href": "OEBPS/Text/brozovane_basne_131.xhtml#_idParaDest-160"
+        },
+        {
+          "title": "Ztracené básně, ztracení lidé",
+          "href": "OEBPS/Text/brozovane_basne_132.xhtml#_idParaDest-161"
+        },
+        {
+          "title": "Kde je víra?",
+          "href": "OEBPS/Text/brozovane_basne_133.xhtml#_idParaDest-162"
+        },
+        {
+          "title": "Milostná",
+          "href": "OEBPS/Text/brozovane_basne_134.xhtml#_idParaDest-163"
+        },
+        {
+          "title": "Tělesná láska",
+          "href": "OEBPS/Text/brozovane_basne_135.xhtml#_idParaDest-164"
+        },
+        {
+          "title": "Třikrát o ňadrech aneb Pořádná báseň se musí skládat do komínku",
+          "href": "OEBPS/Text/brozovane_basne_136.xhtml#_idParaDest-165"
+        },
+        {
+          "title": "Mlha je mlha je mlha",
+          "children": [
+            {
+              "title": "1.",
+              "href": "OEBPS/Text/brozovane_basne_137.xhtml#_idParaDest-167"
+            },
+            {
+              "title": "2.",
+              "href": "OEBPS/Text/brozovane_basne_137.xhtml#_idParaDest-168"
+            },
+            {
+              "title": "3.",
+              "href": "OEBPS/Text/brozovane_basne_137.xhtml#_idParaDest-169"
+            }
+          ],
+          "href": "OEBPS/Text/brozovane_basne_137.xhtml#_idParaDest-166"
+        },
+        {
+          "title": "Sýčkování",
+          "href": "OEBPS/Text/brozovane_basne_138.xhtml#_idParaDest-170"
+        },
+        {
+          "title": "Chvála čtyřtaktního těla",
+          "href": "OEBPS/Text/brozovane_basne_139.xhtml#_idParaDest-171"
+        },
+        {
+          "title": "Kámasútra",
+          "href": "OEBPS/Text/brozovane_basne_140.xhtml#_idParaDest-172"
+        },
+        {
+          "title": "O jednom emigrantovi",
+          "href": "OEBPS/Text/brozovane_basne_141.xhtml#_idParaDest-173"
+        },
+        {
+          "title": "O mladičkém posunovači",
+          "href": "OEBPS/Text/brozovane_basne_142.xhtml#_idParaDest-174"
+        },
+        {
+          "title": "O mladičké přadleně (Janu Zábranovi)",
+          "href": "OEBPS/Text/brozovane_basne_143.xhtml#_idParaDest-175"
+        },
+        {
+          "title": "Beerspective (Janu Lopatkovi)",
+          "href": "OEBPS/Text/brozovane_basne_144.xhtml#_idParaDest-176"
+        },
+        {
+          "title": "Laskavá normalizace (Blance)",
+          "href": "OEBPS/Text/brozovane_basne_145.xhtml#_idParaDest-177"
+        }
+      ],
+      "href": "OEBPS/Text/brozovane_basne_057.xhtml#_idParaDest-86"
+    },
+    {
+      "title": "Zlomek rekonstrukce doslovu",
+      "href": "OEBPS/Text/brozovane_basne_005.xhtml#_idParaDest-178"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/brozovane_basne_146.xhtml#_idParaDest-179"
+    }
+  ]
+}

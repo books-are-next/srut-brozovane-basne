@@ -1,0 +1,2631 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Brožované básně",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-06-30T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "brozovane_basne_001.md",
+            "xhtml": "brozovane_basne_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_002.md",
+            "xhtml": "brozovane_basne_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_003.md",
+            "xhtml": "brozovane_basne_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_004.md",
+            "xhtml": "brozovane_basne_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_005.md",
+            "xhtml": "brozovane_basne_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_006.md",
+            "xhtml": "brozovane_basne_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_007.md",
+            "xhtml": "brozovane_basne_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_008.md",
+            "xhtml": "brozovane_basne_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_009.md",
+            "xhtml": "brozovane_basne_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_010.md",
+            "xhtml": "brozovane_basne_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_011.md",
+            "xhtml": "brozovane_basne_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_012.md",
+            "xhtml": "brozovane_basne_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_013.md",
+            "xhtml": "brozovane_basne_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_014.md",
+            "xhtml": "brozovane_basne_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_015.md",
+            "xhtml": "brozovane_basne_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_016.md",
+            "xhtml": "brozovane_basne_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_017.md",
+            "xhtml": "brozovane_basne_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_018.md",
+            "xhtml": "brozovane_basne_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_019.md",
+            "xhtml": "brozovane_basne_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_020.md",
+            "xhtml": "brozovane_basne_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_021.md",
+            "xhtml": "brozovane_basne_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_022.md",
+            "xhtml": "brozovane_basne_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_023.md",
+            "xhtml": "brozovane_basne_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_024.md",
+            "xhtml": "brozovane_basne_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_025.md",
+            "xhtml": "brozovane_basne_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_026.md",
+            "xhtml": "brozovane_basne_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_027.md",
+            "xhtml": "brozovane_basne_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_028.md",
+            "xhtml": "brozovane_basne_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_029.md",
+            "xhtml": "brozovane_basne_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_030.md",
+            "xhtml": "brozovane_basne_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_031.md",
+            "xhtml": "brozovane_basne_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_032.md",
+            "xhtml": "brozovane_basne_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_033.md",
+            "xhtml": "brozovane_basne_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_034.md",
+            "xhtml": "brozovane_basne_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_035.md",
+            "xhtml": "brozovane_basne_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_036.md",
+            "xhtml": "brozovane_basne_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_037.md",
+            "xhtml": "brozovane_basne_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_038.md",
+            "xhtml": "brozovane_basne_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_039.md",
+            "xhtml": "brozovane_basne_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_040.md",
+            "xhtml": "brozovane_basne_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_041.md",
+            "xhtml": "brozovane_basne_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_042.md",
+            "xhtml": "brozovane_basne_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_043.md",
+            "xhtml": "brozovane_basne_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_044.md",
+            "xhtml": "brozovane_basne_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_045.md",
+            "xhtml": "brozovane_basne_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_046.md",
+            "xhtml": "brozovane_basne_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_047.md",
+            "xhtml": "brozovane_basne_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_048.md",
+            "xhtml": "brozovane_basne_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_049.md",
+            "xhtml": "brozovane_basne_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_050.md",
+            "xhtml": "brozovane_basne_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_051.md",
+            "xhtml": "brozovane_basne_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_052.md",
+            "xhtml": "brozovane_basne_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_053.md",
+            "xhtml": "brozovane_basne_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_054.md",
+            "xhtml": "brozovane_basne_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_055.md",
+            "xhtml": "brozovane_basne_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_056.md",
+            "xhtml": "brozovane_basne_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_057.md",
+            "xhtml": "brozovane_basne_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_058.md",
+            "xhtml": "brozovane_basne_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_059.md",
+            "xhtml": "brozovane_basne_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_060.md",
+            "xhtml": "brozovane_basne_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_061.md",
+            "xhtml": "brozovane_basne_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_062.md",
+            "xhtml": "brozovane_basne_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_063.md",
+            "xhtml": "brozovane_basne_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_064.md",
+            "xhtml": "brozovane_basne_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_065.md",
+            "xhtml": "brozovane_basne_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_066.md",
+            "xhtml": "brozovane_basne_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_067.md",
+            "xhtml": "brozovane_basne_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_068.md",
+            "xhtml": "brozovane_basne_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_069.md",
+            "xhtml": "brozovane_basne_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_070.md",
+            "xhtml": "brozovane_basne_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_071.md",
+            "xhtml": "brozovane_basne_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_072.md",
+            "xhtml": "brozovane_basne_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_073.md",
+            "xhtml": "brozovane_basne_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_074.md",
+            "xhtml": "brozovane_basne_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_075.md",
+            "xhtml": "brozovane_basne_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_076.md",
+            "xhtml": "brozovane_basne_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_077.md",
+            "xhtml": "brozovane_basne_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_078.md",
+            "xhtml": "brozovane_basne_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_079.md",
+            "xhtml": "brozovane_basne_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_080.md",
+            "xhtml": "brozovane_basne_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_081.md",
+            "xhtml": "brozovane_basne_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_082.md",
+            "xhtml": "brozovane_basne_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_083.md",
+            "xhtml": "brozovane_basne_083.xhtml",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_084.md",
+            "xhtml": "brozovane_basne_084.xhtml",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_085.md",
+            "xhtml": "brozovane_basne_085.xhtml",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_086.md",
+            "xhtml": "brozovane_basne_086.xhtml",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_087.md",
+            "xhtml": "brozovane_basne_087.xhtml",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_088.md",
+            "xhtml": "brozovane_basne_088.xhtml",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_089.md",
+            "xhtml": "brozovane_basne_089.xhtml",
+            "id": 88,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_090.md",
+            "xhtml": "brozovane_basne_090.xhtml",
+            "id": 89,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_091.md",
+            "xhtml": "brozovane_basne_091.xhtml",
+            "id": 90,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_092.md",
+            "xhtml": "brozovane_basne_092.xhtml",
+            "id": 91,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_093.md",
+            "xhtml": "brozovane_basne_093.xhtml",
+            "id": 92,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_094.md",
+            "xhtml": "brozovane_basne_094.xhtml",
+            "id": 93,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_095.md",
+            "xhtml": "brozovane_basne_095.xhtml",
+            "id": 94,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_096.md",
+            "xhtml": "brozovane_basne_096.xhtml",
+            "id": 95,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_097.md",
+            "xhtml": "brozovane_basne_097.xhtml",
+            "id": 96,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_098.md",
+            "xhtml": "brozovane_basne_098.xhtml",
+            "id": 97,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_099.md",
+            "xhtml": "brozovane_basne_099.xhtml",
+            "id": 98,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_100.md",
+            "xhtml": "brozovane_basne_100.xhtml",
+            "id": 99,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_101.md",
+            "xhtml": "brozovane_basne_101.xhtml",
+            "id": 100,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_102.md",
+            "xhtml": "brozovane_basne_102.xhtml",
+            "id": 101,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_103.md",
+            "xhtml": "brozovane_basne_103.xhtml",
+            "id": 102,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_104.md",
+            "xhtml": "brozovane_basne_104.xhtml",
+            "id": 103,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_105.md",
+            "xhtml": "brozovane_basne_105.xhtml",
+            "id": 104,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_106.md",
+            "xhtml": "brozovane_basne_106.xhtml",
+            "id": 105,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_107.md",
+            "xhtml": "brozovane_basne_107.xhtml",
+            "id": 106,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_108.md",
+            "xhtml": "brozovane_basne_108.xhtml",
+            "id": 107,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_109.md",
+            "xhtml": "brozovane_basne_109.xhtml",
+            "id": 108,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_110.md",
+            "xhtml": "brozovane_basne_110.xhtml",
+            "id": 109,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_111.md",
+            "xhtml": "brozovane_basne_111.xhtml",
+            "id": 110,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_112.md",
+            "xhtml": "brozovane_basne_112.xhtml",
+            "id": 111,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_113.md",
+            "xhtml": "brozovane_basne_113.xhtml",
+            "id": 112,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_114.md",
+            "xhtml": "brozovane_basne_114.xhtml",
+            "id": 113,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_115.md",
+            "xhtml": "brozovane_basne_115.xhtml",
+            "id": 114,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_116.md",
+            "xhtml": "brozovane_basne_116.xhtml",
+            "id": 115,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_117.md",
+            "xhtml": "brozovane_basne_117.xhtml",
+            "id": 116,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_118.md",
+            "xhtml": "brozovane_basne_118.xhtml",
+            "id": 117,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_119.md",
+            "xhtml": "brozovane_basne_119.xhtml",
+            "id": 118,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_120.md",
+            "xhtml": "brozovane_basne_120.xhtml",
+            "id": 119,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_121.md",
+            "xhtml": "brozovane_basne_121.xhtml",
+            "id": 120,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_122.md",
+            "xhtml": "brozovane_basne_122.xhtml",
+            "id": 121,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_123.md",
+            "xhtml": "brozovane_basne_123.xhtml",
+            "id": 122,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_124.md",
+            "xhtml": "brozovane_basne_124.xhtml",
+            "id": 123,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_125.md",
+            "xhtml": "brozovane_basne_125.xhtml",
+            "id": 124,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_126.md",
+            "xhtml": "brozovane_basne_126.xhtml",
+            "id": 125,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_127.md",
+            "xhtml": "brozovane_basne_127.xhtml",
+            "id": 126,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_128.md",
+            "xhtml": "brozovane_basne_128.xhtml",
+            "id": 127,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_129.md",
+            "xhtml": "brozovane_basne_129.xhtml",
+            "id": 128,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_130.md",
+            "xhtml": "brozovane_basne_130.xhtml",
+            "id": 129,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_131.md",
+            "xhtml": "brozovane_basne_131.xhtml",
+            "id": 130,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_132.md",
+            "xhtml": "brozovane_basne_132.xhtml",
+            "id": 131,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_133.md",
+            "xhtml": "brozovane_basne_133.xhtml",
+            "id": 132,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_134.md",
+            "xhtml": "brozovane_basne_134.xhtml",
+            "id": 133,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_135.md",
+            "xhtml": "brozovane_basne_135.xhtml",
+            "id": 134,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_136.md",
+            "xhtml": "brozovane_basne_136.xhtml",
+            "id": 135,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_137.md",
+            "xhtml": "brozovane_basne_137.xhtml",
+            "id": 136,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_138.md",
+            "xhtml": "brozovane_basne_138.xhtml",
+            "id": 137,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_139.md",
+            "xhtml": "brozovane_basne_139.xhtml",
+            "id": 138,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_140.md",
+            "xhtml": "brozovane_basne_140.xhtml",
+            "id": 139,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_141.md",
+            "xhtml": "brozovane_basne_141.xhtml",
+            "id": 140,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_142.md",
+            "xhtml": "brozovane_basne_142.xhtml",
+            "id": 141,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_143.md",
+            "xhtml": "brozovane_basne_143.xhtml",
+            "id": 142,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_144.md",
+            "xhtml": "brozovane_basne_144.xhtml",
+            "id": 143,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_145.md",
+            "xhtml": "brozovane_basne_145.xhtml",
+            "id": 144,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_146.md",
+            "xhtml": "brozovane_basne_146.xhtml",
+            "id": 145,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "brozovane_basne_147.md",
+            "xhtml": "brozovane_basne_147.xhtml",
+            "id": 146,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Brožované básně",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-06-30T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_001.md",
+        "xhtml": "brozovane_basne_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_002.md",
+        "xhtml": "brozovane_basne_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_003.md",
+        "xhtml": "brozovane_basne_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_004.md",
+        "xhtml": "brozovane_basne_004.xhtml"
+      },
+      {
+        "titleSuggest": "Zlomek rekonstrukce doslovu",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_005.md",
+        "xhtml": "brozovane_basne_005.xhtml"
+      },
+      {
+        "titleSuggest": "DOMÁCÍ ŘÁD ",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_006.md",
+        "xhtml": "brozovane_basne_006.xhtml"
+      },
+      {
+        "titleSuggest": "Zrození básníka:preambule",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_007.md",
+        "xhtml": "brozovane_basne_007.xhtml"
+      },
+      {
+        "titleSuggest": "MALÁ DOMŮ",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_008.md",
+        "xhtml": "brozovane_basne_008.xhtml"
+      },
+      {
+        "titleSuggest": "Konec básníka: preambule",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_009.md",
+        "xhtml": "brozovane_basne_009.xhtml"
+      },
+      {
+        "titleSuggest": "Na druhý den(Eugenu Brikciusovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_010.md",
+        "xhtml": "brozovane_basne_010.xhtml"
+      },
+      {
+        "titleSuggest": "Čas(Antonínu Brouskovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_011.md",
+        "xhtml": "brozovane_basne_011.xhtml"
+      },
+      {
+        "titleSuggest": "Před zrcadlem(Petrákovi Císařovskému, sochaři)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_012.md",
+        "xhtml": "brozovane_basne_012.xhtml"
+      },
+      {
+        "titleSuggest": "Sýčkování(po setkání s Michalem Černíkem na Národní třídě)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_013.md",
+        "xhtml": "brozovane_basne_013.xhtml"
+      },
+      {
+        "titleSuggest": "Brainwashing(Ivanu Divišovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_014.md",
+        "xhtml": "brozovane_basne_014.xhtml"
+      },
+      {
+        "titleSuggest": "Slibuji(níže jmenovanému býv\\. tajemníkubytového družstva Mansarda)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_015.md",
+        "xhtml": "brozovane_basne_015.xhtml"
+      },
+      {
+        "titleSuggest": "Asanace Žižkova(Janu Hančovi, jeho deníkům)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_016.md",
+        "xhtml": "brozovane_basne_016.xhtml"
+      },
+      {
+        "titleSuggest": "Lán(Václavu Havlovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_017.md",
+        "xhtml": "brozovane_basne_017.xhtml"
+      },
+      {
+        "titleSuggest": "Mozartiáda v éteru(Janu Hlouškovi zvanému Bonyv nejmenované vinárně)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_018.md",
+        "xhtml": "brozovane_basne_018.xhtml"
+      },
+      {
+        "titleSuggest": "Nekrolog pro křídlovku(Františku Hrubínovi in memoriam)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_019.md",
+        "xhtml": "brozovane_basne_019.xhtml"
+      },
+      {
+        "titleSuggest": "Harakiri(Borisi Hybnerovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_020.md",
+        "xhtml": "brozovane_basne_020.xhtml"
+      },
+      {
+        "titleSuggest": "Zvětšenina(Petru Chudožilovovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_021.md",
+        "xhtml": "brozovane_basne_021.xhtml"
+      },
+      {
+        "titleSuggest": "Tak na tvou žádost o sobě(Petru Kabešovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_022.md",
+        "xhtml": "brozovane_basne_022.xhtml"
+      },
+      {
+        "titleSuggest": "Nedokončená(Jaroslavu Kořánovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_023.md",
+        "xhtml": "brozovane_basne_023.xhtml"
+      },
+      {
+        "titleSuggest": "Dialektika konkrétního (muže)(Ireně Kosíkové)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_024.md",
+        "xhtml": "brozovane_basne_024.xhtml"
+      },
+      {
+        "titleSuggest": "V půli(Aleši Krejčovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_025.md",
+        "xhtml": "brozovane_basne_025.xhtml"
+      },
+      {
+        "titleSuggest": "Cesta do Ďáblic(Josefu Kroutvorovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_026.md",
+        "xhtml": "brozovane_basne_026.xhtml"
+      },
+      {
+        "titleSuggest": "Jednou jsem vyblejsknul tě v pivoňkách(mamince)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_027.md",
+        "xhtml": "brozovane_basne_027.xhtml"
+      },
+      {
+        "titleSuggest": "Prostřední ze sesterBrontëových píše dopis(Rudolfu Matysovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_028.md",
+        "xhtml": "brozovane_basne_028.xhtml"
+      },
+      {
+        "titleSuggest": "Básník(Oldřichu Mikuláškovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_029.md",
+        "xhtml": "brozovane_basne_029.xhtml"
+      },
+      {
+        "titleSuggest": "Jsi včerejší(citován Jiří Načeradský U Klokoně)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_030.md",
+        "xhtml": "brozovane_basne_030.xhtml"
+      },
+      {
+        "titleSuggest": "Jsi prázdnem obklopen(Rudovi Němcovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_031.md",
+        "xhtml": "brozovane_basne_031.xhtml"
+      },
+      {
+        "titleSuggest": "V neděli ránopivaři přicházejí(tradicionál pro Karla Nepraše)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_032.md",
+        "xhtml": "brozovane_basne_032.xhtml"
+      },
+      {
+        "titleSuggest": "Žižkovské večery(otci)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_033.md",
+        "xhtml": "brozovane_basne_033.xhtml"
+      },
+      {
+        "titleSuggest": "Causa mortalis(Jiřímu Pištorovi in memoriam)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_034.md",
+        "xhtml": "brozovane_basne_034.xhtml"
+      },
+      {
+        "titleSuggest": "Hádání z kávovésedliny a rumu(Tomáši Pěknému)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_035.md",
+        "xhtml": "brozovane_basne_035.xhtml"
+      },
+      {
+        "titleSuggest": "Básníci, věštci, hadačise propíjejí do tmy(Karolu Sidonovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_036.md",
+        "xhtml": "brozovane_basne_036.xhtml"
+      },
+      {
+        "titleSuggest": "Do lesů(Zbyšku Sionovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_037.md",
+        "xhtml": "brozovane_basne_037.xhtml"
+      },
+      {
+        "titleSuggest": "Ale co zahrada?(Janu Skácelovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_038.md",
+        "xhtml": "brozovane_basne_038.xhtml"
+      },
+      {
+        "titleSuggest": "Malá óda na zadovku(Otovi Slavíkovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_039.md",
+        "xhtml": "brozovane_basne_039.xhtml"
+      },
+      {
+        "titleSuggest": "Nahoře Bůh(citován Jiří Sopko U kotvy)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_040.md",
+        "xhtml": "brozovane_basne_040.xhtml"
+      },
+      {
+        "titleSuggest": "Příliš mnoho Jobůa jediný Nikolaj(imitován Nikolaj Stankovič U Svitáků)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_041.md",
+        "xhtml": "brozovane_basne_041.xhtml"
+      },
+      {
+        "titleSuggest": "Dvojbáseň pro dvě Amazonky(Janu Steklíkovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_042.md",
+        "xhtml": "brozovane_basne_042.xhtml"
+      },
+      {
+        "titleSuggest": "Nikotin(Jiřímu Stivínovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_043.md",
+        "xhtml": "brozovane_basne_043.xhtml"
+      },
+      {
+        "titleSuggest": "Veselice(Karlu Sýsovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_044.md",
+        "xhtml": "brozovane_basne_044.xhtml"
+      },
+      {
+        "titleSuggest": "Slovo o Pluku pražských dětí(Janu Šafránkovi a kamarádům ve vídeňské emigraci)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_045.md",
+        "xhtml": "brozovane_basne_045.xhtml"
+      },
+      {
+        "titleSuggest": "Pražský žalm(Karlu Šiktancovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_046.md",
+        "xhtml": "brozovane_basne_046.xhtml"
+      },
+      {
+        "titleSuggest": "Socha torza(Antonínu Tomalíkovi in memoriam)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_047.md",
+        "xhtml": "brozovane_basne_047.xhtml"
+      },
+      {
+        "titleSuggest": "Mléčná dráha(Miloslavu Topinkovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_048.md",
+        "xhtml": "brozovane_basne_048.xhtml"
+      },
+      {
+        "titleSuggest": "Na schovávanou(Janu Vodňanskému)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_049.md",
+        "xhtml": "brozovane_basne_049.xhtml"
+      },
+      {
+        "titleSuggest": "Žehnám ti proutkaři!(Václavu Vrbovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_050.md",
+        "xhtml": "brozovane_basne_050.xhtml"
+      },
+      {
+        "titleSuggest": "Nevycházíš(Ivanu Wernischovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_051.md",
+        "xhtml": "brozovane_basne_051.xhtml"
+      },
+      {
+        "titleSuggest": "Bílé místo(Heleně Wernischové)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_052.md",
+        "xhtml": "brozovane_basne_052.xhtml"
+      },
+      {
+        "titleSuggest": "What about Pilsen?(to Paul Wilson)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_053.md",
+        "xhtml": "brozovane_basne_053.xhtml"
+      },
+      {
+        "titleSuggest": "Taneční roky pro dospělé(Janu Zábranovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_054.md",
+        "xhtml": "brozovane_basne_054.xhtml"
+      },
+      {
+        "titleSuggest": "Bůh je(citován střední knírač na Perštýně)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_055.md",
+        "xhtml": "brozovane_basne_055.xhtml"
+      },
+      {
+        "titleSuggest": "Epitaf(sobě)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_056.md",
+        "xhtml": "brozovane_basne_056.xhtml"
+      },
+      {
+        "titleSuggest": "SAMOVAR",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_057.md",
+        "xhtml": "brozovane_basne_057.xhtml"
+      },
+      {
+        "titleSuggest": "Český rok",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_058.md",
+        "xhtml": "brozovane_basne_058.xhtml"
+      },
+      {
+        "titleSuggest": "Pozdní návraty",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_059.md",
+        "xhtml": "brozovane_basne_059.xhtml"
+      },
+      {
+        "titleSuggest": "Bydlet!",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_060.md",
+        "xhtml": "brozovane_basne_060.xhtml"
+      },
+      {
+        "titleSuggest": "Žena má obvykle dva prsy",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_061.md",
+        "xhtml": "brozovane_basne_061.xhtml"
+      },
+      {
+        "titleSuggest": "Tolik mne miluje",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_062.md",
+        "xhtml": "brozovane_basne_062.xhtml"
+      },
+      {
+        "titleSuggest": "Sníh",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_063.md",
+        "xhtml": "brozovane_basne_063.xhtml"
+      },
+      {
+        "titleSuggest": "Všelijak",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_064.md",
+        "xhtml": "brozovane_basne_064.xhtml"
+      },
+      {
+        "titleSuggest": "Sonet o józe",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_065.md",
+        "xhtml": "brozovane_basne_065.xhtml"
+      },
+      {
+        "titleSuggest": "Co pořád dělám? Ále…(sonet na citát z Tomáše)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_066.md",
+        "xhtml": "brozovane_basne_066.xhtml"
+      },
+      {
+        "titleSuggest": "Hlubina bezpečnosti",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_067.md",
+        "xhtml": "brozovane_basne_067.xhtml"
+      },
+      {
+        "titleSuggest": "Tesknice",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_068.md",
+        "xhtml": "brozovane_basne_068.xhtml"
+      },
+      {
+        "titleSuggest": "Houpací Trojský kůň I\\.",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_069.md",
+        "xhtml": "brozovane_basne_069.xhtml"
+      },
+      {
+        "titleSuggest": "Kmotřička kocovina",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_070.md",
+        "xhtml": "brozovane_basne_070.xhtml"
+      },
+      {
+        "titleSuggest": "Vězeň v něze",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_071.md",
+        "xhtml": "brozovane_basne_071.xhtml"
+      },
+      {
+        "titleSuggest": "Černá zabíjačka:1952",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_072.md",
+        "xhtml": "brozovane_basne_072.xhtml"
+      },
+      {
+        "titleSuggest": "Požární hlídka: 1954",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_073.md",
+        "xhtml": "brozovane_basne_073.xhtml"
+      },
+      {
+        "titleSuggest": "Stalinův pomník:momentka z roku 1956",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_074.md",
+        "xhtml": "brozovane_basne_074.xhtml"
+      },
+      {
+        "titleSuggest": "Rodinná anamnéza(Janu Endrýsovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_075.md",
+        "xhtml": "brozovane_basne_075.xhtml"
+      },
+      {
+        "titleSuggest": "U odvodu",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_076.md",
+        "xhtml": "brozovane_basne_076.xhtml"
+      },
+      {
+        "titleSuggest": "Bílá hodinka",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_077.md",
+        "xhtml": "brozovane_basne_077.xhtml"
+      },
+      {
+        "titleSuggest": "Dechová cvičení",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_078.md",
+        "xhtml": "brozovane_basne_078.xhtml"
+      },
+      {
+        "titleSuggest": "Samovar",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_079.md",
+        "xhtml": "brozovane_basne_079.xhtml"
+      },
+      {
+        "titleSuggest": "Celé dny prší",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_080.md",
+        "xhtml": "brozovane_basne_080.xhtml"
+      },
+      {
+        "titleSuggest": "Bázeň",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_081.md",
+        "xhtml": "brozovane_basne_081.xhtml"
+      },
+      {
+        "titleSuggest": "Nárok na azyl",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_082.md",
+        "xhtml": "brozovane_basne_082.xhtml"
+      },
+      {
+        "titleSuggest": "Dvojník",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_083.md",
+        "xhtml": "brozovane_basne_083.xhtml"
+      },
+      {
+        "titleSuggest": "Levitace",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_084.md",
+        "xhtml": "brozovane_basne_084.xhtml"
+      },
+      {
+        "titleSuggest": "A vy si nepoložíte otázku",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_085.md",
+        "xhtml": "brozovane_basne_085.xhtml"
+      },
+      {
+        "titleSuggest": "Stará písnička:gellneriana",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_086.md",
+        "xhtml": "brozovane_basne_086.xhtml"
+      },
+      {
+        "titleSuggest": "Golemův zákon",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_087.md",
+        "xhtml": "brozovane_basne_087.xhtml"
+      },
+      {
+        "titleSuggest": "Archimedův zákon",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_088.md",
+        "xhtml": "brozovane_basne_088.xhtml"
+      },
+      {
+        "titleSuggest": "Na útěku",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_089.md",
+        "xhtml": "brozovane_basne_089.xhtml"
+      },
+      {
+        "titleSuggest": "Houpací Trojský kůň II\\.",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_090.md",
+        "xhtml": "brozovane_basne_090.xhtml"
+      },
+      {
+        "titleSuggest": "P\\. S\\.",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_091.md",
+        "xhtml": "brozovane_basne_091.xhtml"
+      },
+      {
+        "titleSuggest": "Pes jitrničku sežral",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_092.md",
+        "xhtml": "brozovane_basne_092.xhtml"
+      },
+      {
+        "titleSuggest": "Budoucnost(Vítovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_093.md",
+        "xhtml": "brozovane_basne_093.xhtml"
+      },
+      {
+        "titleSuggest": "Adamova žena",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_094.md",
+        "xhtml": "brozovane_basne_094.xhtml"
+      },
+      {
+        "titleSuggest": "Sisyfova žena(Janovi a Božence Skácelovým)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_095.md",
+        "xhtml": "brozovane_basne_095.xhtml"
+      },
+      {
+        "titleSuggest": "Démosthenova ženamluví v zlosti",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_096.md",
+        "xhtml": "brozovane_basne_096.xhtml"
+      },
+      {
+        "titleSuggest": "Homérova žena si stýská",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_097.md",
+        "xhtml": "brozovane_basne_097.xhtml"
+      },
+      {
+        "titleSuggest": "Studiosa Fausta bytnáse podivuje",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_098.md",
+        "xhtml": "brozovane_basne_098.xhtml"
+      },
+      {
+        "titleSuggest": "Galileova žena",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_099.md",
+        "xhtml": "brozovane_basne_099.xhtml"
+      },
+      {
+        "titleSuggest": "Casanovova v Duchcověutajená žena",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_100.md",
+        "xhtml": "brozovane_basne_100.xhtml"
+      },
+      {
+        "titleSuggest": "Silvestrovská 1980",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_101.md",
+        "xhtml": "brozovane_basne_101.xhtml"
+      },
+      {
+        "titleSuggest": "Hry o život(po přečtení stejnojmenného spiskudr\\. Jitky Schánilcové)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_102.md",
+        "xhtml": "brozovane_basne_102.xhtml"
+      },
+      {
+        "titleSuggest": "Že",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_103.md",
+        "xhtml": "brozovane_basne_103.xhtml"
+      },
+      {
+        "titleSuggest": "Dynastie Že",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_104.md",
+        "xhtml": "brozovane_basne_104.xhtml"
+      },
+      {
+        "titleSuggest": "Krysař",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_105.md",
+        "xhtml": "brozovane_basne_105.xhtml"
+      },
+      {
+        "titleSuggest": "Faustovo pozdní odpoledne",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_106.md",
+        "xhtml": "brozovane_basne_106.xhtml"
+      },
+      {
+        "titleSuggest": "Před usnutím",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_107.md",
+        "xhtml": "brozovane_basne_107.xhtml"
+      },
+      {
+        "titleSuggest": "Samizdat",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_108.md",
+        "xhtml": "brozovane_basne_108.xhtml"
+      },
+      {
+        "titleSuggest": "Starý povzdech",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_109.md",
+        "xhtml": "brozovane_basne_109.xhtml"
+      },
+      {
+        "titleSuggest": "Tělo",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_110.md",
+        "xhtml": "brozovane_basne_110.xhtml"
+      },
+      {
+        "titleSuggest": "Všude dobře",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_111.md",
+        "xhtml": "brozovane_basne_111.xhtml"
+      },
+      {
+        "titleSuggest": "Milostná noc",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_112.md",
+        "xhtml": "brozovane_basne_112.xhtml"
+      },
+      {
+        "titleSuggest": "Diagnóza",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_113.md",
+        "xhtml": "brozovane_basne_113.xhtml"
+      },
+      {
+        "titleSuggest": "Abstinenční příznaky",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_114.md",
+        "xhtml": "brozovane_basne_114.xhtml"
+      },
+      {
+        "titleSuggest": "Svobodné povolání",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_115.md",
+        "xhtml": "brozovane_basne_115.xhtml"
+      },
+      {
+        "titleSuggest": "V domácnosti",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_116.md",
+        "xhtml": "brozovane_basne_116.xhtml"
+      },
+      {
+        "titleSuggest": "Míjení",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_117.md",
+        "xhtml": "brozovane_basne_117.xhtml"
+      },
+      {
+        "titleSuggest": "Agent 007",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_118.md",
+        "xhtml": "brozovane_basne_118.xhtml"
+      },
+      {
+        "titleSuggest": "Což",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_119.md",
+        "xhtml": "brozovane_basne_119.xhtml"
+      },
+      {
+        "titleSuggest": "Vesmír je konečnýv mém čase",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_120.md",
+        "xhtml": "brozovane_basne_120.xhtml"
+      },
+      {
+        "titleSuggest": "Zavírací hodina",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_121.md",
+        "xhtml": "brozovane_basne_121.xhtml"
+      },
+      {
+        "titleSuggest": "Hostitel",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_122.md",
+        "xhtml": "brozovane_basne_122.xhtml"
+      },
+      {
+        "titleSuggest": "Kentaur",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_123.md",
+        "xhtml": "brozovane_basne_123.xhtml"
+      },
+      {
+        "titleSuggest": "Domů",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_124.md",
+        "xhtml": "brozovane_basne_124.xhtml"
+      },
+      {
+        "titleSuggest": "Citát z médi Bédi",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_125.md",
+        "xhtml": "brozovane_basne_125.xhtml"
+      },
+      {
+        "titleSuggest": "Velká doba,malá potřeba",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_126.md",
+        "xhtml": "brozovane_basne_126.xhtml"
+      },
+      {
+        "titleSuggest": "Ti dva",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_127.md",
+        "xhtml": "brozovane_basne_127.xhtml"
+      },
+      {
+        "titleSuggest": "Po dalším pohřbu",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_128.md",
+        "xhtml": "brozovane_basne_128.xhtml"
+      },
+      {
+        "titleSuggest": "Jaro s rozpomínkouna T\\. S\\. Eliota",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_129.md",
+        "xhtml": "brozovane_basne_129.xhtml"
+      },
+      {
+        "titleSuggest": "Ráno",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_130.md",
+        "xhtml": "brozovane_basne_130.xhtml"
+      },
+      {
+        "titleSuggest": "Brnkání na brdo",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_131.md",
+        "xhtml": "brozovane_basne_131.xhtml"
+      },
+      {
+        "titleSuggest": "Ztracené básně,ztracení lidé",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_132.md",
+        "xhtml": "brozovane_basne_132.xhtml"
+      },
+      {
+        "titleSuggest": "Kde je víra?",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_133.md",
+        "xhtml": "brozovane_basne_133.xhtml"
+      },
+      {
+        "titleSuggest": "Milostná",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_134.md",
+        "xhtml": "brozovane_basne_134.xhtml"
+      },
+      {
+        "titleSuggest": "Tělesná láska",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_135.md",
+        "xhtml": "brozovane_basne_135.xhtml"
+      },
+      {
+        "titleSuggest": "Třikrát o ňadrechaneb Pořádná báseň se musískládat do komínku",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_136.md",
+        "xhtml": "brozovane_basne_136.xhtml"
+      },
+      {
+        "titleSuggest": "Mlha je mlha je mlha",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_137.md",
+        "xhtml": "brozovane_basne_137.xhtml"
+      },
+      {
+        "titleSuggest": "Sýčkování",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_138.md",
+        "xhtml": "brozovane_basne_138.xhtml"
+      },
+      {
+        "titleSuggest": "Chvála čtyřtaktního těla",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_139.md",
+        "xhtml": "brozovane_basne_139.xhtml"
+      },
+      {
+        "titleSuggest": "Kámasútra",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_140.md",
+        "xhtml": "brozovane_basne_140.xhtml"
+      },
+      {
+        "titleSuggest": "O jednom emigrantovi",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_141.md",
+        "xhtml": "brozovane_basne_141.xhtml"
+      },
+      {
+        "titleSuggest": "O mladičkém posunovači",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_142.md",
+        "xhtml": "brozovane_basne_142.xhtml"
+      },
+      {
+        "titleSuggest": "O mladičké přadleně(Janu Zábranovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_143.md",
+        "xhtml": "brozovane_basne_143.xhtml"
+      },
+      {
+        "titleSuggest": "Beerspective(Janu Lopatkovi)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_144.md",
+        "xhtml": "brozovane_basne_144.xhtml"
+      },
+      {
+        "titleSuggest": "Laskavá normalizace(Blance)",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_145.md",
+        "xhtml": "brozovane_basne_145.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_146.md",
+        "xhtml": "brozovane_basne_146.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "brozovane_basne_147.md",
+        "xhtml": "brozovane_basne_147.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_brozovane_basne.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-4",
+      "CharOverride-6",
+      "Hyperlink",
+      "MLP_VERSE_-0-12-_CITAT",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven2_basne",
+      "MLP_uroven3_basne",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-0-12-_SIRSE",
+      "MLP_verse_-I-_-0-0--",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenCharOverride-2",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "srut-brozovane-basne"
+    },
+    "generatedAt": 1661316594545
+  }
+}
