@@ -1,39 +1,173 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Brožované básně
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Pavel Šrut
+  publisher: Městská knihovna v Praze
+  modified: '2021-06-30T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - brozovane_basne_001.html
+  - brozovane_basne_002.html
+  - brozovane_basne_003.html
+  - brozovane_basne_004.html
+  - brozovane_basne_005.html
+  - brozovane_basne_006.html
+  - brozovane_basne_007.html
+  - brozovane_basne_008.html
+  - brozovane_basne_009.html
+  - brozovane_basne_010.html
+  - brozovane_basne_011.html
+  - brozovane_basne_012.html
+  - brozovane_basne_013.html
+  - brozovane_basne_014.html
+  - brozovane_basne_015.html
+  - brozovane_basne_016.html
+  - brozovane_basne_017.html
+  - brozovane_basne_018.html
+  - brozovane_basne_019.html
+  - brozovane_basne_020.html
+  - brozovane_basne_021.html
+  - brozovane_basne_022.html
+  - brozovane_basne_023.html
+  - brozovane_basne_024.html
+  - brozovane_basne_025.html
+  - brozovane_basne_026.html
+  - brozovane_basne_027.html
+  - brozovane_basne_028.html
+  - brozovane_basne_029.html
+  - brozovane_basne_030.html
+  - brozovane_basne_031.html
+  - brozovane_basne_032.html
+  - brozovane_basne_033.html
+  - brozovane_basne_034.html
+  - brozovane_basne_035.html
+  - brozovane_basne_036.html
+  - brozovane_basne_037.html
+  - brozovane_basne_038.html
+  - brozovane_basne_039.html
+  - brozovane_basne_040.html
+  - brozovane_basne_041.html
+  - brozovane_basne_042.html
+  - brozovane_basne_043.html
+  - brozovane_basne_044.html
+  - brozovane_basne_045.html
+  - brozovane_basne_046.html
+  - brozovane_basne_047.html
+  - brozovane_basne_048.html
+  - brozovane_basne_049.html
+  - brozovane_basne_050.html
+  - brozovane_basne_051.html
+  - brozovane_basne_052.html
+  - brozovane_basne_053.html
+  - brozovane_basne_054.html
+  - brozovane_basne_055.html
+  - brozovane_basne_056.html
+  - brozovane_basne_057.html
+  - brozovane_basne_058.html
+  - brozovane_basne_059.html
+  - brozovane_basne_060.html
+  - brozovane_basne_061.html
+  - brozovane_basne_062.html
+  - brozovane_basne_063.html
+  - brozovane_basne_064.html
+  - brozovane_basne_065.html
+  - brozovane_basne_066.html
+  - brozovane_basne_067.html
+  - brozovane_basne_068.html
+  - brozovane_basne_069.html
+  - brozovane_basne_070.html
+  - brozovane_basne_071.html
+  - brozovane_basne_072.html
+  - brozovane_basne_073.html
+  - brozovane_basne_074.html
+  - brozovane_basne_075.html
+  - brozovane_basne_076.html
+  - brozovane_basne_077.html
+  - brozovane_basne_078.html
+  - brozovane_basne_079.html
+  - brozovane_basne_080.html
+  - brozovane_basne_081.html
+  - brozovane_basne_082.html
+  - brozovane_basne_083.html
+  - brozovane_basne_084.html
+  - brozovane_basne_085.html
+  - brozovane_basne_086.html
+  - brozovane_basne_087.html
+  - brozovane_basne_088.html
+  - brozovane_basne_089.html
+  - brozovane_basne_090.html
+  - brozovane_basne_091.html
+  - brozovane_basne_092.html
+  - brozovane_basne_093.html
+  - brozovane_basne_094.html
+  - brozovane_basne_095.html
+  - brozovane_basne_096.html
+  - brozovane_basne_097.html
+  - brozovane_basne_098.html
+  - brozovane_basne_099.html
+  - brozovane_basne_100.html
+  - brozovane_basne_101.html
+  - brozovane_basne_102.html
+  - brozovane_basne_103.html
+  - brozovane_basne_104.html
+  - brozovane_basne_105.html
+  - brozovane_basne_106.html
+  - brozovane_basne_107.html
+  - brozovane_basne_108.html
+  - brozovane_basne_109.html
+  - brozovane_basne_110.html
+  - brozovane_basne_111.html
+  - brozovane_basne_112.html
+  - brozovane_basne_113.html
+  - brozovane_basne_114.html
+  - brozovane_basne_115.html
+  - brozovane_basne_116.html
+  - brozovane_basne_117.html
+  - brozovane_basne_118.html
+  - brozovane_basne_119.html
+  - brozovane_basne_120.html
+  - brozovane_basne_121.html
+  - brozovane_basne_122.html
+  - brozovane_basne_123.html
+  - brozovane_basne_124.html
+  - brozovane_basne_125.html
+  - brozovane_basne_126.html
+  - brozovane_basne_127.html
+  - brozovane_basne_128.html
+  - brozovane_basne_129.html
+  - brozovane_basne_130.html
+  - brozovane_basne_131.html
+  - brozovane_basne_132.html
+  - brozovane_basne_133.html
+  - brozovane_basne_134.html
+  - brozovane_basne_135.html
+  - brozovane_basne_136.html
+  - brozovane_basne_137.html
+  - brozovane_basne_138.html
+  - brozovane_basne_139.html
+  - brozovane_basne_140.html
+  - brozovane_basne_141.html
+  - brozovane_basne_142.html
+  - brozovane_basne_143.html
+  - brozovane_basne_144.html
+  - brozovane_basne_145.html
+  - brozovane_basne_146.html
+  - brozovane_basne_147.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
