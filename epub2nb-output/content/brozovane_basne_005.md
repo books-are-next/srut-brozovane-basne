@@ -75,6 +75,6 @@ _V odpověď zazní mu jen hukot aerodromu._
 
 <section>
 
-> Petr Karmín
+Petr Karmín
 
 </section>
