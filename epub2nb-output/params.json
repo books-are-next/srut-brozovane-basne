@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zlomek rekonstrukce doslovu"
+            "title": "Zlomek rekonstrukce doslovu",
+            "children": []
           },
           {
             "filename": "brozovane_basne_006.md",
@@ -109,6 +109,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Domácí řád",
             "children": [
               {
                 "filename": "brozovane_basne_007.md",
@@ -120,11 +121,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zrození básníka: preambule"
+                "title": "Zrození básníka: preambule",
+                "children": []
               }
-            ],
-            "title": "DOMÁCÍ ŘÁD "
+            ]
           },
           {
             "filename": "brozovane_basne_008.md",
@@ -136,6 +136,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Malá domů",
             "children": [
               {
                 "filename": "brozovane_basne_009.md",
@@ -147,8 +148,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Konec básníka: preambule"
+                "title": "Konec básníka: preambule",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_010.md",
@@ -160,8 +161,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Na druhý den (Eugenu Brikciusovi)"
+                "title": "Na druhý den (Eugenu Brikciusovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_011.md",
@@ -173,8 +174,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čas (Antonínu Brouskovi)"
+                "title": "Čas (Antonínu Brouskovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_012.md",
@@ -186,8 +187,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Před zrcadlem (Petrákovi Císařovskému, sochaři)"
+                "title": "Před zrcadlem (Petrákovi Císařovskému, sochaři)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_013.md",
@@ -199,8 +200,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sýčkování (po setkání s Michalem Černíkem na Národní třídě)"
+                "title": "Sýčkování (po setkání s Michalem Černíkem na Národní třídě)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_014.md",
@@ -212,8 +213,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Brainwashing (Ivanu Divišovi)"
+                "title": "Brainwashing (Ivanu Divišovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_015.md",
@@ -225,8 +226,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Slibuji (níže jmenovanému býv. tajemníku bytového družstva Mansarda)"
+                "title": "Slibuji (níže jmenovanému býv. tajemníku bytového družstva Mansarda)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_016.md",
@@ -238,8 +239,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Asanace Žižkova (Janu Hančovi, jeho deníkům)"
+                "title": "Asanace Žižkova (Janu Hančovi, jeho deníkům)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_017.md",
@@ -251,8 +252,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Lán (Václavu Havlovi)"
+                "title": "Lán (Václavu Havlovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_018.md",
@@ -264,8 +265,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Mozartiáda v éteru (Janu Hlouškovi zvanému Bony v nejmenované vinárně)"
+                "title": "Mozartiáda v éteru (Janu Hlouškovi zvanému Bony v nejmenované vinárně)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_019.md",
@@ -277,8 +278,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nekrolog pro křídlovku (Františku Hrubínovi in memoriam)"
+                "title": "Nekrolog pro křídlovku (Františku Hrubínovi in memoriam)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_020.md",
@@ -290,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Harakiri (Borisi Hybnerovi)"
+                "title": "Harakiri (Borisi Hybnerovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_021.md",
@@ -303,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zvětšenina (Petru Chudožilovovi)"
+                "title": "Zvětšenina (Petru Chudožilovovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_022.md",
@@ -316,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tak na tvou žádost o sobě (Petru Kabešovi)"
+                "title": "Tak na tvou žádost o sobě (Petru Kabešovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_023.md",
@@ -329,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nedokončená (Jaroslavu Kořánovi)"
+                "title": "Nedokončená (Jaroslavu Kořánovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_024.md",
@@ -342,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dialektika konkrétního (muže) (Ireně Kosíkové)"
+                "title": "Dialektika konkrétního (muže) (Ireně Kosíkové)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_025.md",
@@ -355,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V půli (Aleši Krejčovi)"
+                "title": "V půli (Aleši Krejčovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_026.md",
@@ -368,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Cesta do Ďáblic (Josefu Kroutvorovi)"
+                "title": "Cesta do Ďáblic (Josefu Kroutvorovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_027.md",
@@ -381,8 +382,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jednou jsem vyblejsknul tě v pivoňkách (mamince)"
+                "title": "Jednou jsem vyblejsknul tě v pivoňkách (mamince)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_028.md",
@@ -394,8 +395,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Prostřední ze sester Brontëových píše dopis (Rudolfu Matysovi)"
+                "title": "Prostřední ze sester Brontëových píše dopis (Rudolfu Matysovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_029.md",
@@ -407,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Básník (Oldřichu Mikuláškovi)"
+                "title": "Básník (Oldřichu Mikuláškovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_030.md",
@@ -420,8 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jsi včerejší (citován Jiří Načeradský U Klokoně)"
+                "title": "Jsi včerejší (citován Jiří Načeradský U Klokoně)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_031.md",
@@ -433,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jsi prázdnem obklopen (Rudovi Němcovi)"
+                "title": "Jsi prázdnem obklopen (Rudovi Němcovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_032.md",
@@ -446,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V neděli ránopivaři přicházejí (tradicionál pro Karla Nepraše)"
+                "title": "V neděli ránopivaři přicházejí (tradicionál pro Karla Nepraše)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_033.md",
@@ -459,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žižkovské večery (otci)"
+                "title": "Žižkovské večery (otci)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_034.md",
@@ -472,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Causa mortalis (Jiřímu Pištorovi in memoriam)"
+                "title": "Causa mortalis (Jiřímu Pištorovi in memoriam)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_035.md",
@@ -485,8 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hádání z kávovésedliny a rumu (Tomáši Pěknému)"
+                "title": "Hádání z kávovésedliny a rumu (Tomáši Pěknému)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_036.md",
@@ -498,8 +499,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Básníci, věštci, hadačise propíjejí do tmy (Karolu Sidonovi)"
+                "title": "Básníci, věštci, hadačise propíjejí do tmy (Karolu Sidonovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_037.md",
@@ -511,8 +512,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Do lesů (Zbyšku Sionovi)"
+                "title": "Do lesů (Zbyšku Sionovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_038.md",
@@ -524,8 +525,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ale co zahrada? (Janu Skácelovi)"
+                "title": "Ale co zahrada? (Janu Skácelovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_039.md",
@@ -537,8 +538,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Malá óda na zadovku (Otovi Slavíkovi)"
+                "title": "Malá óda na zadovku (Otovi Slavíkovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_040.md",
@@ -550,8 +551,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nahoře Bůh (citován Jiří Sopko U kotvy)"
+                "title": "Nahoře Bůh (citován Jiří Sopko U kotvy)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_041.md",
@@ -563,8 +564,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Příliš mnoho Jobů a jediný Nikolaj (imitován Nikolaj Stankovič U Svitáků)"
+                "title": "Příliš mnoho Jobů a jediný Nikolaj (imitován Nikolaj Stankovič U Svitáků)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_042.md",
@@ -576,8 +577,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dvojbáseň pro dvě Amazonky (Janu Steklíkovi)"
+                "title": "Dvojbáseň pro dvě Amazonky (Janu Steklíkovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_043.md",
@@ -589,8 +590,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nikotin (Jiřímu Stivínovi)"
+                "title": "Nikotin (Jiřímu Stivínovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_044.md",
@@ -602,8 +603,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Veselice (Karlu Sýsovi)"
+                "title": "Veselice (Karlu Sýsovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_045.md",
@@ -615,8 +616,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Slovo o Pluku pražských dětí (Janu Šafránkovi a kamarádům ve vídeňské emigraci)"
+                "title": "Slovo o Pluku pražských dětí (Janu Šafránkovi a kamarádům ve vídeňské emigraci)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_046.md",
@@ -628,8 +629,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pražský žalm (Karlu Šiktancovi)"
+                "title": "Pražský žalm (Karlu Šiktancovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_047.md",
@@ -641,8 +642,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Socha torza (Antonínu Tomalíkovi in memoriam)"
+                "title": "Socha torza (Antonínu Tomalíkovi in memoriam)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_048.md",
@@ -654,8 +655,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Mléčná dráha (Miloslavu Topinkovi)"
+                "title": "Mléčná dráha (Miloslavu Topinkovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_049.md",
@@ -667,8 +668,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Na schovávanou (Janu Vodňanskému)"
+                "title": "Na schovávanou (Janu Vodňanskému)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_050.md",
@@ -680,8 +681,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žehnám ti proutkaři! (Václavu Vrbovi)"
+                "title": "Žehnám ti proutkaři! (Václavu Vrbovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_051.md",
@@ -693,8 +694,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nevycházíš (Ivanu Wernischovi)"
+                "title": "Nevycházíš (Ivanu Wernischovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_052.md",
@@ -706,8 +707,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bílé místo (Heleně Wernischové)"
+                "title": "Bílé místo (Heleně Wernischové)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_053.md",
@@ -719,8 +720,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "What about Pilsen? (to Paul Wilson)"
+                "title": "What about Pilsen? (to Paul Wilson)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_054.md",
@@ -732,8 +733,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Taneční roky pro dospělé (Janu Zábranovi)"
+                "title": "Taneční roky pro dospělé (Janu Zábranovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_055.md",
@@ -745,8 +746,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bůh je (citován střední knírač na Perštýně)"
+                "title": "Bůh je (citován střední knírač na Perštýně)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_056.md",
@@ -758,11 +759,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Epitaf (sobě)"
+                "title": "Epitaf (sobě)",
+                "children": []
               }
-            ],
-            "title": "MALÁ DOMŮ"
+            ]
           },
           {
             "filename": "brozovane_basne_057.md",
@@ -774,6 +774,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Samovar",
             "children": [
               {
                 "filename": "brozovane_basne_058.md",
@@ -785,8 +786,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Český rok"
+                "title": "Český rok",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_059.md",
@@ -798,8 +799,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pozdní návraty"
+                "title": "Pozdní návraty",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_060.md",
@@ -811,8 +812,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bydlet!"
+                "title": "Bydlet!",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_061.md",
@@ -824,8 +825,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žena má obvykle dva prsy"
+                "title": "Žena má obvykle dva prsy",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_062.md",
@@ -837,8 +838,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tolik mne miluje"
+                "title": "Tolik mne miluje",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_063.md",
@@ -850,8 +851,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sníh"
+                "title": "Sníh",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_064.md",
@@ -863,8 +864,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Všelijak"
+                "title": "Všelijak",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_065.md",
@@ -876,8 +877,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sonet o józe"
+                "title": "Sonet o józe",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_066.md",
@@ -889,8 +890,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Co pořád dělám? Ále…(sonet na citát z Tomáše)"
+                "title": "Co pořád dělám? Ále…(sonet na citát z Tomáše)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_067.md",
@@ -902,8 +903,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hlubina bezpečnosti"
+                "title": "Hlubina bezpečnosti",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_068.md",
@@ -915,8 +916,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tesknice"
+                "title": "Tesknice",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_069.md",
@@ -928,8 +929,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Houpací Trojský kůň I."
+                "title": "Houpací Trojský kůň I.",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_070.md",
@@ -941,8 +942,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kmotřička kocovina"
+                "title": "Kmotřička kocovina",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_071.md",
@@ -954,8 +955,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vězeň v něze"
+                "title": "Vězeň v něze",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_072.md",
@@ -967,8 +968,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Černá zabíjačka: 1952"
+                "title": "Černá zabíjačka: 1952",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_073.md",
@@ -980,8 +981,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Požární hlídka: 1954"
+                "title": "Požární hlídka: 1954",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_074.md",
@@ -993,8 +994,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stalinův pomník: momentka z roku 1956"
+                "title": "Stalinův pomník: momentka z roku 1956",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_075.md",
@@ -1006,8 +1007,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rodinná anamnéza (Janu Endrýsovi)"
+                "title": "Rodinná anamnéza (Janu Endrýsovi)",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_076.md",
@@ -1019,8 +1020,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "U odvodu"
+                "title": "U odvodu",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_077.md",
@@ -1032,8 +1033,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bílá hodinka"
+                "title": "Bílá hodinka",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_078.md",
@@ -1045,8 +1046,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dechová cvičení"
+                "title": "Dechová cvičení",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_079.md",
@@ -1058,8 +1059,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Samovar"
+                "title": "Samovar",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_080.md",
@@ -1071,8 +1072,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Celé dny prší"
+                "title": "Celé dny prší",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_081.md",
@@ -1084,8 +1085,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Bázeň"
+                "title": "Bázeň",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_082.md",
@@ -1097,8 +1098,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nárok na azyl"
+                "title": "Nárok na azyl",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_083.md",
@@ -1110,8 +1111,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dvojník"
+                "title": "Dvojník",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_084.md",
@@ -1123,8 +1124,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Levitace"
+                "title": "Levitace",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_085.md",
@@ -1136,8 +1137,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "A vy si nepoložíte otázku"
+                "title": "A vy si nepoložíte otázku",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_086.md",
@@ -1149,8 +1150,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stará písnička:gellneriana"
+                "title": "Stará písnička:gellneriana",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_087.md",
@@ -1162,8 +1163,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Golemův zákon"
+                "title": "Golemův zákon",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_088.md",
@@ -1175,8 +1176,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Archimedův zákon"
+                "title": "Archimedův zákon",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_089.md",
@@ -1188,8 +1189,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Na útěku"
+                "title": "Na útěku",
+                "children": []
               },
               {
                 "filename": "brozovane_basne_090.md",
@@ -1201,726 +1202,725 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Houpací Trojský kůň II."
+                "title": "Houpací Trojský kůň II.",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_091.md",
+                "xhtml": "brozovane_basne_091.xhtml",
+                "id": 90,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "P. S.",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_092.md",
+                "xhtml": "brozovane_basne_092.xhtml",
+                "id": 91,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pes jitrničku sežral",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_093.md",
+                "xhtml": "brozovane_basne_093.xhtml",
+                "id": 92,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Budoucnost (Vítovi)",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_094.md",
+                "xhtml": "brozovane_basne_094.xhtml",
+                "id": 93,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Adamova žena",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_095.md",
+                "xhtml": "brozovane_basne_095.xhtml",
+                "id": 94,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Sisyfova žena (Janovi a Božence Skácelovým)",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_096.md",
+                "xhtml": "brozovane_basne_096.xhtml",
+                "id": 95,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Démosthenova žena mluví v zlosti",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_097.md",
+                "xhtml": "brozovane_basne_097.xhtml",
+                "id": 96,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Homérova žena si stýská",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_098.md",
+                "xhtml": "brozovane_basne_098.xhtml",
+                "id": 97,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Studiosa Fausta bytná se podivuje",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_099.md",
+                "xhtml": "brozovane_basne_099.xhtml",
+                "id": 98,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Galileova žena",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_100.md",
+                "xhtml": "brozovane_basne_100.xhtml",
+                "id": 99,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Casanovova v Duchcově utajená žena",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_101.md",
+                "xhtml": "brozovane_basne_101.xhtml",
+                "id": 100,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Silvestrovská 1980",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_102.md",
+                "xhtml": "brozovane_basne_102.xhtml",
+                "id": 101,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Hry o život (po přečtení stejnojmenného spisku dr. Jitky Schánilcové)",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_103.md",
+                "xhtml": "brozovane_basne_103.xhtml",
+                "id": 102,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Že",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_104.md",
+                "xhtml": "brozovane_basne_104.xhtml",
+                "id": 103,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Dynastie Že",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_105.md",
+                "xhtml": "brozovane_basne_105.xhtml",
+                "id": 104,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Krysař",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_106.md",
+                "xhtml": "brozovane_basne_106.xhtml",
+                "id": 105,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Faustovo pozdní odpoledne",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_107.md",
+                "xhtml": "brozovane_basne_107.xhtml",
+                "id": 106,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Před usnutím",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_108.md",
+                "xhtml": "brozovane_basne_108.xhtml",
+                "id": 107,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Samizdat",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_109.md",
+                "xhtml": "brozovane_basne_109.xhtml",
+                "id": 108,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Starý povzdech",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_110.md",
+                "xhtml": "brozovane_basne_110.xhtml",
+                "id": 109,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Tělo",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_111.md",
+                "xhtml": "brozovane_basne_111.xhtml",
+                "id": 110,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Všude dobře",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_112.md",
+                "xhtml": "brozovane_basne_112.xhtml",
+                "id": 111,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Milostná noc",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_113.md",
+                "xhtml": "brozovane_basne_113.xhtml",
+                "id": 112,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Diagnóza",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_114.md",
+                "xhtml": "brozovane_basne_114.xhtml",
+                "id": 113,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Abstinenční příznaky",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_115.md",
+                "xhtml": "brozovane_basne_115.xhtml",
+                "id": 114,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Svobodné povolání",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_116.md",
+                "xhtml": "brozovane_basne_116.xhtml",
+                "id": 115,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "V domácnosti",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_117.md",
+                "xhtml": "brozovane_basne_117.xhtml",
+                "id": 116,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Míjení",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_118.md",
+                "xhtml": "brozovane_basne_118.xhtml",
+                "id": 117,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Agent 007",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_119.md",
+                "xhtml": "brozovane_basne_119.xhtml",
+                "id": 118,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Což",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_120.md",
+                "xhtml": "brozovane_basne_120.xhtml",
+                "id": 119,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Vesmír je konečnýv mém čase",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_121.md",
+                "xhtml": "brozovane_basne_121.xhtml",
+                "id": 120,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Zavírací hodina",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_122.md",
+                "xhtml": "brozovane_basne_122.xhtml",
+                "id": 121,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Hostitel",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_123.md",
+                "xhtml": "brozovane_basne_123.xhtml",
+                "id": 122,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Kentaur",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_124.md",
+                "xhtml": "brozovane_basne_124.xhtml",
+                "id": 123,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Domů",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_125.md",
+                "xhtml": "brozovane_basne_125.xhtml",
+                "id": 124,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Citát z médi Bédi",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_126.md",
+                "xhtml": "brozovane_basne_126.xhtml",
+                "id": 125,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Velká doba,malá potřeba",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_127.md",
+                "xhtml": "brozovane_basne_127.xhtml",
+                "id": 126,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Ti dva",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_128.md",
+                "xhtml": "brozovane_basne_128.xhtml",
+                "id": 127,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Po dalším pohřbu",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_129.md",
+                "xhtml": "brozovane_basne_129.xhtml",
+                "id": 128,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Jaro s rozpomínkouna T. S. Eliota",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_130.md",
+                "xhtml": "brozovane_basne_130.xhtml",
+                "id": 129,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Ráno",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_131.md",
+                "xhtml": "brozovane_basne_131.xhtml",
+                "id": 130,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Brnkání na brdo",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_132.md",
+                "xhtml": "brozovane_basne_132.xhtml",
+                "id": 131,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Ztracené básně, ztracení lidé",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_133.md",
+                "xhtml": "brozovane_basne_133.xhtml",
+                "id": 132,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Kde je víra?",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_134.md",
+                "xhtml": "brozovane_basne_134.xhtml",
+                "id": 133,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Milostná",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_135.md",
+                "xhtml": "brozovane_basne_135.xhtml",
+                "id": 134,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Tělesná láska",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_136.md",
+                "xhtml": "brozovane_basne_136.xhtml",
+                "id": 135,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Třikrát o ňadrech aneb Pořádná báseň se musískládat do komínku",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_137.md",
+                "xhtml": "brozovane_basne_137.xhtml",
+                "id": 136,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Mlha je mlha je mlha",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_138.md",
+                "xhtml": "brozovane_basne_138.xhtml",
+                "id": 137,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Sýčkování",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_139.md",
+                "xhtml": "brozovane_basne_139.xhtml",
+                "id": 138,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Chvála čtyřtaktního těla",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_140.md",
+                "xhtml": "brozovane_basne_140.xhtml",
+                "id": 139,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Kámasútra",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_141.md",
+                "xhtml": "brozovane_basne_141.xhtml",
+                "id": 140,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "O jednom emigrantovi",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_142.md",
+                "xhtml": "brozovane_basne_142.xhtml",
+                "id": 141,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "O mladičkém posunovači",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_143.md",
+                "xhtml": "brozovane_basne_143.xhtml",
+                "id": 142,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "O mladičké přadleně (Janu Zábranovi)",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_144.md",
+                "xhtml": "brozovane_basne_144.xhtml",
+                "id": 143,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Beerspective (Janu Lopatkovi)",
+                "children": []
+              },
+              {
+                "filename": "brozovane_basne_145.md",
+                "xhtml": "brozovane_basne_145.xhtml",
+                "id": 144,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Laskavá normalizace (Blance)",
+                "children": []
               }
-            ],
-            "title": "SAMOVAR"
-          },
-          {
-            "filename": "brozovane_basne_091.md",
-            "xhtml": "brozovane_basne_091.xhtml",
-            "id": 90,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "P. S."
-          },
-          {
-            "filename": "brozovane_basne_092.md",
-            "xhtml": "brozovane_basne_092.xhtml",
-            "id": 91,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pes jitrničku sežral"
-          },
-          {
-            "filename": "brozovane_basne_093.md",
-            "xhtml": "brozovane_basne_093.xhtml",
-            "id": 92,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Budoucnost (Vítovi)"
-          },
-          {
-            "filename": "brozovane_basne_094.md",
-            "xhtml": "brozovane_basne_094.xhtml",
-            "id": 93,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Adamova žena"
-          },
-          {
-            "filename": "brozovane_basne_095.md",
-            "xhtml": "brozovane_basne_095.xhtml",
-            "id": 94,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Sisyfova žena (Janovi a Božence Skácelovým)"
-          },
-          {
-            "filename": "brozovane_basne_096.md",
-            "xhtml": "brozovane_basne_096.xhtml",
-            "id": 95,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Démosthenova žena mluví v zlosti"
-          },
-          {
-            "filename": "brozovane_basne_097.md",
-            "xhtml": "brozovane_basne_097.xhtml",
-            "id": 96,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Homérova žena si stýská"
-          },
-          {
-            "filename": "brozovane_basne_098.md",
-            "xhtml": "brozovane_basne_098.xhtml",
-            "id": 97,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Studiosa Fausta bytná se podivuje"
-          },
-          {
-            "filename": "brozovane_basne_099.md",
-            "xhtml": "brozovane_basne_099.xhtml",
-            "id": 98,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Galileova žena"
-          },
-          {
-            "filename": "brozovane_basne_100.md",
-            "xhtml": "brozovane_basne_100.xhtml",
-            "id": 99,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Casanovova v Duchcově utajená žena"
-          },
-          {
-            "filename": "brozovane_basne_101.md",
-            "xhtml": "brozovane_basne_101.xhtml",
-            "id": 100,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Silvestrovská 1980"
-          },
-          {
-            "filename": "brozovane_basne_102.md",
-            "xhtml": "brozovane_basne_102.xhtml",
-            "id": 101,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Hry o život (po přečtení stejnojmenného spisku dr. Jitky Schánilcové)"
-          },
-          {
-            "filename": "brozovane_basne_103.md",
-            "xhtml": "brozovane_basne_103.xhtml",
-            "id": 102,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Že"
-          },
-          {
-            "filename": "brozovane_basne_104.md",
-            "xhtml": "brozovane_basne_104.xhtml",
-            "id": 103,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Dynastie Že"
-          },
-          {
-            "filename": "brozovane_basne_105.md",
-            "xhtml": "brozovane_basne_105.xhtml",
-            "id": 104,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Krysař"
-          },
-          {
-            "filename": "brozovane_basne_106.md",
-            "xhtml": "brozovane_basne_106.xhtml",
-            "id": 105,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Faustovo pozdní odpoledne"
-          },
-          {
-            "filename": "brozovane_basne_107.md",
-            "xhtml": "brozovane_basne_107.xhtml",
-            "id": 106,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Před usnutím"
-          },
-          {
-            "filename": "brozovane_basne_108.md",
-            "xhtml": "brozovane_basne_108.xhtml",
-            "id": 107,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Samizdat"
-          },
-          {
-            "filename": "brozovane_basne_109.md",
-            "xhtml": "brozovane_basne_109.xhtml",
-            "id": 108,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Starý povzdech"
-          },
-          {
-            "filename": "brozovane_basne_110.md",
-            "xhtml": "brozovane_basne_110.xhtml",
-            "id": 109,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Tělo"
-          },
-          {
-            "filename": "brozovane_basne_111.md",
-            "xhtml": "brozovane_basne_111.xhtml",
-            "id": 110,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Všude dobře"
-          },
-          {
-            "filename": "brozovane_basne_112.md",
-            "xhtml": "brozovane_basne_112.xhtml",
-            "id": 111,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Milostná noc"
-          },
-          {
-            "filename": "brozovane_basne_113.md",
-            "xhtml": "brozovane_basne_113.xhtml",
-            "id": 112,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Diagnóza"
-          },
-          {
-            "filename": "brozovane_basne_114.md",
-            "xhtml": "brozovane_basne_114.xhtml",
-            "id": 113,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Abstinenční příznaky"
-          },
-          {
-            "filename": "brozovane_basne_115.md",
-            "xhtml": "brozovane_basne_115.xhtml",
-            "id": 114,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Svobodné povolání"
-          },
-          {
-            "filename": "brozovane_basne_116.md",
-            "xhtml": "brozovane_basne_116.xhtml",
-            "id": 115,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "V domácnosti"
-          },
-          {
-            "filename": "brozovane_basne_117.md",
-            "xhtml": "brozovane_basne_117.xhtml",
-            "id": 116,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Míjení"
-          },
-          {
-            "filename": "brozovane_basne_118.md",
-            "xhtml": "brozovane_basne_118.xhtml",
-            "id": 117,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Agent 007"
-          },
-          {
-            "filename": "brozovane_basne_119.md",
-            "xhtml": "brozovane_basne_119.xhtml",
-            "id": 118,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Což"
-          },
-          {
-            "filename": "brozovane_basne_120.md",
-            "xhtml": "brozovane_basne_120.xhtml",
-            "id": 119,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Vesmír je konečnýv mém čase"
-          },
-          {
-            "filename": "brozovane_basne_121.md",
-            "xhtml": "brozovane_basne_121.xhtml",
-            "id": 120,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Zavírací hodina"
-          },
-          {
-            "filename": "brozovane_basne_122.md",
-            "xhtml": "brozovane_basne_122.xhtml",
-            "id": 121,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Hostitel"
-          },
-          {
-            "filename": "brozovane_basne_123.md",
-            "xhtml": "brozovane_basne_123.xhtml",
-            "id": 122,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Kentaur"
-          },
-          {
-            "filename": "brozovane_basne_124.md",
-            "xhtml": "brozovane_basne_124.xhtml",
-            "id": 123,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Domů"
-          },
-          {
-            "filename": "brozovane_basne_125.md",
-            "xhtml": "brozovane_basne_125.xhtml",
-            "id": 124,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Citát z médi Bédi"
-          },
-          {
-            "filename": "brozovane_basne_126.md",
-            "xhtml": "brozovane_basne_126.xhtml",
-            "id": 125,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Velká doba,malá potřeba"
-          },
-          {
-            "filename": "brozovane_basne_127.md",
-            "xhtml": "brozovane_basne_127.xhtml",
-            "id": 126,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Ti dva"
-          },
-          {
-            "filename": "brozovane_basne_128.md",
-            "xhtml": "brozovane_basne_128.xhtml",
-            "id": 127,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Po dalším pohřbu"
-          },
-          {
-            "filename": "brozovane_basne_129.md",
-            "xhtml": "brozovane_basne_129.xhtml",
-            "id": 128,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Jaro s rozpomínkouna T. S. Eliota"
-          },
-          {
-            "filename": "brozovane_basne_130.md",
-            "xhtml": "brozovane_basne_130.xhtml",
-            "id": 129,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Ráno"
-          },
-          {
-            "filename": "brozovane_basne_131.md",
-            "xhtml": "brozovane_basne_131.xhtml",
-            "id": 130,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Brnkání na brdo"
-          },
-          {
-            "filename": "brozovane_basne_132.md",
-            "xhtml": "brozovane_basne_132.xhtml",
-            "id": 131,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Ztracené básně, ztracení lidé"
-          },
-          {
-            "filename": "brozovane_basne_133.md",
-            "xhtml": "brozovane_basne_133.xhtml",
-            "id": 132,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Kde je víra?"
-          },
-          {
-            "filename": "brozovane_basne_134.md",
-            "xhtml": "brozovane_basne_134.xhtml",
-            "id": 133,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Milostná"
-          },
-          {
-            "filename": "brozovane_basne_135.md",
-            "xhtml": "brozovane_basne_135.xhtml",
-            "id": 134,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Tělesná láska"
-          },
-          {
-            "filename": "brozovane_basne_136.md",
-            "xhtml": "brozovane_basne_136.xhtml",
-            "id": 135,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Třikrát o ňadrech aneb Pořádná báseň se musískládat do komínku"
-          },
-          {
-            "filename": "brozovane_basne_137.md",
-            "xhtml": "brozovane_basne_137.xhtml",
-            "id": 136,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Mlha je mlha je mlha"
-          },
-          {
-            "filename": "brozovane_basne_138.md",
-            "xhtml": "brozovane_basne_138.xhtml",
-            "id": 137,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Sýčkování"
-          },
-          {
-            "filename": "brozovane_basne_139.md",
-            "xhtml": "brozovane_basne_139.xhtml",
-            "id": 138,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Chvála čtyřtaktního těla"
-          },
-          {
-            "filename": "brozovane_basne_140.md",
-            "xhtml": "brozovane_basne_140.xhtml",
-            "id": 139,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Kámasútra"
-          },
-          {
-            "filename": "brozovane_basne_141.md",
-            "xhtml": "brozovane_basne_141.xhtml",
-            "id": 140,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "O jednom emigrantovi"
-          },
-          {
-            "filename": "brozovane_basne_142.md",
-            "xhtml": "brozovane_basne_142.xhtml",
-            "id": 141,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "O mladičkém posunovači"
-          },
-          {
-            "filename": "brozovane_basne_143.md",
-            "xhtml": "brozovane_basne_143.xhtml",
-            "id": 142,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "O mladičké přadleně (Janu Zábranovi)"
-          },
-          {
-            "filename": "brozovane_basne_144.md",
-            "xhtml": "brozovane_basne_144.xhtml",
-            "id": 143,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Beerspective (Janu Lopatkovi)"
-          },
-          {
-            "filename": "brozovane_basne_145.md",
-            "xhtml": "brozovane_basne_145.xhtml",
-            "id": 144,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Laskavá normalizace (Blance)"
+            ]
           },
           {
             "filename": "brozovane_basne_146.md",
@@ -1932,8 +1932,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "brozovane_basne_147.md",
@@ -2923,6 +2923,6 @@
       "user": "books-are-next",
       "repo": "srut-brozovane-basne"
     },
-    "generatedAt": 1661595457169
+    "generatedAt": 1661597056508
   }
 }

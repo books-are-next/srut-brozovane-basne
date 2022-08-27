@@ -165,7 +165,7 @@ tocBase:
         title: Zlomek rekonstrukce doslovu
         hiddenTitle: false
       - link: brozovane_basne_006.html
-        title: "DOMÁCÍ ŘÁD\_"
+        title: Domácí řád
         hiddenTitle: false
         children:
           - link: brozovane_basne_007.html
@@ -173,7 +173,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: brozovane_basne_008.html
-        title: MALÁ DOMŮ
+        title: Malá domů
         hiddenTitle: false
         children:
           - link: brozovane_basne_009.html
@@ -324,7 +324,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: brozovane_basne_057.html
-        title: SAMOVAR
+        title: Samovar
         hiddenTitle: false
         children:
           - link: brozovane_basne_058.html
@@ -426,172 +426,172 @@ tocBase:
           - link: brozovane_basne_090.html
             title: Houpací Trojský kůň II.
             hiddenTitle: false
+          - link: brozovane_basne_091.html
+            title: P. S.
+            hiddenTitle: false
+          - link: brozovane_basne_092.html
+            title: Pes jitrničku sežral
+            hiddenTitle: false
+          - link: brozovane_basne_093.html
+            title: Budoucnost (Vítovi)
+            hiddenTitle: false
+          - link: brozovane_basne_094.html
+            title: Adamova žena
+            hiddenTitle: false
+          - link: brozovane_basne_095.html
+            title: "Sisyfova žena (Janovi a\_Božence Skácelovým)"
+            hiddenTitle: false
+          - link: brozovane_basne_096.html
+            title: "Démosthenova žena mluví v\_zlosti"
+            hiddenTitle: false
+          - link: brozovane_basne_097.html
+            title: Homérova žena si stýská
+            hiddenTitle: false
+          - link: brozovane_basne_098.html
+            title: Studiosa Fausta bytná se podivuje
+            hiddenTitle: false
+          - link: brozovane_basne_099.html
+            title: Galileova žena
+            hiddenTitle: false
+          - link: brozovane_basne_100.html
+            title: "Casanovova v\_Duchcově utajená žena"
+            hiddenTitle: false
+          - link: brozovane_basne_101.html
+            title: Silvestrovská 1980
+            hiddenTitle: false
+          - link: brozovane_basne_102.html
+            title: "Hry o\_život (po přečtení stejnojmenného spisku dr. Jitky Schánilcové)"
+            hiddenTitle: false
+          - link: brozovane_basne_103.html
+            title: Že
+            hiddenTitle: false
+          - link: brozovane_basne_104.html
+            title: Dynastie Že
+            hiddenTitle: false
+          - link: brozovane_basne_105.html
+            title: Krysař
+            hiddenTitle: false
+          - link: brozovane_basne_106.html
+            title: Faustovo pozdní odpoledne
+            hiddenTitle: false
+          - link: brozovane_basne_107.html
+            title: Před usnutím
+            hiddenTitle: false
+          - link: brozovane_basne_108.html
+            title: Samizdat
+            hiddenTitle: false
+          - link: brozovane_basne_109.html
+            title: Starý povzdech
+            hiddenTitle: false
+          - link: brozovane_basne_110.html
+            title: Tělo
+            hiddenTitle: false
+          - link: brozovane_basne_111.html
+            title: Všude dobře
+            hiddenTitle: false
+          - link: brozovane_basne_112.html
+            title: Milostná noc
+            hiddenTitle: false
+          - link: brozovane_basne_113.html
+            title: Diagnóza
+            hiddenTitle: false
+          - link: brozovane_basne_114.html
+            title: Abstinenční příznaky
+            hiddenTitle: false
+          - link: brozovane_basne_115.html
+            title: Svobodné povolání
+            hiddenTitle: false
+          - link: brozovane_basne_116.html
+            title: "V\_domácnosti"
+            hiddenTitle: false
+          - link: brozovane_basne_117.html
+            title: Míjení
+            hiddenTitle: false
+          - link: brozovane_basne_118.html
+            title: Agent 007
+            hiddenTitle: false
+          - link: brozovane_basne_119.html
+            title: Což
+            hiddenTitle: false
+          - link: brozovane_basne_120.html
+            title: "Vesmír je konečnýv\_mém čase"
+            hiddenTitle: false
+          - link: brozovane_basne_121.html
+            title: Zavírací hodina
+            hiddenTitle: false
+          - link: brozovane_basne_122.html
+            title: Hostitel
+            hiddenTitle: false
+          - link: brozovane_basne_123.html
+            title: Kentaur
+            hiddenTitle: false
+          - link: brozovane_basne_124.html
+            title: Domů
+            hiddenTitle: false
+          - link: brozovane_basne_125.html
+            title: "Citát z\_médi Bédi"
+            hiddenTitle: false
+          - link: brozovane_basne_126.html
+            title: Velká doba,malá potřeba
+            hiddenTitle: false
+          - link: brozovane_basne_127.html
+            title: Ti dva
+            hiddenTitle: false
+          - link: brozovane_basne_128.html
+            title: Po dalším pohřbu
+            hiddenTitle: false
+          - link: brozovane_basne_129.html
+            title: "Jaro s\_rozpomínkouna T. S. Eliota"
+            hiddenTitle: false
+          - link: brozovane_basne_130.html
+            title: Ráno
+            hiddenTitle: false
+          - link: brozovane_basne_131.html
+            title: Brnkání na brdo
+            hiddenTitle: false
+          - link: brozovane_basne_132.html
+            title: Ztracené básně, ztracení lidé
+            hiddenTitle: false
+          - link: brozovane_basne_133.html
+            title: Kde je víra?
+            hiddenTitle: false
+          - link: brozovane_basne_134.html
+            title: Milostná
+            hiddenTitle: false
+          - link: brozovane_basne_135.html
+            title: Tělesná láska
+            hiddenTitle: false
+          - link: brozovane_basne_136.html
+            title: "Třikrát o\_ňadrech aneb Pořádná báseň se musískládat do komínku"
+            hiddenTitle: false
+          - link: brozovane_basne_137.html
+            title: Mlha je mlha je mlha
+            hiddenTitle: false
+          - link: brozovane_basne_138.html
+            title: Sýčkování
+            hiddenTitle: false
+          - link: brozovane_basne_139.html
+            title: Chvála čtyřtaktního těla
+            hiddenTitle: false
+          - link: brozovane_basne_140.html
+            title: Kámasútra
+            hiddenTitle: false
+          - link: brozovane_basne_141.html
+            title: "O\_jednom emigrantovi"
+            hiddenTitle: false
+          - link: brozovane_basne_142.html
+            title: "O\_mladičkém posunovači"
+            hiddenTitle: false
+          - link: brozovane_basne_143.html
+            title: "O\_mladičké přadleně (Janu Zábranovi)"
+            hiddenTitle: false
+          - link: brozovane_basne_144.html
+            title: Beerspective (Janu Lopatkovi)
+            hiddenTitle: false
+          - link: brozovane_basne_145.html
+            title: Laskavá normalizace (Blance)
+            hiddenTitle: false
         listType: plain
-      - link: brozovane_basne_091.html
-        title: P. S.
-        hiddenTitle: false
-      - link: brozovane_basne_092.html
-        title: Pes jitrničku sežral
-        hiddenTitle: false
-      - link: brozovane_basne_093.html
-        title: Budoucnost (Vítovi)
-        hiddenTitle: false
-      - link: brozovane_basne_094.html
-        title: Adamova žena
-        hiddenTitle: false
-      - link: brozovane_basne_095.html
-        title: "Sisyfova žena (Janovi a\_Božence Skácelovým)"
-        hiddenTitle: false
-      - link: brozovane_basne_096.html
-        title: "Démosthenova žena mluví v\_zlosti"
-        hiddenTitle: false
-      - link: brozovane_basne_097.html
-        title: Homérova žena si stýská
-        hiddenTitle: false
-      - link: brozovane_basne_098.html
-        title: Studiosa Fausta bytná se podivuje
-        hiddenTitle: false
-      - link: brozovane_basne_099.html
-        title: Galileova žena
-        hiddenTitle: false
-      - link: brozovane_basne_100.html
-        title: "Casanovova v\_Duchcově utajená žena"
-        hiddenTitle: false
-      - link: brozovane_basne_101.html
-        title: Silvestrovská 1980
-        hiddenTitle: false
-      - link: brozovane_basne_102.html
-        title: "Hry o\_život (po přečtení stejnojmenného spisku dr. Jitky Schánilcové)"
-        hiddenTitle: false
-      - link: brozovane_basne_103.html
-        title: Že
-        hiddenTitle: false
-      - link: brozovane_basne_104.html
-        title: Dynastie Že
-        hiddenTitle: false
-      - link: brozovane_basne_105.html
-        title: Krysař
-        hiddenTitle: false
-      - link: brozovane_basne_106.html
-        title: Faustovo pozdní odpoledne
-        hiddenTitle: false
-      - link: brozovane_basne_107.html
-        title: Před usnutím
-        hiddenTitle: false
-      - link: brozovane_basne_108.html
-        title: Samizdat
-        hiddenTitle: false
-      - link: brozovane_basne_109.html
-        title: Starý povzdech
-        hiddenTitle: false
-      - link: brozovane_basne_110.html
-        title: Tělo
-        hiddenTitle: false
-      - link: brozovane_basne_111.html
-        title: Všude dobře
-        hiddenTitle: false
-      - link: brozovane_basne_112.html
-        title: Milostná noc
-        hiddenTitle: false
-      - link: brozovane_basne_113.html
-        title: Diagnóza
-        hiddenTitle: false
-      - link: brozovane_basne_114.html
-        title: Abstinenční příznaky
-        hiddenTitle: false
-      - link: brozovane_basne_115.html
-        title: Svobodné povolání
-        hiddenTitle: false
-      - link: brozovane_basne_116.html
-        title: "V\_domácnosti"
-        hiddenTitle: false
-      - link: brozovane_basne_117.html
-        title: Míjení
-        hiddenTitle: false
-      - link: brozovane_basne_118.html
-        title: Agent 007
-        hiddenTitle: false
-      - link: brozovane_basne_119.html
-        title: Což
-        hiddenTitle: false
-      - link: brozovane_basne_120.html
-        title: "Vesmír je konečnýv\_mém čase"
-        hiddenTitle: false
-      - link: brozovane_basne_121.html
-        title: Zavírací hodina
-        hiddenTitle: false
-      - link: brozovane_basne_122.html
-        title: Hostitel
-        hiddenTitle: false
-      - link: brozovane_basne_123.html
-        title: Kentaur
-        hiddenTitle: false
-      - link: brozovane_basne_124.html
-        title: Domů
-        hiddenTitle: false
-      - link: brozovane_basne_125.html
-        title: "Citát z\_médi Bédi"
-        hiddenTitle: false
-      - link: brozovane_basne_126.html
-        title: Velká doba,malá potřeba
-        hiddenTitle: false
-      - link: brozovane_basne_127.html
-        title: Ti dva
-        hiddenTitle: false
-      - link: brozovane_basne_128.html
-        title: Po dalším pohřbu
-        hiddenTitle: false
-      - link: brozovane_basne_129.html
-        title: "Jaro s\_rozpomínkouna T. S. Eliota"
-        hiddenTitle: false
-      - link: brozovane_basne_130.html
-        title: Ráno
-        hiddenTitle: false
-      - link: brozovane_basne_131.html
-        title: Brnkání na brdo
-        hiddenTitle: false
-      - link: brozovane_basne_132.html
-        title: Ztracené básně, ztracení lidé
-        hiddenTitle: false
-      - link: brozovane_basne_133.html
-        title: Kde je víra?
-        hiddenTitle: false
-      - link: brozovane_basne_134.html
-        title: Milostná
-        hiddenTitle: false
-      - link: brozovane_basne_135.html
-        title: Tělesná láska
-        hiddenTitle: false
-      - link: brozovane_basne_136.html
-        title: "Třikrát o\_ňadrech aneb Pořádná báseň se musískládat do komínku"
-        hiddenTitle: false
-      - link: brozovane_basne_137.html
-        title: Mlha je mlha je mlha
-        hiddenTitle: false
-      - link: brozovane_basne_138.html
-        title: Sýčkování
-        hiddenTitle: false
-      - link: brozovane_basne_139.html
-        title: Chvála čtyřtaktního těla
-        hiddenTitle: false
-      - link: brozovane_basne_140.html
-        title: Kámasútra
-        hiddenTitle: false
-      - link: brozovane_basne_141.html
-        title: "O\_jednom emigrantovi"
-        hiddenTitle: false
-      - link: brozovane_basne_142.html
-        title: "O\_mladičkém posunovači"
-        hiddenTitle: false
-      - link: brozovane_basne_143.html
-        title: "O\_mladičké přadleně (Janu Zábranovi)"
-        hiddenTitle: false
-      - link: brozovane_basne_144.html
-        title: Beerspective (Janu Lopatkovi)
-        hiddenTitle: false
-      - link: brozovane_basne_145.html
-        title: Laskavá normalizace (Blance)
-        hiddenTitle: false
       - link: brozovane_basne_146.html
         title: Ediční poznámka
         hiddenTitle: false
