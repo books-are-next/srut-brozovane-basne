@@ -1,28 +1,28 @@
 ---
 title: Samizdat
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Máte chuť na víno a pocit  
+Máte chuť na víno a pocit  
 že si zasloužíte aby je někdo  
-s úklonou před vás postavil_
+s úklonou před vás postavil
 
 </section>
 
 <section>
 
-_Jdete tedy na pivo  
+Jdete tedy na pivo  
 do své domovské restaurace  
-kde máte privilegium_
+kde máte privilegium
 
 </section>
 
 <section>
 
-_po kterém právě teď netoužíte:  
+po kterém právě teď netoužíte:  
 Sám si svůj staropramen  
-dedikovat z pípy do žaludku a dál_
+dedikovat z pípy do žaludku a dál
 
 </section>

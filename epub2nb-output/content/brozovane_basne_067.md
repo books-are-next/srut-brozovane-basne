@@ -1,32 +1,32 @@
 ---
 title: Hlubina bezpečnosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dlouhé roky krátké dny  
-Žijeme lásko pod skleněným zvonem_
+Dlouhé roky krátké dny  
+Žijeme lásko pod skleněným zvonem
 
 </section>
 
 <section>
 
-_Dojemně nazí před sebou  
-Jakož i před zákonem_
+Dojemně nazí před sebou  
+Jakož i před zákonem
 
 </section>
 
 <section>
 
-_Zaživa na nás roste tráva  
-Na tomto jiném světě_
+Zaživa na nás roste tráva  
+Na tomto jiném světě
 
 </section>
 
 <section>
 
-_Nehybný rybník opadává  
-A zároveň kvete_
+Nehybný rybník opadává  
+A zároveň kvete
 
 </section>

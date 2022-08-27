@@ -1,6 +1,6 @@
 ---
 title: Zlomek rekonstrukce doslovu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

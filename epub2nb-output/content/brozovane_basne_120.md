@@ -1,20 +1,20 @@
 ---
 title: "Vesmír je konečnýv\_mém čase"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Filosofuji jako mužik na Rusi  
+Filosofuji jako mužik na Rusi  
 A jeho rozpínavost uzavřena  
-Je v báni mé lebeční kosti!_
+Je v báni mé lebeční kosti!
 
 </section>
 
 <section>
 
-_A za ten zjevný fakt že komusi  
+A za ten zjevný fakt že komusi  
 V něm přesto dělám křena  
-Filosofuji: mohou okolnosti_
+Filosofuji: mohou okolnosti
 
 </section>

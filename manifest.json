@@ -1,0 +1,3049 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Brožované básně",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "srut-brozovane-basne-c9e9259",
+  "revision": "c9e9259",
+  "readingOrder": [
+    "promo.html",
+    "brozovane_basne_005.html",
+    "brozovane_basne_006.html",
+    "brozovane_basne_007.html",
+    "brozovane_basne_008.html",
+    "brozovane_basne_009.html",
+    "brozovane_basne_010.html",
+    "brozovane_basne_011.html",
+    "brozovane_basne_012.html",
+    "brozovane_basne_013.html",
+    "brozovane_basne_014.html",
+    "brozovane_basne_015.html",
+    "brozovane_basne_016.html",
+    "brozovane_basne_017.html",
+    "brozovane_basne_018.html",
+    "brozovane_basne_019.html",
+    "brozovane_basne_020.html",
+    "brozovane_basne_021.html",
+    "brozovane_basne_022.html",
+    "brozovane_basne_023.html",
+    "brozovane_basne_024.html",
+    "brozovane_basne_025.html",
+    "brozovane_basne_026.html",
+    "brozovane_basne_027.html",
+    "brozovane_basne_028.html",
+    "brozovane_basne_029.html",
+    "brozovane_basne_030.html",
+    "brozovane_basne_031.html",
+    "brozovane_basne_032.html",
+    "brozovane_basne_033.html",
+    "brozovane_basne_034.html",
+    "brozovane_basne_035.html",
+    "brozovane_basne_036.html",
+    "brozovane_basne_037.html",
+    "brozovane_basne_038.html",
+    "brozovane_basne_039.html",
+    "brozovane_basne_040.html",
+    "brozovane_basne_041.html",
+    "brozovane_basne_042.html",
+    "brozovane_basne_043.html",
+    "brozovane_basne_044.html",
+    "brozovane_basne_045.html",
+    "brozovane_basne_046.html",
+    "brozovane_basne_047.html",
+    "brozovane_basne_048.html",
+    "brozovane_basne_049.html",
+    "brozovane_basne_050.html",
+    "brozovane_basne_051.html",
+    "brozovane_basne_052.html",
+    "brozovane_basne_053.html",
+    "brozovane_basne_054.html",
+    "brozovane_basne_055.html",
+    "brozovane_basne_056.html",
+    "brozovane_basne_057.html",
+    "brozovane_basne_058.html",
+    "brozovane_basne_059.html",
+    "brozovane_basne_060.html",
+    "brozovane_basne_061.html",
+    "brozovane_basne_062.html",
+    "brozovane_basne_063.html",
+    "brozovane_basne_064.html",
+    "brozovane_basne_065.html",
+    "brozovane_basne_066.html",
+    "brozovane_basne_067.html",
+    "brozovane_basne_068.html",
+    "brozovane_basne_069.html",
+    "brozovane_basne_070.html",
+    "brozovane_basne_071.html",
+    "brozovane_basne_072.html",
+    "brozovane_basne_073.html",
+    "brozovane_basne_074.html",
+    "brozovane_basne_075.html",
+    "brozovane_basne_076.html",
+    "brozovane_basne_077.html",
+    "brozovane_basne_078.html",
+    "brozovane_basne_079.html",
+    "brozovane_basne_080.html",
+    "brozovane_basne_081.html",
+    "brozovane_basne_082.html",
+    "brozovane_basne_083.html",
+    "brozovane_basne_084.html",
+    "brozovane_basne_085.html",
+    "brozovane_basne_086.html",
+    "brozovane_basne_087.html",
+    "brozovane_basne_088.html",
+    "brozovane_basne_089.html",
+    "brozovane_basne_090.html",
+    "brozovane_basne_091.html",
+    "brozovane_basne_092.html",
+    "brozovane_basne_093.html",
+    "brozovane_basne_094.html",
+    "brozovane_basne_095.html",
+    "brozovane_basne_096.html",
+    "brozovane_basne_097.html",
+    "brozovane_basne_098.html",
+    "brozovane_basne_099.html",
+    "brozovane_basne_100.html",
+    "brozovane_basne_101.html",
+    "brozovane_basne_102.html",
+    "brozovane_basne_103.html",
+    "brozovane_basne_104.html",
+    "brozovane_basne_105.html",
+    "brozovane_basne_106.html",
+    "brozovane_basne_107.html",
+    "brozovane_basne_108.html",
+    "brozovane_basne_109.html",
+    "brozovane_basne_110.html",
+    "brozovane_basne_111.html",
+    "brozovane_basne_112.html",
+    "brozovane_basne_113.html",
+    "brozovane_basne_114.html",
+    "brozovane_basne_115.html",
+    "brozovane_basne_116.html",
+    "brozovane_basne_117.html",
+    "brozovane_basne_118.html",
+    "brozovane_basne_119.html",
+    "brozovane_basne_120.html",
+    "brozovane_basne_121.html",
+    "brozovane_basne_122.html",
+    "brozovane_basne_123.html",
+    "brozovane_basne_124.html",
+    "brozovane_basne_125.html",
+    "brozovane_basne_126.html",
+    "brozovane_basne_127.html",
+    "brozovane_basne_128.html",
+    "brozovane_basne_129.html",
+    "brozovane_basne_130.html",
+    "brozovane_basne_131.html",
+    "brozovane_basne_132.html",
+    "brozovane_basne_133.html",
+    "brozovane_basne_134.html",
+    "brozovane_basne_135.html",
+    "brozovane_basne_136.html",
+    "brozovane_basne_137.html",
+    "brozovane_basne_138.html",
+    "brozovane_basne_139.html",
+    "brozovane_basne_140.html",
+    "brozovane_basne_141.html",
+    "brozovane_basne_142.html",
+    "brozovane_basne_143.html",
+    "brozovane_basne_144.html",
+    "brozovane_basne_145.html",
+    "brozovane_basne_146.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sat Aug 27 2022 10:19:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661595566822
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "brozovane_basne_005.html",
+      "toc": []
+    },
+    {
+      "title": "Zlomek rekonstrukce doslovu",
+      "file": "brozovane_basne_005.html",
+      "words": 312,
+      "chars": 1670,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "brozovane_basne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlomek rekonstrukce doslovu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOMÁCÍ ŘÁD",
+      "file": "brozovane_basne_006.html",
+      "words": 6,
+      "chars": 36,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "brozovane_basne_005.html",
+      "next": "brozovane_basne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOMÁCÍ ŘÁD",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zrození básníka:preambule",
+      "file": "brozovane_basne_007.html",
+      "words": 893,
+      "chars": 4717,
+      "ideas": 225,
+      "role": "chapter",
+      "order": 3,
+      "prev": "brozovane_basne_006.html",
+      "next": "brozovane_basne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zrození básníka:preambule",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MALÁ DOMŮ",
+      "file": "brozovane_basne_008.html",
+      "words": 7,
+      "chars": 45,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 4,
+      "prev": "brozovane_basne_007.html",
+      "next": "brozovane_basne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MALÁ DOMŮ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec básníka: preambule",
+      "file": "brozovane_basne_009.html",
+      "words": 66,
+      "chars": 362,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 5,
+      "prev": "brozovane_basne_008.html",
+      "next": "brozovane_basne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec básníka: preambule",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na druhý den(Eugenu Brikciusovi)",
+      "file": "brozovane_basne_010.html",
+      "words": 38,
+      "chars": 264,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 6,
+      "prev": "brozovane_basne_009.html",
+      "next": "brozovane_basne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na druhý den(Eugenu Brikciusovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čas(Antonínu Brouskovi)",
+      "file": "brozovane_basne_011.html",
+      "words": 58,
+      "chars": 370,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 7,
+      "prev": "brozovane_basne_010.html",
+      "next": "brozovane_basne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čas(Antonínu Brouskovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Před zrcadlem(Petrákovi Císařovskému, sochaři)",
+      "file": "brozovane_basne_012.html",
+      "words": 22,
+      "chars": 141,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 8,
+      "prev": "brozovane_basne_011.html",
+      "next": "brozovane_basne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před zrcadlem(Petrákovi Císařovskému, sochaři)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sýčkování(po setkání s Michalem Černíkem na Národní třídě)",
+      "file": "brozovane_basne_013.html",
+      "words": 100,
+      "chars": 506,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 9,
+      "prev": "brozovane_basne_012.html",
+      "next": "brozovane_basne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sýčkování(po setkání s Michalem Černíkem na Národní třídě)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brainwashing(Ivanu Divišovi)",
+      "file": "brozovane_basne_014.html",
+      "words": 61,
+      "chars": 359,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "brozovane_basne_013.html",
+      "next": "brozovane_basne_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brainwashing(Ivanu Divišovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slibuji(níže jmenovanému býv. tajemníkubytového družstva Mansarda)",
+      "file": "brozovane_basne_015.html",
+      "words": 43,
+      "chars": 262,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 11,
+      "prev": "brozovane_basne_014.html",
+      "next": "brozovane_basne_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slibuji(níže jmenovanému býv. tajemníkubytového družstva Mansarda)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Asanace Žižkova(Janu Hančovi, jeho deníkům)",
+      "file": "brozovane_basne_016.html",
+      "words": 73,
+      "chars": 408,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "brozovane_basne_015.html",
+      "next": "brozovane_basne_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Asanace Žižkova(Janu Hančovi, jeho deníkům)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lán(Václavu Havlovi)",
+      "file": "brozovane_basne_017.html",
+      "words": 42,
+      "chars": 234,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 13,
+      "prev": "brozovane_basne_016.html",
+      "next": "brozovane_basne_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lán(Václavu Havlovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mozartiáda v éteru(Janu Hlouškovi zvanému Bonyv nejmenované vinárně)",
+      "file": "brozovane_basne_018.html",
+      "words": 46,
+      "chars": 262,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 14,
+      "prev": "brozovane_basne_017.html",
+      "next": "brozovane_basne_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mozartiáda v éteru(Janu Hlouškovi zvanému Bonyv nejmenované vinárně)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nekrolog pro křídlovku(Františku Hrubínovi in memoriam)",
+      "file": "brozovane_basne_019.html",
+      "words": 56,
+      "chars": 344,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 15,
+      "prev": "brozovane_basne_018.html",
+      "next": "brozovane_basne_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nekrolog pro křídlovku(Františku Hrubínovi in memoriam)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Harakiri(Borisi Hybnerovi)",
+      "file": "brozovane_basne_020.html",
+      "words": 44,
+      "chars": 255,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 16,
+      "prev": "brozovane_basne_019.html",
+      "next": "brozovane_basne_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Harakiri(Borisi Hybnerovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvětšenina(Petru Chudožilovovi)",
+      "file": "brozovane_basne_021.html",
+      "words": 44,
+      "chars": 244,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 17,
+      "prev": "brozovane_basne_020.html",
+      "next": "brozovane_basne_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvětšenina(Petru Chudožilovovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak na tvou žádost o sobě(Petru Kabešovi)",
+      "file": "brozovane_basne_022.html",
+      "words": 76,
+      "chars": 413,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "brozovane_basne_021.html",
+      "next": "brozovane_basne_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tak na tvou žádost o sobě(Petru Kabešovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nedokončená(Jaroslavu Kořánovi)",
+      "file": "brozovane_basne_023.html",
+      "words": 51,
+      "chars": 332,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 19,
+      "prev": "brozovane_basne_022.html",
+      "next": "brozovane_basne_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nedokončená(Jaroslavu Kořánovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dialektika konkrétního (muže)(Ireně Kosíkové)",
+      "file": "brozovane_basne_024.html",
+      "words": 51,
+      "chars": 297,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "brozovane_basne_023.html",
+      "next": "brozovane_basne_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dialektika konkrétního (muže)(Ireně Kosíkové)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V půli(Aleši Krejčovi)",
+      "file": "brozovane_basne_025.html",
+      "words": 51,
+      "chars": 284,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 21,
+      "prev": "brozovane_basne_024.html",
+      "next": "brozovane_basne_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V půli(Aleši Krejčovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta do Ďáblic(Josefu Kroutvorovi)",
+      "file": "brozovane_basne_026.html",
+      "words": 57,
+      "chars": 303,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 22,
+      "prev": "brozovane_basne_025.html",
+      "next": "brozovane_basne_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta do Ďáblic(Josefu Kroutvorovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednou jsem vyblejsknul tě v pivoňkách(mamince)",
+      "file": "brozovane_basne_027.html",
+      "words": 42,
+      "chars": 234,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 23,
+      "prev": "brozovane_basne_026.html",
+      "next": "brozovane_basne_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednou jsem vyblejsknul tě v pivoňkách(mamince)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prostřední ze sesterBrontëových píše dopis(Rudolfu Matysovi)",
+      "file": "brozovane_basne_028.html",
+      "words": 49,
+      "chars": 290,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 24,
+      "prev": "brozovane_basne_027.html",
+      "next": "brozovane_basne_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prostřední ze sesterBrontëových píše dopis(Rudolfu Matysovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básník(Oldřichu Mikuláškovi)",
+      "file": "brozovane_basne_029.html",
+      "words": 58,
+      "chars": 293,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 25,
+      "prev": "brozovane_basne_028.html",
+      "next": "brozovane_basne_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Básník(Oldřichu Mikuláškovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsi včerejší(citován Jiří Načeradský U Klokoně)",
+      "file": "brozovane_basne_030.html",
+      "words": 24,
+      "chars": 144,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 26,
+      "prev": "brozovane_basne_029.html",
+      "next": "brozovane_basne_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsi včerejší(citován Jiří Načeradský U Klokoně)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsi prázdnem obklopen(Rudovi Němcovi)",
+      "file": "brozovane_basne_031.html",
+      "words": 49,
+      "chars": 276,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "brozovane_basne_030.html",
+      "next": "brozovane_basne_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsi prázdnem obklopen(Rudovi Němcovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V neděli ránopivaři přicházejí(tradicionál pro Karla Nepraše)",
+      "file": "brozovane_basne_032.html",
+      "words": 31,
+      "chars": 180,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 28,
+      "prev": "brozovane_basne_031.html",
+      "next": "brozovane_basne_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V neděli ránopivaři přicházejí(tradicionál pro Karla Nepraše)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žižkovské večery(otci)",
+      "file": "brozovane_basne_033.html",
+      "words": 62,
+      "chars": 345,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 29,
+      "prev": "brozovane_basne_032.html",
+      "next": "brozovane_basne_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žižkovské večery(otci)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Causa mortalis(Jiřímu Pištorovi in memoriam)",
+      "file": "brozovane_basne_034.html",
+      "words": 58,
+      "chars": 336,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 30,
+      "prev": "brozovane_basne_033.html",
+      "next": "brozovane_basne_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Causa mortalis(Jiřímu Pištorovi in memoriam)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hádání z kávovésedliny a rumu(Tomáši Pěknému)",
+      "file": "brozovane_basne_035.html",
+      "words": 29,
+      "chars": 193,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "brozovane_basne_034.html",
+      "next": "brozovane_basne_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hádání z kávovésedliny a rumu(Tomáši Pěknému)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básníci, věštci, hadačise propíjejí do tmy(Karolu Sidonovi)",
+      "file": "brozovane_basne_036.html",
+      "words": 63,
+      "chars": 365,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "brozovane_basne_035.html",
+      "next": "brozovane_basne_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Básníci, věštci, hadačise propíjejí do tmy(Karolu Sidonovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Do lesů(Zbyšku Sionovi)",
+      "file": "brozovane_basne_037.html",
+      "words": 65,
+      "chars": 366,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 33,
+      "prev": "brozovane_basne_036.html",
+      "next": "brozovane_basne_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Do lesů(Zbyšku Sionovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ale co zahrada?(Janu Skácelovi)",
+      "file": "brozovane_basne_038.html",
+      "words": 59,
+      "chars": 311,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 34,
+      "prev": "brozovane_basne_037.html",
+      "next": "brozovane_basne_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ale co zahrada?(Janu Skácelovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malá óda na zadovku(Otovi Slavíkovi)",
+      "file": "brozovane_basne_039.html",
+      "words": 46,
+      "chars": 292,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 35,
+      "prev": "brozovane_basne_038.html",
+      "next": "brozovane_basne_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malá óda na zadovku(Otovi Slavíkovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nahoře Bůh(citován Jiří Sopko U kotvy)",
+      "file": "brozovane_basne_040.html",
+      "words": 34,
+      "chars": 193,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 36,
+      "prev": "brozovane_basne_039.html",
+      "next": "brozovane_basne_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nahoře Bůh(citován Jiří Sopko U kotvy)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příliš mnoho Jobůa jediný Nikolaj(imitován Nikolaj Stankovič U Svitáků)",
+      "file": "brozovane_basne_041.html",
+      "words": 37,
+      "chars": 203,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "brozovane_basne_040.html",
+      "next": "brozovane_basne_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příliš mnoho Jobůa jediný Nikolaj(imitován Nikolaj Stankovič U Svitáků)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvojbáseň pro dvě Amazonky(Janu Steklíkovi)",
+      "file": "brozovane_basne_042.html",
+      "words": 54,
+      "chars": 324,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 38,
+      "prev": "brozovane_basne_041.html",
+      "next": "brozovane_basne_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvojbáseň pro dvě Amazonky(Janu Steklíkovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nikotin(Jiřímu Stivínovi)",
+      "file": "brozovane_basne_043.html",
+      "words": 52,
+      "chars": 292,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 39,
+      "prev": "brozovane_basne_042.html",
+      "next": "brozovane_basne_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nikotin(Jiřímu Stivínovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veselice(Karlu Sýsovi)",
+      "file": "brozovane_basne_044.html",
+      "words": 90,
+      "chars": 526,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 40,
+      "prev": "brozovane_basne_043.html",
+      "next": "brozovane_basne_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veselice(Karlu Sýsovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovo o Pluku pražských dětí(Janu Šafránkovi a kamarádům ve vídeňské emigraci)",
+      "file": "brozovane_basne_045.html",
+      "words": 103,
+      "chars": 635,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 41,
+      "prev": "brozovane_basne_044.html",
+      "next": "brozovane_basne_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slovo o Pluku pražských dětí(Janu Šafránkovi a kamarádům ve vídeňské emigraci)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pražský žalm(Karlu Šiktancovi)",
+      "file": "brozovane_basne_046.html",
+      "words": 97,
+      "chars": 551,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 42,
+      "prev": "brozovane_basne_045.html",
+      "next": "brozovane_basne_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pražský žalm(Karlu Šiktancovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Socha torza(Antonínu Tomalíkovi in memoriam)",
+      "file": "brozovane_basne_047.html",
+      "words": 52,
+      "chars": 274,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "brozovane_basne_046.html",
+      "next": "brozovane_basne_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Socha torza(Antonínu Tomalíkovi in memoriam)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mléčná dráha(Miloslavu Topinkovi)",
+      "file": "brozovane_basne_048.html",
+      "words": 38,
+      "chars": 232,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 44,
+      "prev": "brozovane_basne_047.html",
+      "next": "brozovane_basne_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mléčná dráha(Miloslavu Topinkovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na schovávanou(Janu Vodňanskému)",
+      "file": "brozovane_basne_049.html",
+      "words": 62,
+      "chars": 330,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 45,
+      "prev": "brozovane_basne_048.html",
+      "next": "brozovane_basne_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na schovávanou(Janu Vodňanskému)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žehnám ti proutkaři!(Václavu Vrbovi)",
+      "file": "brozovane_basne_050.html",
+      "words": 45,
+      "chars": 264,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 46,
+      "prev": "brozovane_basne_049.html",
+      "next": "brozovane_basne_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žehnám ti proutkaři!(Václavu Vrbovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nevycházíš(Ivanu Wernischovi)",
+      "file": "brozovane_basne_051.html",
+      "words": 28,
+      "chars": 179,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 47,
+      "prev": "brozovane_basne_050.html",
+      "next": "brozovane_basne_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nevycházíš(Ivanu Wernischovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílé místo(Heleně Wernischové)",
+      "file": "brozovane_basne_052.html",
+      "words": 60,
+      "chars": 326,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 48,
+      "prev": "brozovane_basne_051.html",
+      "next": "brozovane_basne_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílé místo(Heleně Wernischové)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "What about Pilsen?(to Paul Wilson)",
+      "file": "brozovane_basne_053.html",
+      "words": 37,
+      "chars": 208,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 49,
+      "prev": "brozovane_basne_052.html",
+      "next": "brozovane_basne_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "What about Pilsen?(to Paul Wilson)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Taneční roky pro dospělé(Janu Zábranovi)",
+      "file": "brozovane_basne_054.html",
+      "words": 91,
+      "chars": 513,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 50,
+      "prev": "brozovane_basne_053.html",
+      "next": "brozovane_basne_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Taneční roky pro dospělé(Janu Zábranovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bůh je(citován střední knírač na Perštýně)",
+      "file": "brozovane_basne_055.html",
+      "words": 34,
+      "chars": 196,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 51,
+      "prev": "brozovane_basne_054.html",
+      "next": "brozovane_basne_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bůh je(citován střední knírač na Perštýně)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epitaf(sobě)",
+      "file": "brozovane_basne_056.html",
+      "words": 41,
+      "chars": 215,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 52,
+      "prev": "brozovane_basne_055.html",
+      "next": "brozovane_basne_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epitaf(sobě)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SAMOVAR",
+      "file": "brozovane_basne_057.html",
+      "words": 5,
+      "chars": 27,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 53,
+      "prev": "brozovane_basne_056.html",
+      "next": "brozovane_basne_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SAMOVAR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Český rok",
+      "file": "brozovane_basne_058.html",
+      "words": 31,
+      "chars": 154,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 54,
+      "prev": "brozovane_basne_057.html",
+      "next": "brozovane_basne_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Český rok",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní návraty",
+      "file": "brozovane_basne_059.html",
+      "words": 29,
+      "chars": 159,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 55,
+      "prev": "brozovane_basne_058.html",
+      "next": "brozovane_basne_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pozdní návraty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bydlet!",
+      "file": "brozovane_basne_060.html",
+      "words": 69,
+      "chars": 348,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 56,
+      "prev": "brozovane_basne_059.html",
+      "next": "brozovane_basne_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bydlet!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žena má obvykle dva prsy",
+      "file": "brozovane_basne_061.html",
+      "words": 24,
+      "chars": 112,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 57,
+      "prev": "brozovane_basne_060.html",
+      "next": "brozovane_basne_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žena má obvykle dva prsy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tolik mne miluje",
+      "file": "brozovane_basne_062.html",
+      "words": 29,
+      "chars": 155,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 58,
+      "prev": "brozovane_basne_061.html",
+      "next": "brozovane_basne_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tolik mne miluje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sníh",
+      "file": "brozovane_basne_063.html",
+      "words": 33,
+      "chars": 154,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 59,
+      "prev": "brozovane_basne_062.html",
+      "next": "brozovane_basne_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sníh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všelijak",
+      "file": "brozovane_basne_064.html",
+      "words": 43,
+      "chars": 222,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 60,
+      "prev": "brozovane_basne_063.html",
+      "next": "brozovane_basne_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všelijak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sonet o józe",
+      "file": "brozovane_basne_065.html",
+      "words": 63,
+      "chars": 352,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 61,
+      "prev": "brozovane_basne_064.html",
+      "next": "brozovane_basne_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sonet o józe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co pořád dělám? Ále…(sonet na citát z Tomáše)",
+      "file": "brozovane_basne_066.html",
+      "words": 76,
+      "chars": 409,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 62,
+      "prev": "brozovane_basne_065.html",
+      "next": "brozovane_basne_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co pořád dělám? Ále…(sonet na citát z Tomáše)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hlubina bezpečnosti",
+      "file": "brozovane_basne_067.html",
+      "words": 34,
+      "chars": 199,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 63,
+      "prev": "brozovane_basne_066.html",
+      "next": "brozovane_basne_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hlubina bezpečnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tesknice",
+      "file": "brozovane_basne_068.html",
+      "words": 38,
+      "chars": 202,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 64,
+      "prev": "brozovane_basne_067.html",
+      "next": "brozovane_basne_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tesknice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Houpací Trojský kůň I.",
+      "file": "brozovane_basne_069.html",
+      "words": 93,
+      "chars": 495,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 65,
+      "prev": "brozovane_basne_068.html",
+      "next": "brozovane_basne_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Houpací Trojský kůň I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kmotřička kocovina",
+      "file": "brozovane_basne_070.html",
+      "words": 70,
+      "chars": 369,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 66,
+      "prev": "brozovane_basne_069.html",
+      "next": "brozovane_basne_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kmotřička kocovina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vězeň v něze",
+      "file": "brozovane_basne_071.html",
+      "words": 66,
+      "chars": 351,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 67,
+      "prev": "brozovane_basne_070.html",
+      "next": "brozovane_basne_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vězeň v něze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Černá zabíjačka:1952",
+      "file": "brozovane_basne_072.html",
+      "words": 62,
+      "chars": 280,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 68,
+      "prev": "brozovane_basne_071.html",
+      "next": "brozovane_basne_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Černá zabíjačka:1952",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Požární hlídka: 1954",
+      "file": "brozovane_basne_073.html",
+      "words": 37,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 69,
+      "prev": "brozovane_basne_072.html",
+      "next": "brozovane_basne_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Požární hlídka: 1954",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stalinův pomník:momentka z roku 1956",
+      "file": "brozovane_basne_074.html",
+      "words": 47,
+      "chars": 260,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 70,
+      "prev": "brozovane_basne_073.html",
+      "next": "brozovane_basne_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stalinův pomník:momentka z roku 1956",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rodinná anamnéza(Janu Endrýsovi)",
+      "file": "brozovane_basne_075.html",
+      "words": 78,
+      "chars": 455,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 71,
+      "prev": "brozovane_basne_074.html",
+      "next": "brozovane_basne_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rodinná anamnéza(Janu Endrýsovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U odvodu",
+      "file": "brozovane_basne_076.html",
+      "words": 67,
+      "chars": 390,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 72,
+      "prev": "brozovane_basne_075.html",
+      "next": "brozovane_basne_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U odvodu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá hodinka",
+      "file": "brozovane_basne_077.html",
+      "words": 88,
+      "chars": 459,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 73,
+      "prev": "brozovane_basne_076.html",
+      "next": "brozovane_basne_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílá hodinka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dechová cvičení",
+      "file": "brozovane_basne_078.html",
+      "words": 99,
+      "chars": 557,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 74,
+      "prev": "brozovane_basne_077.html",
+      "next": "brozovane_basne_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dechová cvičení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samovar",
+      "file": "brozovane_basne_079.html",
+      "words": 44,
+      "chars": 235,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 75,
+      "prev": "brozovane_basne_078.html",
+      "next": "brozovane_basne_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samovar",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Celé dny prší",
+      "file": "brozovane_basne_080.html",
+      "words": 37,
+      "chars": 195,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 76,
+      "prev": "brozovane_basne_079.html",
+      "next": "brozovane_basne_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Celé dny prší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bázeň",
+      "file": "brozovane_basne_081.html",
+      "words": 37,
+      "chars": 193,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 77,
+      "prev": "brozovane_basne_080.html",
+      "next": "brozovane_basne_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bázeň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nárok na azyl",
+      "file": "brozovane_basne_082.html",
+      "words": 33,
+      "chars": 154,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 78,
+      "prev": "brozovane_basne_081.html",
+      "next": "brozovane_basne_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nárok na azyl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvojník",
+      "file": "brozovane_basne_083.html",
+      "words": 51,
+      "chars": 281,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 79,
+      "prev": "brozovane_basne_082.html",
+      "next": "brozovane_basne_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvojník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Levitace",
+      "file": "brozovane_basne_084.html",
+      "words": 36,
+      "chars": 184,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 80,
+      "prev": "brozovane_basne_083.html",
+      "next": "brozovane_basne_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Levitace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A vy si nepoložíte otázku",
+      "file": "brozovane_basne_085.html",
+      "words": 108,
+      "chars": 606,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 81,
+      "prev": "brozovane_basne_084.html",
+      "next": "brozovane_basne_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A vy si nepoložíte otázku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stará písnička:gellneriana",
+      "file": "brozovane_basne_086.html",
+      "words": 59,
+      "chars": 325,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 82,
+      "prev": "brozovane_basne_085.html",
+      "next": "brozovane_basne_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stará písnička:gellneriana",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Golemův zákon",
+      "file": "brozovane_basne_087.html",
+      "words": 40,
+      "chars": 212,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 83,
+      "prev": "brozovane_basne_086.html",
+      "next": "brozovane_basne_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Golemův zákon",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Archimedův zákon",
+      "file": "brozovane_basne_088.html",
+      "words": 59,
+      "chars": 317,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 84,
+      "prev": "brozovane_basne_087.html",
+      "next": "brozovane_basne_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Archimedův zákon",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na útěku",
+      "file": "brozovane_basne_089.html",
+      "words": 86,
+      "chars": 462,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 85,
+      "prev": "brozovane_basne_088.html",
+      "next": "brozovane_basne_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na útěku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Houpací Trojský kůň II.",
+      "file": "brozovane_basne_090.html",
+      "words": 98,
+      "chars": 505,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 86,
+      "prev": "brozovane_basne_089.html",
+      "next": "brozovane_basne_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Houpací Trojský kůň II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "P. S.",
+      "file": "brozovane_basne_091.html",
+      "words": 47,
+      "chars": 235,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 87,
+      "prev": "brozovane_basne_090.html",
+      "next": "brozovane_basne_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "P. S.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes jitrničku sežral",
+      "file": "brozovane_basne_092.html",
+      "words": 74,
+      "chars": 370,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 88,
+      "prev": "brozovane_basne_091.html",
+      "next": "brozovane_basne_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes jitrničku sežral",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Budoucnost(Vítovi)",
+      "file": "brozovane_basne_093.html",
+      "words": 41,
+      "chars": 210,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 89,
+      "prev": "brozovane_basne_092.html",
+      "next": "brozovane_basne_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Budoucnost(Vítovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Adamova žena",
+      "file": "brozovane_basne_094.html",
+      "words": 59,
+      "chars": 358,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 90,
+      "prev": "brozovane_basne_093.html",
+      "next": "brozovane_basne_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Adamova žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sisyfova žena(Janovi a Božence Skácelovým)",
+      "file": "brozovane_basne_095.html",
+      "words": 93,
+      "chars": 486,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 91,
+      "prev": "brozovane_basne_094.html",
+      "next": "brozovane_basne_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sisyfova žena(Janovi a Božence Skácelovým)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Démosthenova ženamluví v zlosti",
+      "file": "brozovane_basne_096.html",
+      "words": 86,
+      "chars": 434,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 92,
+      "prev": "brozovane_basne_095.html",
+      "next": "brozovane_basne_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Démosthenova ženamluví v zlosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Homérova žena si stýská",
+      "file": "brozovane_basne_097.html",
+      "words": 62,
+      "chars": 328,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 93,
+      "prev": "brozovane_basne_096.html",
+      "next": "brozovane_basne_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Homérova žena si stýská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studiosa Fausta bytnáse podivuje",
+      "file": "brozovane_basne_098.html",
+      "words": 92,
+      "chars": 478,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 94,
+      "prev": "brozovane_basne_097.html",
+      "next": "brozovane_basne_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Studiosa Fausta bytnáse podivuje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Galileova žena",
+      "file": "brozovane_basne_099.html",
+      "words": 50,
+      "chars": 281,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 95,
+      "prev": "brozovane_basne_098.html",
+      "next": "brozovane_basne_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Galileova žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Casanovova v Duchcověutajená žena",
+      "file": "brozovane_basne_100.html",
+      "words": 40,
+      "chars": 250,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 96,
+      "prev": "brozovane_basne_099.html",
+      "next": "brozovane_basne_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Casanovova v Duchcověutajená žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Silvestrovská 1980",
+      "file": "brozovane_basne_101.html",
+      "words": 40,
+      "chars": 233,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 97,
+      "prev": "brozovane_basne_100.html",
+      "next": "brozovane_basne_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Silvestrovská 1980",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hry o život(po přečtení stejnojmenného spiskudr. Jitky Schánilcové)",
+      "file": "brozovane_basne_102.html",
+      "words": 49,
+      "chars": 312,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 98,
+      "prev": "brozovane_basne_101.html",
+      "next": "brozovane_basne_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hry o život(po přečtení stejnojmenného spiskudr. Jitky Schánilcové)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Že",
+      "file": "brozovane_basne_103.html",
+      "words": 25,
+      "chars": 133,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 99,
+      "prev": "brozovane_basne_102.html",
+      "next": "brozovane_basne_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Že",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dynastie Že",
+      "file": "brozovane_basne_104.html",
+      "words": 101,
+      "chars": 572,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 100,
+      "prev": "brozovane_basne_103.html",
+      "next": "brozovane_basne_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dynastie Že",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krysař",
+      "file": "brozovane_basne_105.html",
+      "words": 71,
+      "chars": 418,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 101,
+      "prev": "brozovane_basne_104.html",
+      "next": "brozovane_basne_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krysař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Faustovo pozdní odpoledne",
+      "file": "brozovane_basne_106.html",
+      "words": 48,
+      "chars": 244,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 102,
+      "prev": "brozovane_basne_105.html",
+      "next": "brozovane_basne_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Faustovo pozdní odpoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Před usnutím",
+      "file": "brozovane_basne_107.html",
+      "words": 34,
+      "chars": 156,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 103,
+      "prev": "brozovane_basne_106.html",
+      "next": "brozovane_basne_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před usnutím",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samizdat",
+      "file": "brozovane_basne_108.html",
+      "words": 45,
+      "chars": 239,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 104,
+      "prev": "brozovane_basne_107.html",
+      "next": "brozovane_basne_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samizdat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý povzdech",
+      "file": "brozovane_basne_109.html",
+      "words": 30,
+      "chars": 139,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 105,
+      "prev": "brozovane_basne_108.html",
+      "next": "brozovane_basne_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý povzdech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tělo",
+      "file": "brozovane_basne_110.html",
+      "words": 49,
+      "chars": 239,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 106,
+      "prev": "brozovane_basne_109.html",
+      "next": "brozovane_basne_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tělo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všude dobře",
+      "file": "brozovane_basne_111.html",
+      "words": 29,
+      "chars": 151,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 107,
+      "prev": "brozovane_basne_110.html",
+      "next": "brozovane_basne_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všude dobře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostná noc",
+      "file": "brozovane_basne_112.html",
+      "words": 23,
+      "chars": 118,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 108,
+      "prev": "brozovane_basne_111.html",
+      "next": "brozovane_basne_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostná noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Diagnóza",
+      "file": "brozovane_basne_113.html",
+      "words": 39,
+      "chars": 238,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 109,
+      "prev": "brozovane_basne_112.html",
+      "next": "brozovane_basne_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Diagnóza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Abstinenční příznaky",
+      "file": "brozovane_basne_114.html",
+      "words": 51,
+      "chars": 280,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 110,
+      "prev": "brozovane_basne_113.html",
+      "next": "brozovane_basne_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Abstinenční příznaky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svobodné povolání",
+      "file": "brozovane_basne_115.html",
+      "words": 45,
+      "chars": 257,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 111,
+      "prev": "brozovane_basne_114.html",
+      "next": "brozovane_basne_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svobodné povolání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V domácnosti",
+      "file": "brozovane_basne_116.html",
+      "words": 56,
+      "chars": 280,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 112,
+      "prev": "brozovane_basne_115.html",
+      "next": "brozovane_basne_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V domácnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Míjení",
+      "file": "brozovane_basne_117.html",
+      "words": 46,
+      "chars": 230,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 113,
+      "prev": "brozovane_basne_116.html",
+      "next": "brozovane_basne_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Míjení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Agent 007",
+      "file": "brozovane_basne_118.html",
+      "words": 64,
+      "chars": 396,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 114,
+      "prev": "brozovane_basne_117.html",
+      "next": "brozovane_basne_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Agent 007",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Což",
+      "file": "brozovane_basne_119.html",
+      "words": 43,
+      "chars": 236,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 115,
+      "prev": "brozovane_basne_118.html",
+      "next": "brozovane_basne_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Což",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vesmír je konečnýv mém čase",
+      "file": "brozovane_basne_120.html",
+      "words": 35,
+      "chars": 191,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 116,
+      "prev": "brozovane_basne_119.html",
+      "next": "brozovane_basne_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vesmír je konečnýv mém čase",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zavírací hodina",
+      "file": "brozovane_basne_121.html",
+      "words": 22,
+      "chars": 135,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 117,
+      "prev": "brozovane_basne_120.html",
+      "next": "brozovane_basne_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zavírací hodina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hostitel",
+      "file": "brozovane_basne_122.html",
+      "words": 28,
+      "chars": 153,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 118,
+      "prev": "brozovane_basne_121.html",
+      "next": "brozovane_basne_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hostitel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kentaur",
+      "file": "brozovane_basne_123.html",
+      "words": 44,
+      "chars": 246,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 119,
+      "prev": "brozovane_basne_122.html",
+      "next": "brozovane_basne_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kentaur",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Domů",
+      "file": "brozovane_basne_124.html",
+      "words": 41,
+      "chars": 231,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 120,
+      "prev": "brozovane_basne_123.html",
+      "next": "brozovane_basne_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Domů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citát z médi Bédi",
+      "file": "brozovane_basne_125.html",
+      "words": 57,
+      "chars": 293,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 121,
+      "prev": "brozovane_basne_124.html",
+      "next": "brozovane_basne_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citát z médi Bédi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velká doba,malá potřeba",
+      "file": "brozovane_basne_126.html",
+      "words": 30,
+      "chars": 167,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 122,
+      "prev": "brozovane_basne_125.html",
+      "next": "brozovane_basne_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velká doba,malá potřeba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ti dva",
+      "file": "brozovane_basne_127.html",
+      "words": 22,
+      "chars": 94,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 123,
+      "prev": "brozovane_basne_126.html",
+      "next": "brozovane_basne_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ti dva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po dalším pohřbu",
+      "file": "brozovane_basne_128.html",
+      "words": 26,
+      "chars": 141,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 124,
+      "prev": "brozovane_basne_127.html",
+      "next": "brozovane_basne_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po dalším pohřbu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaro s rozpomínkouna T. S. Eliota",
+      "file": "brozovane_basne_129.html",
+      "words": 47,
+      "chars": 261,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 125,
+      "prev": "brozovane_basne_128.html",
+      "next": "brozovane_basne_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaro s rozpomínkouna T. S. Eliota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ráno",
+      "file": "brozovane_basne_130.html",
+      "words": 21,
+      "chars": 112,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 126,
+      "prev": "brozovane_basne_129.html",
+      "next": "brozovane_basne_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ráno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brnkání na brdo",
+      "file": "brozovane_basne_131.html",
+      "words": 11,
+      "chars": 61,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 127,
+      "prev": "brozovane_basne_130.html",
+      "next": "brozovane_basne_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brnkání na brdo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztracené básně,ztracení lidé",
+      "file": "brozovane_basne_132.html",
+      "words": 30,
+      "chars": 175,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 128,
+      "prev": "brozovane_basne_131.html",
+      "next": "brozovane_basne_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztracené básně,ztracení lidé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kde je víra?",
+      "file": "brozovane_basne_133.html",
+      "words": 46,
+      "chars": 222,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 129,
+      "prev": "brozovane_basne_132.html",
+      "next": "brozovane_basne_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kde je víra?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostná",
+      "file": "brozovane_basne_134.html",
+      "words": 114,
+      "chars": 711,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 130,
+      "prev": "brozovane_basne_133.html",
+      "next": "brozovane_basne_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tělesná láska",
+      "file": "brozovane_basne_135.html",
+      "words": 22,
+      "chars": 121,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 131,
+      "prev": "brozovane_basne_134.html",
+      "next": "brozovane_basne_136.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tělesná láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třikrát o ňadrechaneb Pořádná báseň se musískládat do komínku",
+      "file": "brozovane_basne_136.html",
+      "words": 72,
+      "chars": 410,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 132,
+      "prev": "brozovane_basne_135.html",
+      "next": "brozovane_basne_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třikrát o ňadrechaneb Pořádná báseň se musískládat do komínku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlha je mlha je mlha",
+      "file": "brozovane_basne_137.html",
+      "words": 127,
+      "chars": 630,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 133,
+      "prev": "brozovane_basne_136.html",
+      "next": "brozovane_basne_138.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlha je mlha je mlha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sýčkování",
+      "file": "brozovane_basne_138.html",
+      "words": 41,
+      "chars": 198,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 134,
+      "prev": "brozovane_basne_137.html",
+      "next": "brozovane_basne_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sýčkování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chvála čtyřtaktního těla",
+      "file": "brozovane_basne_139.html",
+      "words": 72,
+      "chars": 355,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 135,
+      "prev": "brozovane_basne_138.html",
+      "next": "brozovane_basne_140.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chvála čtyřtaktního těla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kámasútra",
+      "file": "brozovane_basne_140.html",
+      "words": 52,
+      "chars": 254,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 136,
+      "prev": "brozovane_basne_139.html",
+      "next": "brozovane_basne_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kámasútra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O jednom emigrantovi",
+      "file": "brozovane_basne_141.html",
+      "words": 33,
+      "chars": 222,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 137,
+      "prev": "brozovane_basne_140.html",
+      "next": "brozovane_basne_142.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O jednom emigrantovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O mladičkém posunovači",
+      "file": "brozovane_basne_142.html",
+      "words": 81,
+      "chars": 447,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 138,
+      "prev": "brozovane_basne_141.html",
+      "next": "brozovane_basne_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O mladičkém posunovači",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O mladičké přadleně(Janu Zábranovi)",
+      "file": "brozovane_basne_143.html",
+      "words": 86,
+      "chars": 496,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 139,
+      "prev": "brozovane_basne_142.html",
+      "next": "brozovane_basne_144.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O mladičké přadleně(Janu Zábranovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Beerspective(Janu Lopatkovi)",
+      "file": "brozovane_basne_144.html",
+      "words": 67,
+      "chars": 426,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 140,
+      "prev": "brozovane_basne_143.html",
+      "next": "brozovane_basne_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Beerspective(Janu Lopatkovi)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Laskavá normalizace(Blance)",
+      "file": "brozovane_basne_145.html",
+      "words": 80,
+      "chars": 522,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 141,
+      "prev": "brozovane_basne_144.html",
+      "next": "brozovane_basne_146.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Laskavá normalizace(Blance)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "brozovane_basne_146.html",
+      "words": 69,
+      "chars": 471,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 142,
+      "prev": "brozovane_basne_145.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 146,
+      "chars": 940,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "brozovane_basne_146.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8716,
+      "chars": 48192,
+      "ideas": 1849
+    },
+    "chapters": {
+      "words": 8564,
+      "chars": 47218,
+      "ideas": 1827
+    }
+  }
+}

@@ -1,23 +1,23 @@
 ---
 title: Nekrolog pro křídlovku(Františku Hrubínovi in memoriam)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Do Lešan filmaři přivezli praktikáble  
+Do Lešan filmaři přivezli praktikáble  
 Křídlovka zněla z playbacku  
 A Romeo byl Kapulet a Julie z Monteků  
 A vůbec všechno klapalo… a náhle  
-Ticho… až kolem plotu mrzl rybíz_
+Ticho… až kolem plotu mrzl rybíz
 
 </section>
 
 <section>
 
-_Tak kámen včera hozený dnes spadne  
+Tak kámen včera hozený dnes spadne  
 A dabovat tvé dávné mlčení je snadné…  
 (Ale mně nepřísluší psát ti:  
-„Milý Františku kdybys…“)_
+„Milý Františku kdybys…“)
 
 </section>

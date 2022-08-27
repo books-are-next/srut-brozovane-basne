@@ -1,14 +1,14 @@
 ---
 title: Zavírací hodina
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Gramaticky vzato  
+Gramaticky vzato  
 Jsem dokonavý / nedokonavý / trvací  
 Sípaje hledám ozvěnu  
 Když jako ona navracím  
-Se jenom otloukáním o stěnu_
+Se jenom otloukáním o stěnu
 
 </section>

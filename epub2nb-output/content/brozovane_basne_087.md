@@ -1,28 +1,28 @@
 ---
 title: Golemův zákon
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V idyle pražských špeluněk a šenků  
+V idyle pražských špeluněk a šenků  
 Pomalu měkne… pár kapek citrónu  
-A vsrkla by ho langusta_
+A vsrkla by ho langusta
 
 </section>
 
 <section>
 
-_Jak při filmařském švenku  
+Jak při filmařském švenku  
 Kamero zastav se… Klapka!  
-A detail na ústa_
+A detail na ústa
 
 </section>
 
 <section>
 
-_Kde v děravém zubu všem  
+Kde v děravém zubu všem  
 Ukáže a pak spolkne  
-Šém_
+Šém
 
 </section>

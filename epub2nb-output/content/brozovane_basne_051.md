@@ -1,20 +1,20 @@
 ---
 title: Nevycházíš(Ivanu Wernischovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nevycházíš… co horšího  
+Nevycházíš… co horšího  
 Ani do nahodilých šenků  
 Ale jsi kýmsi čten i pochválen  
-Píšeš… za svými slovy schován_
+Píšeš… za svými slovy schován
 
 </section>
 
 <section>
 
-_Tiráž ti ryje na kámen  
-Biblický nakladatel Onan_
+Tiráž ti ryje na kámen  
+Biblický nakladatel Onan
 
 </section>

@@ -1,34 +1,34 @@
 ---
 title: "V\_neděli ránopivaři přicházejí(tradicionál pro Karla Nepraše)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Oholení  
+Oholení  
 Krotcí  
 Sirotci  
 Piva  
-Které pění_
+Které pění
 
 </section>
 
 <section>
 
-_Srazí hlavy  
+Srazí hlavy  
 U cecíku  
 Svorní  
 Ach pospolu  
-Bydlí_
+Bydlí
 
 </section>
 
 <section>
 
-_A ty hochu  
+A ty hochu  
 Pomni  
 Abys jim u stolu  
 Nezasedl  
-Židli_
+Židli
 
 </section>

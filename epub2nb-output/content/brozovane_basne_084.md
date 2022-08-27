@@ -1,21 +1,21 @@
 ---
 title: Levitace
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Někdo mne žene do samoty  
+Někdo mne žene do samoty  
 Jen tak mne nedohoní —  
 Hlupák jenž místo rysů obrysy  
-Má a místo ruky klacek!_
+Má a místo ruky klacek!
 
 </section>
 
 <section>
 
-_Před jeho očima  
+Před jeho očima  
 Vzlétnu když močím do mísy  
-V tu chvíli vyrvaný z pout gravitace…_
+V tu chvíli vyrvaný z pout gravitace…
 
 </section>

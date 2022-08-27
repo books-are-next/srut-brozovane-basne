@@ -1,6 +1,6 @@
 ---
 title: Do lesů(Zbyšku Sionovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -8,29 +8,33 @@ contentType: prose
 _„Woods are lovely,_ _dark and deep…“_  
 Robert Frost
 
-_Odejdi jinam  
+</section>
+
+<section>
+
+Odejdi jinam  
 Prchni odtud  
-Praha je dvůr nemocných králů_
+Praha je dvůr nemocných králů
 
 </section>
 
 <section>
 
-_Ty sklepní faune bez flautičky  
+Ty sklepní faune bez flautičky  
 A bez vany a bez kovralu  
 Se zarudlými víčky  
 A s korunním klenotem  
 Svého dřevěného jazyka  
 Odejdi jinam (do Poličky)  
 Kde psí víno se drží za plotem  
-A vlastní žízeň polyká_
+A vlastní žízeň polyká
 
 </section>
 
 <section>
 
-_Odejdi odtud  
+Odejdi odtud  
 Prchni jinam  
-Praha je dvůr žvanivého mima_
+Praha je dvůr žvanivého mima
 
 </section>

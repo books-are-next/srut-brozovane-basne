@@ -1,13 +1,13 @@
 ---
 title: Že
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Že tolikrát se divil volným veršem  
+Že tolikrát se divil volným veršem  
 že rybník opadává a zároveň kvete  
 že na břehu jeho čtyřiceti  
-ráno voní životem a večer smrdí smrtí…_
+ráno voní životem a večer smrdí smrtí…
 
 </section>

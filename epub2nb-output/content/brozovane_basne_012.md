@@ -1,23 +1,23 @@
 ---
 title: Před zrcadlem(Petrákovi Císařovskému, sochaři)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pověz mi zrcadlo: Kdo jsem?_
+Pověz mi zrcadlo: Kdo jsem?
 
 </section>
 
 <section>
 
-_Jsi víc než sochař!_
+Jsi víc než sochař!
 
 </section>
 
 <section>
 
-_Jsi torzo které poselství  
-na stroji vyťuká i nosem_
+Jsi torzo které poselství  
+na stroji vyťuká i nosem
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Básníci, věštci, hadačise propíjejí do tmy(Karolu Sidonovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zaboha nevím čí: samčí či samičí  
+Zaboha nevím čí: samčí či samičí  
 Semínka marijánky  
 Nám měla v cigaretě vyklíčit  
 A pouštět obrazy  
@@ -16,6 +16,6 @@ A ze tmy křísit slova
 Zaboha nevím proč nám bozi  
 Zatím pokaždé zalhali  
 A ty dál v orákulu koule zelí  
-Hledáš lineál věčné spirály_
+Hledáš lineál věčné spirály
 
 </section>

@@ -1,31 +1,31 @@
 ---
 title: Tesknice
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ej! Ráček drolí břeh  
+Ej! Ráček drolí břeh  
 A mně je do stesku  
 Že nesmím po čtyřech  
-Své milé na stezku_
+Své milé na stezku
 
 </section>
 
 <section>
 
-_Písničku’s uťala  
+Písničku’s uťala  
 Nemilá miláčku  
 Usychá píšťala  
-I tabák ve váčku_
+I tabák ve váčku
 
 </section>
 
 <section>
 
-_Ej moje píšťala  
+Ej moje píšťala  
 Miláčku nemilá!  
 Milá ji uťala  
-Nemilá pentlila_
+Nemilá pentlila
 
 </section>

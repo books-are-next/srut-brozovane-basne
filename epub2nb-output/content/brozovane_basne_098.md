@@ -1,11 +1,11 @@
 ---
 title: Studiosa Fausta bytnáse podivuje
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Třebaže na zapřenou  
+Třebaže na zapřenou  
 ten můj bejvává kučeravý  
 a já si vždycky přivstanu  
 abych mu dala na práh včas  
@@ -22,6 +22,6 @@ a zapřísahá se že nikdy neodejde
 tak jako jiní dveřmi  
 ale se podivuji zda bolesti  
 co při tom mám  
-jsou od průvanu —_
+jsou od průvanu —
 
 </section>

@@ -1,38 +1,38 @@
 ---
 title: "Příliš mnoho Jobůa\_jediný Nikolaj(imitován Nikolaj Stankovič U\_Svitáků)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na Boha žehrej  
-Radí Job Hebrej_
+Na Boha žehrej  
+Radí Job Hebrej
 
 </section>
 
 <section>
 
-_Boha se boj  
-Radí Job Goj_
+Boha se boj  
+Radí Job Goj
 
 </section>
 
 <section>
 
-_Na Boha plivni  
-Radí Job pivní_
+Na Boha plivni  
+Radí Job pivní
 
 </section>
 
 <section>
 
-_Když chceš Boha chval  
-Když chceš Bohu laj_
+Když chceš Boha chval  
+Když chceš Bohu laj
 
 </section>
 
 <section>
 
-_Radí Nikolaj_
+Radí Nikolaj
 
 </section>

@@ -1,38 +1,38 @@
 ---
 title: "Co pořád dělám? Ále…(sonet na citát z\_Tomáše)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Čekám co řeknou zvěrokruhy  
+Čekám co řeknou zvěrokruhy  
 Tak jako každý druhý  
 „Namísto skutků svých nabízím jejich obrazy“  
-Na režném kajícnickém plátně_
+Na režném kajícnickém plátně
 
 </section>
 
 <section>
 
-_A jinak mi nic neschází  
+A jinak mi nic neschází  
 A nežiji si špatně  
 Když noční tramvají se navracím  
-Nehořekuji nad jměním_
+Nehořekuji nad jměním
 
 </section>
 
 <section>
 
-_Jsem mladý soudný mám vlasy  
+Jsem mladý soudný mám vlasy  
 A o sobě své mínění  
-Neopírám se o dveře_
+Neopírám se o dveře
 
 </section>
 
 <section>
 
-_A postižené vedu na místa  
+A postižené vedu na místa  
 A vůbec cítím se jak v opeře:  
-V hrdle mám árii ale jsem sborista_
+V hrdle mám árii ale jsem sborista
 
 </section>

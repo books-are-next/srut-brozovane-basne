@@ -1,38 +1,38 @@
 ---
 title: Vězeň v něze
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jak jsme byli krotcí  
+Jak jsme byli krotcí  
 U maminky v kotci!  
 Já v předlouhých nocích  
-Hošík vškroben do cích_
+Hošík vškroben do cích
 
 </section>
 
 <section>
 
-_Doživotní vězeň  
+Doživotní vězeň  
 V pohlavcích a v něze  
 Já za taškou s proviantem  
-Kterou plnil strýček Dante…_
+Kterou plnil strýček Dante…
 
 </section>
 
 <section>
 
-_Jak vysoko zpíval skřivan  
+Jak vysoko zpíval skřivan  
 Jak Sulika zněla… tklivá…  
-Když šel vsí apoštol v koženém kabátě_
+Když šel vsí apoštol v koženém kabátě
 
 </section>
 
 <section>
 
-_Ba i ve snu přišel kat  
+Ba i ve snu přišel kat  
 Hlavičku jen polaskat:  
-Jako to jablíčko kutálela se po mlatě_
+Jako to jablíčko kutálela se po mlatě
 
 </section>

@@ -1,43 +1,43 @@
 ---
 title: Na útěku
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Za chvíli naloží horlivý popelář  
+Za chvíli naloží horlivý popelář  
 Pět švestek / peřiny / psací stroj / snář  
 Zažloutlé zrcadlo / bednu knih / holení  
-Tak už jsme před domem narychlo sbaleni_
+Tak už jsme před domem narychlo sbaleni
 
 </section>
 
 <section>
 
-_Teď pěkně potajmu  
+Teď pěkně potajmu  
 Zapřáhnu dřevěného koně  
 A v novém podnájmu  
-Zas nad majetkem skloněn_
+Zas nad majetkem skloněn
 
 </section>
 
 <section>
 
-_Vybalím peřiny / psací stroj / snář  
+Vybalím peřiny / psací stroj / snář  
 Zažloutlé zrcadlo / bednu knih / holení  
-Zadek dám peřinám / zrcadlu tvář_
+Zadek dám peřinám / zrcadlu tvář
 
 </section>
 
 <section>
 
-_Nad psacím strojem oddám se své lstivé zahálce_
+Nad psacím strojem oddám se své lstivé zahálce
 
 </section>
 
 <section>
 
-_Účty se hromadí ve žluté obálce  
-Co živ už nesplatím ale daň z prodlení_
+Účty se hromadí ve žluté obálce  
+Co živ už nesplatím ale daň z prodlení
 
 </section>

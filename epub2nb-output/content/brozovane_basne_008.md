@@ -1,6 +1,6 @@
 ---
 title: MALÁ DOMŮ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

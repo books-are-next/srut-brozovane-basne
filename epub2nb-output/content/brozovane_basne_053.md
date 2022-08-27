@@ -1,11 +1,11 @@
 ---
 title: What about Pilsen?(to Paul Wilson)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_What about Wilson?  
+What about Wilson?  
 Does he drink Pilsen  
 Or whisky VAT?  
 Certainly not  
@@ -14,6 +14,6 @@ Budweiser
 Only Canadian beer! Oh  
 What kind of a hero  
 Paul Wilson is  
-Drinking pure loneliness!_
+Drinking pure loneliness!
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Český rok
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ach jo  
+Ach jo  
 než se jaksepatří  
 rozjařím  
 je léto  
@@ -15,13 +15,13 @@ je podzim
 Ach jo  
 než se jaksepatří  
 opozdím  
-je zima_
+je zima
 
 </section>
 
 <section>
 
-_A všichni dělají  
-jako by se chumelilo_
+A všichni dělají  
+jako by se chumelilo
 
 </section>

@@ -1,23 +1,23 @@
 ---
 title: Epitaf(sobě)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zde leží ten  
+Zde leží ten  
 Co neužil pozemských statků  
 A nepřelez svůj vlastní plot  
 Zato však rád do zadku  
-Kopal se párem cizích bot_
+Kopal se párem cizích bot
 
 </section>
 
 <section>
 
-_Bylo to tak a nejináč:  
+Bylo to tak a nejináč:  
 On prázdnou slámu mlátil  
 U šenku kvetl zavináč  
-A rum mu život zkrátil_
+A rum mu život zkrátil
 
 </section>

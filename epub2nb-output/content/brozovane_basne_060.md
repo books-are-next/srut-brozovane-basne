@@ -1,49 +1,49 @@
 ---
 title: Bydlet!
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jen samá existence  
+Jen samá existence  
 A žádný pobyt  
 Zlá milá po vlásence  
-Sahá: už nesmíš zlobit!_
+Sahá: už nesmíš zlobit!
 
 </section>
 
 <section>
 
-_Zase jde jinam  
+Zase jde jinam  
 Přebývat  
 Já zatím línám  
-U piva_
+U piva
 
 </section>
 
 <section>
 
-_Stydnou mi končetiny  
+Stydnou mi končetiny  
 To je z těch cigaret  
 Od muže se chcou činy  
-A pokud možno hned_
+A pokud možno hned
 
 </section>
 
 <section>
 
-_Jen samá existence  
+Jen samá existence  
 A žádný pobyt  
 Písek se sype tence  
-A bez podoby_
+A bez podoby
 
 </section>
 
 <section>
 
-_To se chci radši schovat  
+To se chci radši schovat  
 A hnízdit v peřinách  
 Než takhle existovat  
-Rozkročmo v hodinách_
+Rozkročmo v hodinách
 
 </section>

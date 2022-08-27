@@ -1,35 +1,35 @@
 ---
 title: "U\_odvodu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_„Jste chlapík!“ řekli mi u odvodu  
+„Jste chlapík!“ řekli mi u odvodu  
 „Srdíčko máte jako Gagarin!“  
-Když v trenýrkách jsem vyběhl pár schodů_
+Když v trenýrkách jsem vyběhl pár schodů
 
 </section>
 
 <section>
 
-_(Umělý med a margarin  
+(Umělý med a margarin  
 Sice mi v dětství ubral sil  
-Rovnováhu však vyrovnal naštěstí rybí tuk)_
+Rovnováhu však vyrovnal naštěstí rybí tuk)
 
 </section>
 
 <section>
 
-_„Ale on píše básně!“ major utrousil  
+„Ale on píše básně!“ major utrousil  
 „Pero je taky zbraň!“ rozhodl politruk  
-A neadresně povzdychl si: „Kokoti…“_
+A neadresně povzdychl si: „Kokoti…“
 
 </section>
 
 <section>
 
-_(Dodneška vidím ho: byl droboučký a paťatý  
-Ale měl myšlenky které se snadno okotí —)_
+(Dodneška vidím ho: byl droboučký a paťatý  
+Ale měl myšlenky které se snadno okotí —)
 
 </section>

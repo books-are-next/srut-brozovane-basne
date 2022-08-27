@@ -1,22 +1,22 @@
 ---
 title: "Hádání z\_kávovésedliny a\_rumu(Tomáši Pěknému)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Našinci mnoho nezbývá…  
+Našinci mnoho nezbývá…  
 Být romantik:  
 (Káva a becherovka)  
 Či poloprďoch:  
-(Pivo a občas vodka)_
+(Pivo a občas vodka)
 
 </section>
 
 <section>
 
-_Ledaže třetí možností je  
+Ledaže třetí možností je  
 Důsledný zhoubný návyk  
-Pokorné ironie_
+Pokorné ironie
 
 </section>

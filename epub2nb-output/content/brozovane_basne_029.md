@@ -1,11 +1,11 @@
 ---
 title: Básník(Oldřichu Mikuláškovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Má v lenním právu ulici  
+Má v lenním právu ulici  
 Holí ji proklepává  
 A v chůzi zkouší číst  
 Dno z kruhů na hladině  
@@ -15,6 +15,6 @@ S podzimním stínem na plicích
 Má v lenním právu ulici  
 A ví když vbíhá autům pod kola  
 Že smrt města je lidská:  
-Čti k neupití pomalá…_
+Čti k neupití pomalá…
 
 </section>

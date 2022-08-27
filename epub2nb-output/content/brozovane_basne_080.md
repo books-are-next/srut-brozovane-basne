@@ -1,22 +1,22 @@
 ---
 title: Celé dny prší
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Léto je plné rzi a jako v Rusku  
+Léto je plné rzi a jako v Rusku  
 Refrén jenž zamlčen  
 Ozve se v písni ve verzi  
 Která je pořád stejně tklivá:  
-ČTO DĚLAŤ?_
+ČTO DĚLAŤ?
 
 </section>
 
 <section>
 
-_Odpšouknout láhvové a čekat  
+Odpšouknout láhvové a čekat  
 Osvobodivé říhnutí  
-Z nejhlubších útrob piva_
+Z nejhlubších útrob piva
 
 </section>

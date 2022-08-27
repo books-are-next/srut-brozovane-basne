@@ -1,38 +1,38 @@
 ---
 title: "O\_mladičké přadleně(Janu Zábranovi)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Proměněná v loutku  
+Proměněná v loutku  
 najednou ožije… jen pro tu chvíli  
 než nitkou kouře v Rudém koutku  
-chytí pavoučka… než do střepu_
+chytí pavoučka… než do střepu
 
 </section>
 
 <section>
 
-_zrcátka mrkne a honem zpátky poslepu  
+zrcátka mrkne a honem zpátky poslepu  
 číst úvodník z osnovy tkalcovského stavu:  
 nemyslí na nic… myslí si ať pukne  
-(mistr jenž v sále s temněrudým suknem_
+(mistr jenž v sále s temněrudým suknem
 
 </section>
 
 <section>
 
-_vyslídí u stropu viselce dýmu)  
+vyslídí u stropu viselce dýmu)  
 Neboť je léto v Rudém koutku  
-kam holka proměněná v loutku_
+kam holka proměněná v loutku
 
 </section>
 
 <section>
 
-_chodí na tajnou cigaretu  
+chodí na tajnou cigaretu  
 aniž by tušila co vy čtenáři pohádek už víte:  
-že překročení zákazu smiřuje pošetilost s mýtem_
+že překročení zákazu smiřuje pošetilost s mýtem
 
 </section>

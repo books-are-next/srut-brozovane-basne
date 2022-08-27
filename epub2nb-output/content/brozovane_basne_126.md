@@ -1,28 +1,28 @@
 ---
 title: Velká doba,malá potřeba
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ještě před sto lety  
+Ještě před sto lety  
 pevnými stehny  
 tiskl jsem slabiny  
-buď ženy nebo koně_
+buď ženy nebo koně
 
 </section>
 
 <section>
 
-_Teď už jsem trochu ušlý_
+Teď už jsem trochu ušlý
 
 </section>
 
 <section>
 
-_Pod tíhou doby  
+Pod tíhou doby  
 hrdě skloněn  
 pivními stehny  
-tisknu mušli_
+tisknu mušli
 
 </section>

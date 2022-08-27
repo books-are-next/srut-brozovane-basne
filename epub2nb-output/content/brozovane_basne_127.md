@@ -1,37 +1,37 @@
 ---
 title: Ti dva
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Co je k sobě poutá?_
+Co je k sobě poutá?
 
 </section>
 
 <section>
 
-_Právěže jen pouta  
+Právěže jen pouta  
 pasti slasti  
-tenata_
+tenata
 
 </section>
 
 <section>
 
-_Nevědí to  
-Ten a Ta_
+Nevědí to  
+Ten a Ta
 
 </section>
 
 <section>
 
-_A Bůh?_
+A Bůh?
 
 </section>
 
 <section>
 
-_Píše errata_
+Píše errata
 
 </section>

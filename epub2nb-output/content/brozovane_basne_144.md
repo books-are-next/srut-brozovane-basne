@@ -1,11 +1,11 @@
 ---
 title: Beerspective(Janu Lopatkovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Koncem léta začátkem sedmdesátých  
+Koncem léta začátkem sedmdesátých  
 nebo osmdesátých let  
 vyšel jsem z Brčálky  
 což je hostinec ve čtvrti zvané Josefov  
@@ -20,6 +20,6 @@ kde koncem léta
 začátkem sedmdesátých  
 nebo osmdesátých let  
 obrácená sklenice je triedr  
-kterým lze blízké vidět zdálky_
+kterým lze blízké vidět zdálky
 
 </section>

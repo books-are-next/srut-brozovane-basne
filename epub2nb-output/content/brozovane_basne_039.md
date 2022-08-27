@@ -1,6 +1,6 @@
 ---
 title: Malá óda na zadovku(Otovi Slavíkovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -12,17 +12,21 @@ mají přivodit jiné myšlenky…“_
 Volně citováno  
 z úvahy Jana Víta
 
-_Slavíci tloukli  
+</section>
+
+<section>
+
+Slavíci tloukli  
 Do zad  
 V tom každodenním shonu  
-Běda už netlukou!_
+Běda už netlukou!
 
 </section>
 
 <section>
 
-_Zadovky jsou kly  
+Zadovky jsou kly  
 Bílých slonů  
-Prodávané pod rukou…_
+Prodávané pod rukou…
 
 </section>

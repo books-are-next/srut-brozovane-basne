@@ -1,34 +1,34 @@
 ---
 title: P\. S\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Krápala ze střech krev  
+Krápala ze střech krev  
 To v akci Z: zabili poštolku  
-Zachytila se na římse_
+Zachytila se na římse
 
 </section>
 
 <section>
 
-_Pak nedovřeným oknem do bytu…  
+Pak nedovřeným oknem do bytu…  
 Nedotloukla se na stěnu  
-Ach tak: tak proto vrací se_
+Ach tak: tak proto vrací se
 
 </section>
 
 <section>
 
-_A jako post scriptum  
+A jako post scriptum  
 Nechala u nás ozvěnu:  
-Pár pírek (báseň) a podobnou veteš_
+Pár pírek (báseň) a podobnou veteš
 
 </section>
 
 <section>
 
-            _P. Š._
+            P. Š.
 
 </section>

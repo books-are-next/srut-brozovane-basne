@@ -1,497 +1,497 @@
 ---
 title: Zrození básníka:preambule
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Bude maso bude křen  
+Bude maso bude křen  
 Už se klubeš opeřen  
 Už ti hochu pleny žehlí  
 Brkem vízneš v břichu jehly  
 Už ti šijí rubášek  
 Házej stěnu na hrášek  
-Zpátky nelze: musíš ven_
+Zpátky nelze: musíš ven
 
 </section>
 
 <section>
 
-_Jonáš z jícnu vyvržen_
+Jonáš z jícnu vyvržen
 
 </section>
 
 <section>
 
-I.
+**I.**
 
-_Báseň umí jen glosovat…  
+Báseň umí jen glosovat…  
 Tvou rodovou ságu  
 Utrousí do lyrické vsuvky  
 Ale zkus před sebou ji uschovat:  
-Skřípne ti prsty do zásuvky_
+Skřípne ti prsty do zásuvky
 
 </section>
 
 <section>
 
-II.
+**II.**
 
-_Báseň tak jako příkoří  
+Báseň tak jako příkoří  
 Se v tobě ukládá a vrství  
 A právě tím že věří slovu příště  
-Nadobro nikdy nezmizí_
+Nadobro nikdy nezmizí
 
 </section>
 
 <section>
 
-_Stačí jen vybírat ji z tříště  
-Zcela soukromých kolizí_
+Stačí jen vybírat ji z tříště  
+Zcela soukromých kolizí
 
 </section>
 
 <section>
 
-III.
+**III.**
 
-_Chraň si báseň z tříštivého skla  
+Chraň si báseň z tříštivého skla  
 Co když ji pešek nemá rád  
 A nevykládej  
 Že jen tak z tebe vytryskla  
-Radši ji koukej sesbírat_
+Radši ji koukej sesbírat
 
 </section>
 
 <section>
 
-IV.
+**IV.**
 
-_Pamatuj:  
+Pamatuj:  
 Jsou stohy knih a jenom jedna báseň  
-A ti šťastní ji dědí_
+A ti šťastní ji dědí
 
 </section>
 
 <section>
 
-_Pozná se tím že jednou jedinou otázkou  
-Klade nesčetné odpovědi_
+Pozná se tím že jednou jedinou otázkou  
+Klade nesčetné odpovědi
 
 </section>
 
 <section>
 
-V.
+**V.**
 
-_To co o světě víš  
+To co o světě víš  
 Je román plný dat  
-Čtený na řetízkovém kolotoči_
+Čtený na řetízkovém kolotoči
 
 </section>
 
 <section>
 
-_S pokorou přijmi majestát  
-Svých vlastních očí_
+S pokorou přijmi majestát  
+Svých vlastních očí
 
 </section>
 
 <section>
 
-VI.
+**VI.**
 
-_Tak ty bys chtěl žít z renty?  
+Tak ty bys chtěl žít z renty?  
 A nosit bílé podkolenky?  
 Odkládat ruční papír na spinet?  
 Odlesky krbu chytat do číše?  
 A kdo za tebe bude Fatimě platit alimenty?  
 poplatky za zatoulané fenky?  
-A penále tvým básním za klišé?_
+A penále tvým básním za klišé?
 
 </section>
 
 <section>
 
-VII.
+**VII.**
 
-_Co se ti nabízí  
+Co se ti nabízí  
 Kliďánko propásni  
 Nauč se chodit o básni  
-Tak jako chromý o holi_
+Tak jako chromý o holi
 
 </section>
 
 <section>
 
-_Co je už stejně bylo  
-Co ještě nebylo to zabolí_
+Co je už stejně bylo  
+Co ještě nebylo to zabolí
 
 </section>
 
 <section>
 
-VIII.
+**VIII.**
 
-_Láska a smrt a báseň se nesmí uspěchat  
+Láska a smrt a báseň se nesmí uspěchat  
 Proč konat náhlé popravy?  
 Třebaže pozůstalí ten tvůj chvat  
 Nakonec pochopí a chorobopis opraví  
 Nesnaž se tajemství odhalit jaksi rázem:  
-Udrž si pokoru v pozvolné sebezkáze_
+Udrž si pokoru v pozvolné sebezkáze
 
 </section>
 
 <section>
 
-IX.
+**IX.**
 
-_Přemýšlej v noci o románu  
+Přemýšlej v noci o románu  
 Na střeše: ale k ránu  
 Dveřmi práskni  
 A jdi jí dělat zle a hůře  
 Své básni v hrsti  
 Dokud ti nevysedí  
 Jízlivé černé kuře  
-S elektrizující srstí_
+S elektrizující srstí
 
 </section>
 
 <section>
 
-X.
+**X.**
 
-_Každá z tvých jistot opevněných veršem  
+Každá z tvých jistot opevněných veršem  
 Musí mít nohsleda z tvých naopaků  
 Netvař se jako bys básní chtěl všem  
-Usmlouvat svůj kurs u veksláků_
+Usmlouvat svůj kurs u veksláků
 
 </section>
 
 <section>
 
-XI.
+**XI.**
 
-_„Vymknuta z kloubů doba šílí“  
+„Vymknuta z kloubů doba šílí“  
 Rýmaři máš jen notýsek  
 No dobře — co má být?  
 Navlékat básni drátěnou košili  
-Když si chce jít hrát na písek?_
+Když si chce jít hrát na písek?
 
 </section>
 
 <section>
 
-XII.
+**XII.**
 
-_Jen vdehuj smog a stárni:  
+Jen vdehuj smog a stárni:  
 Čím víc ho spolykáš tím lépe pro vnuky  
-A nešetři se pro příště_
+A nešetři se pro příště
 
 </section>
 
 <section>
 
-_Tvou řečí ať jsou zámlky  
-Každodenního tržiště_
+Tvou řečí ať jsou zámlky  
+Každodenního tržiště
 
 </section>
 
 <section>
 
-XIII.
+**XIII.**
 
-_Inspirace?  
+Inspirace?  
 Je býti připraven  
 Vdechovat nikotin  
 Mít namále  
 Být Kolumbem  
-Ve vlastním kumbále_
+Ve vlastním kumbále
 
 </section>
 
 <section>
 
-XIV.
+**XIV.**
 
-_Lepší je hladovět  
+Lepší je hladovět  
 Než přecpávat se  
-Roládou vznosných vět_
+Roládou vznosných vět
 
 </section>
 
 <section>
 
-_Buď Bohu chvála za chvíle  
+Buď Bohu chvála za chvíle  
 Kdy ke štěstí  
-Ti stačí guláš se šesti!_
+Ti stačí guláš se šesti!
 
 </section>
 
 <section>
 
-XV.
+**XV.**
 
-_Ty pištce holých vět  
+Ty pištce holých vět  
 Nic k tanci a nic pro poslech  
 Ty běžce krátkých tratí  
 Ode zdi ke zdi tam a zpět  
-Chyť svého sólokapra: druhý dech_
+Chyť svého sólokapra: druhý dech
 
 </section>
 
 <section>
 
-XVI.
+**XVI.**
 
-_Zkus sebe v sobě objevit  
+Zkus sebe v sobě objevit  
 A vykašli se na dojmy  
 Má-li tě báseň vyslovit  
-Nesmí se cítit jako rukojmí_
+Nesmí se cítit jako rukojmí
 
 </section>
 
 <section>
 
-XVII.
+**XVII.**
 
-_Nepiš moc studeně ba ani příliš horce  
+Nepiš moc studeně ba ani příliš horce  
 Už tím že zmarníš půlku života  
 Nad čtvrtkou papíru  
-Vzniká prokletá disproporce_
+Vzniká prokletá disproporce
 
 </section>
 
 <section>
 
-XVIII.
+**XVIII.**
 
-_Piš pravdu o sobě či vskutku o něčem  
+Piš pravdu o sobě či vskutku o něčem  
 Staneš se agentem básnické rozvědky  
 A po právu pak budeš usvědčen  
-Rýmy které si bereš za svědky_
+Rýmy které si bereš za svědky
 
 </section>
 
 <section>
 
-XIX.
+**XIX.**
 
-_Do háje s diplomacií!  
+Do háje s diplomacií!  
 Nechoď kolem horké kaše  
-Slůvek možná… avšak… nejspíše…_
+Slůvek možná… avšak… nejspíše…
 
 </section>
 
 <section>
 
-_Jsi rýmař a ne atašé  
-V rukavičkách z chřestýše_
+Jsi rýmař a ne atašé  
+V rukavičkách z chřestýše
 
 </section>
 
 <section>
 
-XX.
+**XX.**
 
-_Nepiš nikdy se zárukou  
+Nepiš nikdy se zárukou  
 Sám nad sebou žasni  
 Když konáš vivisekci na chroustu  
 Hrotem pera vlastní rukou  
 Pouštěj žilou básni  
-Ó dobrovolný dárče inkoustu_
+Ó dobrovolný dárče inkoustu
 
 </section>
 
 <section>
 
-XXI.
+**XXI.**
 
-_Ó rým a ryba smrdí od hlavy!  
+Ó rým a ryba smrdí od hlavy!  
 Proto jdi básni rovnou po krku  
 Neb nepoznáš ji po slovech  
-Leč po tichu jež v tobě zůstaví_
+Leč po tichu jež v tobě zůstaví
 
 </section>
 
 <section>
 
-XXII.
+**XXII.**
 
-_Nejsoukromější bolest učiň darem  
+Nejsoukromější bolest učiň darem  
 A když to dokážeš: zkus ji i zpeněžit  
 Krása už dávno má podnájem  
-Na jedné chodbě s ošklivostí_
+Na jedné chodbě s ošklivostí
 
 </section>
 
 <section>
 
-_Nuže neostýchej se napsat báseň na nežit  
-Ve jménu své bércové kosti_
+Nuže neostýchej se napsat báseň na nežit  
+Ve jménu své bércové kosti
 
 </section>
 
 <section>
 
-XXIII.
+**XXIII.**
 
-_Co poví dlouhá poéma vyvrátí jedno heslo  
+Co poví dlouhá poéma vyvrátí jedno heslo  
 Proto se neptej koho tvé listy ovlivní  
 Na loďce bez vesel se vesel a právě v ní  
-Piš vzdušné verše o zemljance_
+Piš vzdušné verše o zemljance
 
 </section>
 
 <section>
 
-_Však s nimi někdo přeplave svou Jang-ce_
+Však s nimi někdo přeplave svou Jang-ce
 
 </section>
 
 <section>
 
-XXIV.
+**XXIV.**
 
-_Není kam spěchat  
+Není kam spěchat  
 Není proč tužku slinit  
 Piš brožované básně  
 O vazbě  
 O sazbě  
-Pak rozhodnou jiní_
+Pak rozhodnou jiní
 
 </section>
 
 <section>
 
-XXV.
+**XXV.**
 
-_Neudivuj sečtělostí  
+Neudivuj sečtělostí  
 Nemlať v básni pantem  
 Kant se tebou neoháněl  
-Proč ty bys měl Kantem?_
+Proč ty bys měl Kantem?
 
 </section>
 
 <section>
 
-XXVI.
+**XXVI.**
 
-_Nepřipodobňuj k věci věc  
+Nepřipodobňuj k věci věc  
 To slůvko jako je tvá klec  
 A co se přirovnání týče věz:  
-Věc buďto je anebo není_
+Věc buďto je anebo není
 
 </section>
 
 <section>
 
-__Jako_ ji v jinou nepromění!_
+_Jako_ ji v jinou nepromění!
 
 </section>
 
 <section>
 
-XXVII.
+**XXVII.**
 
-_Netentočkuj  
+Netentočkuj  
 Pojmenovávej  
 Sloveso jde s každým  
 A každýho se chytí  
 Stačí ti přece jedno:  
-Býti_
+Býti
 
 </section>
 
 <section>
 
-XXVIII.
+**XXVIII.**
 
-_Neharmonizuj  
+Neharmonizuj  
 Hraješ sám se sebou  
 Takže nakonec budeš stejně obehrán  
 Proto ve víně hledej oblost  
-A v básni těš se z hran_
+A v básni těš se z hran
 
 </section>
 
 <section>
 
-XXIX.
+**XXIX.**
 
-_Lyriku  
+Lyriku  
 Utop slona v kbelíku  
 A ne včelu ve sklenici medu  
-Líp to asi říci nedovedu_
+Líp to asi říci nedovedu
 
 </section>
 
 <section>
 
-XXX.
+**XXX.**
 
-_Neboj se v básni banality  
+Neboj se v básni banality  
 Sám nejsi žádný unikát  
 Banálně střízlivý a banálně nalitý  
-Kam Gauguine chceš unikat?_
+Kam Gauguine chceš unikat?
 
 </section>
 
 <section>
 
-_Dej si znovu nalíti  
-To je tvoje Tahiti_
+Dej si znovu nalíti  
+To je tvoje Tahiti
 
 </section>
 
 <section>
 
-XXXI.
+**XXXI.**
 
-_Nedůvěřuj metafoře  
+Nedůvěřuj metafoře  
 Dá ti i když nechce  
 Vždyť deštník šicímu stroji  
 Se proboha podobá!  
 Ach jak snadná je sugesce:  
 Matky z ňader sunar kojí  
-Báseň není svoboda_
+Báseň není svoboda
 
 </section>
 
 <section>
 
-XXXII.
+**XXXII.**
 
-_Summa summarum netanči mezi vejci  
+Summa summarum netanči mezi vejci  
 Za to ti nikdo nezatleská  
 S tvrdohlavostí mezka  
 Veď si svou  
 Co když jsou i ta vejce dneska  
-Už kýmsi předvařená natvrdo?_
+Už kýmsi předvařená natvrdo?
 
 </section>
 
 <section>
 
-XXXIII.
+**XXXIII.**
 
-_Když je ti nejlíp opakuj si:  
+Když je ti nejlíp opakuj si:  
 V klínové pasti  
 Báseň mě hostí  
 Morkem z mé vlastní  
-Pištecké kosti_
+Pištecké kosti
 
 </section>
 
 <section>
 
-XXXIV.
+**XXXIV.**
 
-_A když je nejhůř opakuj si:  
+A když je nejhůř opakuj si:  
 Jsem básník  
 Vlevo nahoře v dásni  
 Kořen mám  
 O něj svůj jazyk brousím  
-A zanícení dentisté mne čtou si_
+A zanícení dentisté mne čtou si
 
 </section>

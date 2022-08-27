@@ -1,11 +1,11 @@
 ---
 title: Dechová cvičení
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Inu jste kuřák ale rád se od plic zasmějete  
+Inu jste kuřák ale rád se od plic zasmějete  
 Ovšem tím že se zasmějete donutíte zároveň  
 Plíce ke kašli  
 Což vaši ženu tuze zarmucuje  
@@ -18,14 +18,14 @@ Dechová cvičení
 Ovšem tím že je provádíte míváte občas sny  
 V nichž vás vaše žena dusívá polštářem  
 Inu jste kuřák ale probouzíte se vždy neudušený  
-A svým snům se vždy rád od plic zasmějete_
+A svým snům se vždy rád od plic zasmějete
 
 </section>
 
 <section>
 
-_P. S.  
+P. S.  
 Zkuste tuto báseň přečíst  
-na jedno nadechnutí_
+na jedno nadechnutí
 
 </section>

@@ -1,33 +1,33 @@
 ---
 title: Po dalším pohřbu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Oheň nás oddálil  
-a hlína nesblížila_
+Oheň nás oddálil  
+a hlína nesblížila
 
 </section>
 
 <section>
 
-_Byl nebyl  
-Nežila žila_
+Byl nebyl  
+Nežila žila
 
 </section>
 
 <section>
 
-_Mrtví jsou na čihadle  
+Mrtví jsou na čihadle  
 Čekají  
-Civí_
+Civí
 
 </section>
 
 <section>
 
-_Těžko je uspokojit  
-když jsou tak trpěliví_
+Těžko je uspokojit  
+když jsou tak trpěliví
 
 </section>

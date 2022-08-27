@@ -1,38 +1,38 @@
 ---
 title: "O\_mladičkém posunovači"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vlasatý posunovač na vlakůprostém nádraží  
+Vlasatý posunovač na vlakůprostém nádraží  
 čte Lassie se vrací  
 na tyhle bídný štaci  
-kde s černým vejcem v podpaží_
+kde s černým vejcem v podpaží
 
 </section>
 
 <section>
 
-_po šichtě sedá (osvěžovna Na růžku)  
+po šichtě sedá (osvěžovna Na růžku)  
 dokud si nevysedí plivníka  
 který mu připomene: Budíka  
-nařiď Karlovi a na noční vzbuď Marušku!_
+nařiď Karlovi a na noční vzbuď Marušku!
 
 </section>
 
 <section>
 
-_A jeho pistolka má šest desítek ráži  
+A jeho pistolka má šest desítek ráži  
 když jako Lassie se vrací  
-(domů) — na další bídnou štaci_
+(domů) — na další bídnou štaci
 
 </section>
 
 <section>
 
-_kde nikdo nikomu už nepřekáží  
+kde nikdo nikomu už nepřekáží  
 kde nikdo nikoho už nebere si za svědka  
-kde nikdo s nikým už se nesetká_
+kde nikdo s nikým už se nesetká
 
 </section>

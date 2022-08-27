@@ -1,36 +1,36 @@
 ---
 title: Kámasútra
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dnes dám si nohu za ucho  
+Dnes dám si nohu za ucho  
 poučen o rozkoši  
 a plynule a žádný chvat  
 vyměním svoji kůži hroší  
-za saténový duplikát_
+za saténový duplikát
 
 </section>
 
 <section>
 
-_A nepokazím  
+A nepokazím  
 kuřáckou záduchou  
 ten dlouhý strmý pád  
 do spánku  
 do terénu  
-který je bez okolí…_
+který je bez okolí…
 
 </section>
 
 <section>
 
-_Dnes dám si nohu za ucho  
+Dnes dám si nohu za ucho  
 a zapomenu  
 co  
 kde  
 a proč  
-mne bolí_
+mne bolí
 
 </section>

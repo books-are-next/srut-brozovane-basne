@@ -1,11 +1,11 @@
 ---
 title: Svobodné povolání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Čekaje příchod svého Anonyma  
+Čekaje příchod svého Anonyma  
 Svobodný jako dítě v plence  
 (Z obav před možnou luxací  
 Svázané matkou do kozelce)  
@@ -13,6 +13,6 @@ Svázané matkou do kozelce)
 Tj. obdaří záměrem vůlí jménem  
 (Zacházím bídně s tímto lénem)  
 A sejme ze mne okovy  
-Té mé svobodné existence_
+Té mé svobodné existence
 
 </section>

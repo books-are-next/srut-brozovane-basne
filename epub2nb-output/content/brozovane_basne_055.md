@@ -1,18 +1,18 @@
 ---
 title: Bůh je(citován střední knírač na Perštýně)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tam nahoře Bůh je: vím to díky psu uprostřed křižovatky  
+Tam nahoře Bůh je: vím to díky psu uprostřed křižovatky  
 Vzepřel se a vyl  
-Protože po týdnech svrbivého vedra déšť dštil na jeho tlapky_
+Protože po týdnech svrbivého vedra déšť dštil na jeho tlapky
 
 </section>
 
 <section>
 
-_Spíláním pes Ho oslovil_
+Spíláním pes Ho oslovil
 
 </section>

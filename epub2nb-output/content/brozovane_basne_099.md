@@ -1,45 +1,45 @@
 ---
 title: Galileova žena
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ze samé lásky raději zachová se podle  
-raději práskne dalekohled_
+Ze samé lásky raději zachová se podle  
+raději práskne dalekohled
 
 </section>
 
 <section>
 
-_Ne Galileo!_
+Ne Galileo!
 
 </section>
 
 <section>
 
-_Sama sesmolí udání a s bázní přiloží  
-ten zrádný předmět doličný_
+Sama sesmolí udání a s bázní přiloží  
+ten zrádný předmět doličný
 
 </section>
 
 <section>
 
-_Vždyť ten obcoval s Lunou  
+Vždyť ten obcoval s Lunou  
 ten tryjédr ten falus  
-který k nebi ční…_
+který k nebi ční…
 
 </section>
 
 <section>
 
-_Ne Galileo!_
+Ne Galileo!
 
 </section>
 
 <section>
 
-_Což podepsat i před koncilem může  
-svou vlastní krví měsíční_
+Což podepsat i před koncilem může  
+svou vlastní krví měsíční
 
 </section>

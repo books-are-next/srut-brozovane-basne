@@ -1,11 +1,11 @@
 ---
 title: "Casanovova v\_Duchcověutajená žena"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Doma mu všechno klape  
+Doma mu všechno klape  
 Ale už na měšťance  
 Cítil se jaksi lapen  
 S bibliotékářským platem  
@@ -13,6 +13,6 @@ S bibliotékářským platem
 Tráví čas v korunové válce  
 Před hracím automatem  
 Čekaje příslib do Benátek:  
-Jawohl Die Grosse Chance!_
+Jawohl Die Grosse Chance!
 
 </section>

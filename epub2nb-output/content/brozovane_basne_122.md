@@ -1,20 +1,20 @@
 ---
 title: Hostitel
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zase jsem noc a kousek rána promlčel  
+Zase jsem noc a kousek rána promlčel  
 Abych se ujistil že oblíben  
-Jsem na domácím bálu:_
+Jsem na domácím bálu:
 
 </section>
 
 <section>
 
-_Maitre ďhotel  
+Maitre ďhotel  
 Bez koncese a personálu  
-S úklonou vítám další den_
+S úklonou vítám další den
 
 </section>

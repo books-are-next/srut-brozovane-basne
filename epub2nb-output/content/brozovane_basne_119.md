@@ -1,32 +1,32 @@
 ---
 title: Což
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Co je to škapulíř? Co škorně?  
-Co stratégie? Co détente?_
+Co je to škapulíř? Co škorně?  
+Co stratégie? Co détente?
 
 </section>
 
 <section>
 
-_Což žíti šťastně třebas provizorně  
-Což býtí pamětník byť diletant?_
+Což žíti šťastně třebas provizorně  
+Což býtí pamětník byť diletant?
 
 </section>
 
 <section>
 
-_Což přibíti na obě křídla dveří podkovy  
-A vydati se na túru?_
+Což přibíti na obě křídla dveří podkovy  
+A vydati se na túru?
 
 </section>
 
 <section>
 
-_Což dech zpomalen a tep nitkový  
-Padnouti v náruč futuru?_
+Což dech zpomalen a tep nitkový  
+Padnouti v náruč futuru?
 
 </section>

@@ -1,20 +1,20 @@
 ---
 title: Pozdní návraty
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Proč mi kladeš za vinu  
+Proč mi kladeš za vinu  
 Můj pozdní návrat z pivnice  
 Vyčítajíc mi svoji angínu  
-Své mandle jako vejce?_
+Své mandle jako vejce?
 
 </section>
 
 <section>
 
-_I šenk měl čepy zanícené!  
-Těžko to vysvětlit ženě…_
+I šenk měl čepy zanícené!  
+Těžko to vysvětlit ženě…
 
 </section>

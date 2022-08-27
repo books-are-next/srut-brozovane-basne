@@ -1,11 +1,11 @@
 ---
 title: "V\_domácnosti"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdybych se jak se říká  
+Kdybych se jak se říká  
 Též i já dostal k lizu  
 A u všech dveří klika  
 Byla by mé vízum  
@@ -16,6 +16,6 @@ Ba tvrdí že já! stíním
 A přerušil bych styky hned  
 S tzv. vnitřní emigrací  
 Jež beztak vízne: šutýrek  
-V hrdélku hodin přesýpacích!_
+V hrdélku hodin přesýpacích!
 
 </section>

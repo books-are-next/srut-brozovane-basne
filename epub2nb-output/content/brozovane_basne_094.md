@@ -1,38 +1,38 @@
 ---
 title: Adamova žena
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Procitla vprostřed rajské zeleně  
+Procitla vprostřed rajské zeleně  
 když had jí podal taj. přís. dův.  
-zprávu kde stálo cosi proti Adamovi_
+zprávu kde stálo cosi proti Adamovi
 
 </section>
 
 <section>
 
-_Z lásky a strachu z jistých míst  
+Z lásky a strachu z jistých míst  
 spálila téhož rána Adamův  
-fíkový list_
+fíkový list
 
 </section>
 
 <section>
 
-_(Obsahoval jen nečitelné poznámky  
+(Obsahoval jen nečitelné poznámky  
 o počasí  
-a monogamní lásce_
+a monogamní lásce
 
 </section>
 
 <section>
 
-_plus školáckou studii jablka  
+plus školáckou studii jablka  
 s anatomickou kresbou ohryzku  
 kterou A.  
 z pochopitelných příčin nemínil  
-uvolnit ještě do tisku)_
+uvolnit ještě do tisku)
 
 </section>
