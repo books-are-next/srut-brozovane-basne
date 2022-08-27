@@ -1,13 +1,13 @@
 ---
 title: Brnkání na brdo
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_dneska sotva  
+dneska sotva  
 nejspíš včera  
 zítřek už byl  
-etcetera_
+etcetera
 
 </section>

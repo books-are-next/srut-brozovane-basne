@@ -1,20 +1,20 @@
 ---
 title: Ráno
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je plné bledých žen  
+Je plné bledých žen  
 a plné smutku v nich  
-těch spolehlivých tenat_
+těch spolehlivých tenat
 
 </section>
 
 <section>
 
-_příběhů do nichž pohroužen  
+příběhů do nichž pohroužen  
 je básník  
-je-li ženat_
+je-li ženat
 
 </section>

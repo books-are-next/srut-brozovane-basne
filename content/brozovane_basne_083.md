@@ -1,29 +1,29 @@
 ---
 title: Dvojník
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdepak mám asi dvojníka?  
+Kdepak mám asi dvojníka?  
 V Santa Fé? V Reykjaviku?  
 A zda místo mne utíká  
 Do sypkých kopců pro protěž  
-Jednoho totožného okamžiku?_
+Jednoho totožného okamžiku?
 
 </section>
 
 <section>
 
-_Je-li sám na jednoho: na sebe  
+Je-li sám na jednoho: na sebe  
 Proti tak strašné přesile  
-Tak jako já v tom čase rozdrobeném na chvíle_
+Tak jako já v tom čase rozdrobeném na chvíle
 
 </section>
 
 <section>
 
-_Kdopak se za nás oba zhostí  
-Údělu vlastní totožnosti?_
+Kdopak se za nás oba zhostí  
+Údělu vlastní totožnosti?
 
 </section>

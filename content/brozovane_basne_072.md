@@ -1,11 +1,11 @@
 ---
 title: Černá zabíjačka:1952
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pára stoupá z necek  
+Pára stoupá z necek  
 To se to rýmuje  
 Čuník ani necek  
 To se to rýmuje  
@@ -20,6 +20,6 @@ To se to rýmuje
 Tomu nedá tomu dá  
 To se to rýmuje  
 Komu nedá ten udá  
-Kde domov můj?_
+Kde domov můj?
 
 </section>

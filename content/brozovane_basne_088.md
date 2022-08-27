@@ -1,23 +1,23 @@
 ---
 title: Archimedův zákon
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tak přece a právě dneska Archimede  
+Tak přece a právě dneska Archimede  
 Je ti 40 a za oknem máš pažitku  
 A ještě dál školní dvorek přede  
-A ještě blíž křečová žíla štěká na lýtku_
+A ještě blíž křečová žíla štěká na lýtku
 
 </section>
 
 <section>
 
-_Tak přece ale proč právě dneska bezvěrče  
+Tak přece ale proč právě dneska bezvěrče  
 Na písku ječí přestárlé holky z osmičky  
 A střílejíce vleže do terče  
-Ruší tvé kruhy… zešišacené do smyčky?_
+Ruší tvé kruhy… zešišacené do smyčky?
 
 </section>
 

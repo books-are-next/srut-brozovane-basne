@@ -1,11 +1,11 @@
 ---
 title: Pražský žalm(Karlu Šiktancovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Do javorových desek ukládáš své tisky  
+Do javorových desek ukládáš své tisky  
 A já se bojím že mne stihne boží hněv  
 Za svatokrádež plisky  
 Kterou jsi míval ve své ředitelně…  
@@ -19,6 +19,6 @@ A smyje jejich krákoravou hanbu
 Či aspoň sleví na podmínku  
 Když řeknou: „Já jsem někdo jiný“?  
 A my? Žalobu stáhne náš vesnický pámbů  
-A vyhostí nás do pražštiny?!_
+A vyhostí nás do pražštiny?!
 
 </section>

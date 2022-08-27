@@ -1,6 +1,6 @@
 ---
 title: SAMOVAR
-contentType: prose
+contentType: poetry
 ---
 
 <section>

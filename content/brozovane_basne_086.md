@@ -1,11 +1,11 @@
 ---
 title: Stará písnička:gellneriana
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ó jak já bych emigroval!  
+Ó jak já bych emigroval!  
 Někam nedaleko do vsi  
 Černou kvočnou jako vejce  
 Lstivě skryté v kopcích  
@@ -16,6 +16,6 @@ Pohled smutná výpravčí
 Neb nechci jít kde je moře  
 Chci jen zvědět čím jsem svůj  
 Chci vidět když nechce hořet  
-Aspoň čadit vlastní hnůj_
+Aspoň čadit vlastní hnůj
 
 </section>

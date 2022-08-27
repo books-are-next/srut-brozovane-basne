@@ -1,20 +1,20 @@
 ---
 title: Mléčná dráha(Miloslavu Topinkovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jakou ve hvězdách vidíš naději  
+Jakou ve hvězdách vidíš naději  
 Když nic nezkysne snadněji  
-Než ješitnost: to mléko odstavenců?_
+Než ješitnost: to mléko odstavenců?
 
 </section>
 
 <section>
 
-_A ty dál do vesmírné tlamy hltavé a pokojné  
+A ty dál do vesmírné tlamy hltavé a pokojné  
 Vysíláš šifru za šifrou na nula nula MHz:  
-„Básník touží po kojné!“_
+„Básník touží po kojné!“
 
 </section>

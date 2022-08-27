@@ -1,39 +1,39 @@
 ---
 title: "A\_vy si nepoložíte otázku"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A vy si nepoložíte otázku  
+A vy si nepoložíte otázku  
 Proč tento křičící racek  
 Zdánlivě nikdy nespí?  
 A vy si nepoložíte otázku  
 Proč máte s vaší paní  
 Tak naprosto rozdílná  
-Do sebe zapadající a osamělá těla?_
+Do sebe zapadající a osamělá těla?
 
 </section>
 
 <section>
 
-_A vy si nepoložíte otázku  
+A vy si nepoložíte otázku  
 Proč napadal černý sníh  
-A tato stařena tlačí ulicí kočárek pro panenku?_
+A tato stařena tlačí ulicí kočárek pro panenku?
 
 </section>
 
 <section>
 
-_A vy si nepoložíte otázku  
+A vy si nepoložíte otázku  
 Proč v kočárku hýčká bláznivé  
-Porcelánové dítě?_
+Porcelánové dítě?
 
 </section>
 
 <section>
 
-_A vy si nepoložíte otázku  
+A vy si nepoložíte otázku  
 Proč černý sníh mrazem okoral  
 A jiná stařena tlačí ulicí  
 Kočárek pro panenku?  
@@ -42,6 +42,6 @@ Proč v kočárku hýčká brikety
 Posbírané u chodníku?  
 A vy si nepoložíte otázku  
 Proč tento křičící racek  
-Zdánlivě nikdy nespí?_
+Zdánlivě nikdy nespí?
 
 </section>

@@ -1,41 +1,41 @@
 ---
 title: "Jaro s\_rozpomínkouna T\\. S\\. Eliota"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zase je jaro  
-mí sešitoví kamarádi_
+Zase je jaro  
+mí sešitoví kamarádi
 
 </section>
 
 <section>
 
-_Ale nám ohanbí  
-už nikdo neostříhá dohola!_
+Ale nám ohanbí  
+už nikdo neostříhá dohola!
 
 </section>
 
 <section>
 
-_Zdá se že mrtvola  
+Zdá se že mrtvola  
 kterou jsme v zimě zasadili  
 v téhle pusté zemi zase  
-letos nevypučí_
+letos nevypučí
 
 </section>
 
 <section>
 
-_Ale už vytrčují kolena  
-děvčata přes třicet_
+Ale už vytrčují kolena  
+děvčata přes třicet
 
 </section>
 
 <section>
 
-_Česká krajina schoulená  
-Čas přijice_
+Česká krajina schoulená  
+Čas přijice
 
 </section>

@@ -1,32 +1,32 @@
 ---
 title: Kentaur
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nádherně jsem se probudil:  
-Vyskočím z postele a mám dva páry kopyt!_
+Nádherně jsem se probudil:  
+Vyskočím z postele a mám dva páry kopyt!
 
 </section>
 
 <section>
 
-_Odhodlán všeho starého  
-Nechat a všeho nového se chopit_
+Odhodlán všeho starého  
+Nechat a všeho nového se chopit
 
 </section>
 
 <section>
 
-_Začínám orat vláčet sít a sklízet daktylem  
-Uznání čtená z očí Pegase:_
+Začínám orat vláčet sít a sklízet daktylem  
+Uznání čtená z očí Pegase:
 
 </section>
 
 <section>
 
-_V zrcadle podoben jsa kobyle  
-Poznávám se jen po hlase_
+V zrcadle podoben jsa kobyle  
+Poznávám se jen po hlase
 
 </section>

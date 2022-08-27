@@ -1,6 +1,6 @@
 ---
 title: "Třikrát o\_ňadrechaneb Pořádná báseň se musískládat do komínku"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,11 +11,11 @@ _Výhrůžka:_
 
 <section>
 
-_Se neopovažuj o mě třít  
+Se neopovažuj o mě třít  
 Mi rybí hlavu nasazovat  
 Se ve dlouhých teskných  
 Ňadrech více neopovažuj  
-Se neopovažuj mě zábsti_
+Se neopovažuj mě zábsti
 
 </section>
 
@@ -27,10 +27,10 @@ _Obava:_
 
 <section>
 
-_Svlíkni si mě do ponožek  
+Svlíkni si mě do ponožek  
 Rozsviť ňadry a nezhasni  
 Tvé zrcadlo má osm nožek  
-Přisouká se potmě mě sní_
+Přisouká se potmě mě sní
 
 </section>
 
@@ -42,9 +42,9 @@ _Kompliment:_
 
 <section>
 
-_Vám madam raděj složím věnce  
+Vám madam raděj složím věnce  
 Než na hrob Neznámého vojína  
 Na ty dva růvky v podprsence  
-Které psí víno stesku popíná_
+Které psí víno stesku popíná
 
 </section>

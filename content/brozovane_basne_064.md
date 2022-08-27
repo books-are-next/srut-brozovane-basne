@@ -1,32 +1,32 @@
 ---
 title: Všelijak
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Už týdny je mi všelijak  
-A příčím se všem pravidlům_
+Už týdny je mi všelijak  
+A příčím se všem pravidlům
 
 </section>
 
 <section>
 
-_Jen tím se liším od mravence:  
-Nikdy jsem ženě nepostavil dům_
+Jen tím se liším od mravence:  
+Nikdy jsem ženě nepostavil dům
 
 </section>
 
 <section>
 
-_Už týdny je mi všelijak  
-A v kusadlech mi chybí kyselina_
+Už týdny je mi všelijak  
+A v kusadlech mi chybí kyselina
 
 </section>
 
 <section>
 
-_Jen tím se liším od mravence  
-Když trámek slámy vzpíná_
+Jen tím se liším od mravence  
+Když trámek slámy vzpíná
 
 </section>

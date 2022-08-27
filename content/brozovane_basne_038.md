@@ -1,11 +1,11 @@
 ---
 title: Ale co zahrada?(Janu Skácelovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ano: pták sedne na větev  
+Ano: pták sedne na větev  
 A tím rozhoupe zahrádku…  
 Ale co ona (málem zahrada)  
 Která má mořskou nemoc z úradku  
@@ -15,6 +15,6 @@ Co je jí po tom… zpěváčku
 O tmu když se smráká  
 Že slyšíš šepot rzi  
 Co je jí po tom? (málem zahradě)  
-Která tak nerada se probouzí?_
+Která tak nerada se probouzí?
 
 </section>

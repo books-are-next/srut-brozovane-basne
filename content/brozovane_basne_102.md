@@ -1,24 +1,24 @@
 ---
 title: "Hry o\_život(po přečtení stejnojmenného spiskudr\\. Jitky Schánilcové)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Prý dělával jsem kdysi cosi…  
+Prý dělával jsem kdysi cosi…  
 Nevím: nepamatuji se  
 Nejspíš jsem domů v kapsách nosil  
 Svým andělům ke zlosti  
-Na vlastní sochu písek_
+Na vlastní sochu písek
 
 </section>
 
 <section>
 
-_Prý bydlíval jsem kdysi kdesi…  
+Prý bydlíval jsem kdysi kdesi…  
 Nevím: začínám přivykat  
 Životu bez adresy  
 A k vyprchané noční opilosti  
-Poránu sháním duplikát_
+Poránu sháním duplikát
 
 </section>

@@ -1,18 +1,18 @@
 ---
 title: Milostná noc
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Podívejme jak ty vlaky duní  
-slyšme jak se ta tma snáší_
+Podívejme jak ty vlaky duní  
+slyšme jak se ta tma snáší
 
 </section>
 
 <section>
 
-_Noci je pěkně v novoluní:  
-tu marnost den už nezaplaší!_
+Noci je pěkně v novoluní:  
+tu marnost den už nezaplaší!
 
 </section>

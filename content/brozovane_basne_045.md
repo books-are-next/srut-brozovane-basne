@@ -1,6 +1,6 @@
 ---
 title: "Slovo o\_Pluku pražských dětí(Janu Šafránkovi a\_kamarádům ve vídeňské emigraci)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,7 +11,7 @@ _L. P. 1683 Pluk pražských dětí a Písecký pluk pod velením stařičkého
 
 <section>
 
-_Historie je orloj který hodináře  
+Historie je orloj který hodináře  
 Za cípek pláště vtáhne do soukolí  
 A zůstane jen ticho nebo nářek  
 Flašinetářské repete…  
@@ -20,6 +20,6 @@ V níž kromě valčíku nic nekvete?
 Zahoďte prázdnou polní pražské děti  
 Počkejte dalších tři sta let  
 Emigrujte svým českým holkám do objetí  
-Tancujte dupák (nebo třasák) ne však menuet!_
+Tancujte dupák (nebo třasák) ne však menuet!
 
 </section>

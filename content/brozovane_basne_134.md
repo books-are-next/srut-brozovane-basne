@@ -1,14 +1,14 @@
 ---
 title: Milostná
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ležíš jako neživá  
+Ležíš jako neživá  
 V té krajině za lží  
 Tvé vypouklé zrcátko  
-Mým dechem se zamží_
+Mým dechem se zamží
 
 </section>
 

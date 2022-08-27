@@ -1,38 +1,38 @@
 ---
 title: "Sonet o\_józe"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Baba Jóga u nás obchází a straší  
+Baba Jóga u nás obchází a straší  
 I strážkyně mých vnitřností  
 Mne každé ráno něžně  
-Cpe ovesnou kaší_
+Cpe ovesnou kaší
 
 </section>
 
 <section>
 
-_Obvykle mne však spíše postí  
+Obvykle mne však spíše postí  
 Ba jakýmsi vhodným zaklíněním  
 Mne jednou u pelesti  
-Dokonce postavila na hlavu_
+Dokonce postavila na hlavu
 
 </section>
 
 <section>
 
-_Čas plynul jinak  
+Čas plynul jinak  
 Ale řešení v tom není  
-Lásko a strážkyně mé polohy_
+Lásko a strážkyně mé polohy
 
 </section>
 
 <section>
 
-_Jakýmsi vhodným zaklíněním  
+Jakýmsi vhodným zaklíněním  
 Ó kdybys jednou dokázala  
-Postavit svého pána na nohy!_
+Postavit svého pána na nohy!
 
 </section>

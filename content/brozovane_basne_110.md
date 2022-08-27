@@ -1,27 +1,27 @@
 ---
 title: Tělo
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jde s tebou na pohřeb kamaráda  
+Jde s tebou na pohřeb kamaráda  
 i na milostné lože  
-a nějak zařídí že všechno je jen „kvázi“_
+a nějak zařídí že všechno je jen „kvázi“
 
 </section>
 
 <section>
 
-_třpyt sněhu i třpyt nože  
+třpyt sněhu i třpyt nože  
 zármutek naprostý i radost veliká  
-a čirá naděje i čiré obavy_
+a čirá naděje i čiré obavy
 
 </section>
 
 <section>
 
-_vše tvoje tělo rozžvýká a zapije a spolyká  
-a pak tě k smrti unaví_
+vše tvoje tělo rozžvýká a zapije a spolyká  
+a pak tě k smrti unaví
 
 </section>

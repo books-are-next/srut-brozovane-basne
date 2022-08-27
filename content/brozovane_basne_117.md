@@ -1,27 +1,27 @@
 ---
 title: Míjení
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Prý spisuji jen stížnosti…  
-A já myslel že rozesmívám Joba!_
+Prý spisuji jen stížnosti…  
+A já myslel že rozesmívám Joba!
 
 </section>
 
 <section>
 
-_Co se dá dělat? Jeden  
+Co se dá dělat? Jeden  
 Míjí se s dobou s druhým doba  
 A já jako svůj synek občas  
-Míjím se dokonce i s vlastní chůzí_
+Míjím se dokonce i s vlastní chůzí
 
 </section>
 
 <section>
 
-_Když zapomenu se a hopsa hejsa  
-Poskočím nejsa na popruzích_
+Když zapomenu se a hopsa hejsa  
+Poskočím nejsa na popruzích
 
 </section>

@@ -1,27 +1,27 @@
 ---
 title: Jsi prázdnem obklopen(Rudovi Němcovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsi prázdnem obklopen  
+Jsi prázdnem obklopen  
 Tak veď už ze zvyku  
-Svou modrou samomluvu_
+Svou modrou samomluvu
 
 </section>
 
 <section>
 
-_(Včera se sedávalo s Medkem…  
-A malíř jako Bůh huláká jenom do prostoru…)_
+(Včera se sedávalo s Medkem…  
+A malíř jako Bůh huláká jenom do prostoru…)
 
 </section>
 
 <section>
 
-_Však i kdybys měl dvanáct jazyků  
+Však i kdybys měl dvanáct jazyků  
 Nepři se s rozumem: s tím zmetkem  
-Který je se srdcem věčně u dědického sporu_
+Který je se srdcem věčně u dědického sporu
 
 </section>

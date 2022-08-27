@@ -1,29 +1,29 @@
 ---
 title: Žehnám ti proutkaři!(Václavu Vrbovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V pustinách noční Prahy  
+V pustinách noční Prahy  
 Nikdo tak jistě víno nenašel  
 A pokud byla voda v něm  
 Tak jako ty  
-Ji nikdo slovem nepřemostil..._
+Ji nikdo slovem nepřemostil...
 
 </section>
 
 <section>
 
-_Udržuj proutek pod tlakem!  
+Udržuj proutek pod tlakem!  
 Jinak skončíš polapen  
-V pohodlné nijakosti…_
+V pohodlné nijakosti…
 
 </section>
 
 <section>
 
-_Ne nadarmo prý Papin  
-Pascala rád z hrnce hostil!_
+Ne nadarmo prý Papin  
+Pascala rád z hrnce hostil!
 
 </section>

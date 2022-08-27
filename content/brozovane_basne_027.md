@@ -1,20 +1,20 @@
 ---
 title: "Jednou jsem vyblejsknul tě v\_pivoňkách(mamince)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Maminko proč se tak zatvrzele ráda těšíš?  
+Maminko proč se tak zatvrzele ráda těšíš?  
 A proč se nikdy na nic neptáš… ba spíše  
-Raději vezmeš zavděk tzv. pars pro toto?_
+Raději vezmeš zavděk tzv. pars pro toto?
 
 </section>
 
 <section>
 
-_Jednou jsem  
+Jednou jsem  
 Viz výše…  
-Ach maminko proč dodneška těšíš se na to foto?!_
+Ach maminko proč dodneška těšíš se na to foto?!
 
 </section>

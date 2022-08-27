@@ -1,26 +1,26 @@
 ---
 title: "O\_jednom emigrantovi"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na každém snímku vyšel trochu neostře:  
-spolužák mezi spolužáky_
+Na každém snímku vyšel trochu neostře:  
+spolužák mezi spolužáky
 
 </section>
 
 <section>
 
-_než pod balkánským sluncem mávl deštníkem  
-Adieu via Terst!_
+než pod balkánským sluncem mávl deštníkem  
+Adieu via Terst!
 
 </section>
 
 <section>
 
-_Spolužák mezi spolužáky:  
+Spolužák mezi spolužáky:  
 už měří knedlíkem  
-krajanskou trasu pár set austrijských verst_
+krajanskou trasu pár set austrijských verst
 
 </section>

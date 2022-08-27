@@ -1,38 +1,38 @@
 ---
 title: Krysař
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_„Táhni pryč od hodovního stolu  
+„Táhni pryč od hodovního stolu  
 A neočumuj kolem našich sklepů  
 Necourej tady mantl plný molů  
-A pletichářskou píšťalu zlom vejpůl_
+A pletichářskou píšťalu zlom vejpůl
 
 </section>
 
 <section>
 
-_Nepucuj šosem u našich domů kliku  
+Nepucuj šosem u našich domů kliku  
 Hladovku masu na protest  
 Do světa vytrub vyzáblíku  
-Nás nezmate tvá licoměrná lest_
+Nás nezmate tvá licoměrná lest
 
 </section>
 
 <section>
 
-_Nehledej smysl v našem konání či v řeči  
+Nehledej smysl v našem konání či v řeči  
 Nesnaž se zlákat naše děti  
-Uhni deratizovaným pověstem!“_
+Uhni deratizovaným pověstem!“
 
 </section>
 
 <section>
 
-_A krysař poslechl a klečí  
+A krysař poslechl a klečí  
 Pískaje dírou v zubech po paměti  
-Gotické skládce za městem_
+Gotické skládce za městem
 
 </section>

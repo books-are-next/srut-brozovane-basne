@@ -1,11 +1,11 @@
 ---
 title: Prostřední ze sesterBrontëových píše dopis(Rudolfu Matysovi)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Příteli básníku!  
+Příteli básníku!  
 Ne nesahejte na kliku  
 U mocných hodinářů srdce  
 Snažně Vás prosím můj milý  
@@ -13,12 +13,12 @@ Nechte si staré šelesty
 Svá slova… šero… styl…  
 Své srdce s překlepy i omyly  
 A denně poduste je na cibulce  
-Tak jako na Větrné hůrce_
+Tak jako na Větrné hůrce
 
 </section>
 
 <section>
 
-            _Vaše oddaná Emily_
+            Vaše oddaná Emily
 
 </section>

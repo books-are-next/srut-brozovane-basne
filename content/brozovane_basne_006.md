@@ -1,6 +1,6 @@
 ---
 title: "DOMÁCÍ ŘÁD\_"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

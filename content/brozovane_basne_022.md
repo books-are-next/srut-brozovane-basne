@@ -1,32 +1,32 @@
 ---
 title: "Tak na tvou žádost o\_sobě(Petru Kabešovi)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Potkáváme se jenom míjením:  
+Potkáváme se jenom míjením:  
 Ty tkvěl jsi na oběžných drahách  
 Trval na přesném znění  
 Svých stále stejných kaleval  
 A já měnil své podoby  
-Tak jako desátý hráč v nonetu_
+Tak jako desátý hráč v nonetu
 
 </section>
 
 <section>
 
-_Tvé růžové a modré období  
+Tvé růžové a modré období  
 Tvůj mladší paleolit fernetu  
 Jsem potkal zastavil se minul a šel dál  
 I v době setí měl jsem jaksi po žních  
-Obcházeje své ženy jako polnosti_
+Obcházeje své ženy jako polnosti
 
 </section>
 
 <section>
 
-_A všude sklizeno a žádné stížnosti  
-Takže vždy zbývalo_
+A všude sklizeno a žádné stížnosti  
+Takže vždy zbývalo
 
 </section>

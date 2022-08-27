@@ -1,11 +1,11 @@
 ---
 title: Pes jitrničku sežral
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdoví jak k tomu došlo: asi  
+Kdoví jak k tomu došlo: asi  
 Ti moji vrstevníci jsou jaksi vzdělanější  
 A znají svět  
 A zároveň jsou zdejší  
@@ -20,6 +20,6 @@ Neb vědí co a jak
 Kdoví jak k tomu došlo: asi  
 Ti moji vrstevníci jsou jaksi vzdělanější  
 A znají svět  
-A zároveň jsou zdejší_
+A zároveň jsou zdejší
 
 </section>

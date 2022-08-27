@@ -1,24 +1,24 @@
 ---
 title: Slibuji(níže jmenovanému býv\. tajemníkubytového družstva Mansarda)
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slibuji:  
+Slibuji:  
 Až budu míti otoman  
 A voltairovský ušák  
 Řeknu si Bohu o román  
-Tak jako Jiří Gruša_
+Tak jako Jiří Gruša
 
 </section>
 
 <section>
 
-_Až budu míti dva plus jedna  
+Až budu míti dva plus jedna  
 Na dveřích visitečku vlastní  
 Slibuji:  
 Skončí má existence bědná  
-A poměr s jistou básní_
+A poměr s jistou básní
 
 </section>
