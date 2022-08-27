@@ -23,7 +23,7 @@
       "br": "",
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*\nMLP_VERSE_-0-12-_CITAT",
-      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "blockquote": "MLP_dopis_bez1radku\nMLP_dopis_bez1radku_-I-\nMLP_dopis_podpis_-I-",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*\nMLP_VERSE_-0-12-_CITAT",
@@ -2924,6 +2924,6 @@
       "user": "books-are-next",
       "repo": "srut-brozovane-basne"
     },
-    "generatedAt": 1661595457169
+    "generatedAt": 1661597056508
   }
 }
