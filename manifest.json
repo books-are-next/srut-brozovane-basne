@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-brozovane-basne-7a0d53a",
-  "revision": "7a0d53a",
+  "identifier": "srut-brozovane-basne-20b7a65",
+  "revision": "20b7a65",
   "readingOrder": [
     "promo.html",
     "brozovane_basne_005.html",
@@ -157,8 +157,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:05:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924714342
+    "date": "Fri Oct 07 2022 13:50:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150629629
   },
   "documents": [
     {
