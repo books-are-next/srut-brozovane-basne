@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-brozovane-basne-20b7a65",
-  "revision": "20b7a65",
+  "identifier": "srut-brozovane-basne-803468c",
+  "revision": "803468c",
   "readingOrder": [
     "promo.html",
     "brozovane_basne_005.html",
@@ -157,8 +157,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:50:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150629629
+    "date": "Mon Oct 10 2022 15:42:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416524729
   },
   "documents": [
     {
@@ -3017,7 +3017,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 940,
+      "chars": 941,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -3037,7 +3037,7 @@
   "totals": {
     "all": {
       "words": 8713,
-      "chars": 48192,
+      "chars": 48193,
       "ideas": 1846
     },
     "chapters": {
